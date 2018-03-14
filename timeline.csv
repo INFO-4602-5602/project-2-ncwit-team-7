@@ -1,0 +1,2906 @@
+record_id,major,degree,school,school_year,female_new_enrollment,female_total_graduated
+3728,Computer Science,Bachelor's,101,2004-2005,,
+3729,Computer Science,Bachelor's,101,2005-2006,,
+3730,Computer Science,Bachelor's,101,2006-2007,,
+3731,Computer Science,Bachelor's,101,2007-2008,,
+3732,Computer Science,Bachelor's,101,2008-2009,,
+3733,Computer Science,Bachelor's,101,2009-2010,,
+3734,Computer Science,Bachelor's,101,2010-2011,,
+3735,Computer Science,Bachelor's,101,2011-2012,,
+4704,Computer Science,Bachelor's,104,2015-2016,,
+4441,Computer Science,Bachelor's,105,2015-2016,,
+2466,Information Technology,Bachelor's,109,2005-2006,,
+2467,Information Technology,Bachelor's,109,2006-2007,,
+2468,Information Technology,Bachelor's,109,2007-2008,,
+2469,Information Technology,Bachelor's,109,2008-2009,,
+2470,Information Technology,Bachelor's,109,2009-2010,,
+2471,Information Technology,Bachelor's,109,2010-2011,,
+2472,Information Technology,Bachelor's,109,2011-2012,,
+2473,Information Technology,Bachelor's,109,2010-2011,,
+2474,Information Technology,Bachelor's,109,2011-2012,,
+2458,Computer Science,Bachelor's,109,2004-2005,,
+2459,Computer Science,Bachelor's,109,2005-2006,,
+2460,Computer Science,Bachelor's,109,2006-2007,,
+2461,Computer Science,Bachelor's,109,2007-2008,,
+2462,Computer Science,Bachelor's,109,2008-2009,,
+2463,Computer Science,Bachelor's,109,2009-2010,,
+2464,Computer Science,Bachelor's,109,2010-2011,,
+2465,Computer Science,Bachelor's,109,2011-2012,,
+4598,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,110,2009-2010,28,4
+4599,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,110,2010-2011,15,9
+4600,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,110,2011-2012,30,10
+4601,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,110,2012-2013,29,11
+4602,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,110,2013-2014,39,16
+4603,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,110,2014-2015,7,10
+4881,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,110,2015-2016,9,21
+4985,Computer Science,Bachelor's,110,2006-2007,,
+4986,Computer Science,Bachelor's,110,2007-2008,,
+4987,Computer Science,Bachelor's,110,2008-2009,,
+4988,Computer Science,Bachelor's,110,2009-2010,,
+4989,Computer Science,Bachelor's,110,2010-2011,,
+4990,Computer Science,Bachelor's,110,2011-2012,,
+4991,Computer Science,Bachelor's,110,2012-2013,,
+4992,Computer Science,Bachelor's,110,2013-2014,,
+4993,Computer Science,Bachelor's,110,2014-2015,,
+4994,Computer Science,Bachelor's,110,2015-2016,,
+4590,Electrical and Computer Engineering,Bachelor's,110,2009-2010,28,11
+4591,Electrical and Computer Engineering,Bachelor's,110,2010-2011,34,13
+4592,Electrical and Computer Engineering,Bachelor's,110,2011-2012,46,12
+4593,Electrical and Computer Engineering,Bachelor's,110,2012-2013,49,13
+4594,Electrical and Computer Engineering,Bachelor's,110,2013-2014,44,21
+4595,Electrical and Computer Engineering,Bachelor's,110,2014-2015,8,23
+4882,Electrical and Computer Engineering,Bachelor's,110,2015-2016,8,28
+4975,Electrical Engineering,Bachelor's,110,2006-2007,,
+4976,Electrical Engineering,Bachelor's,110,2007-2008,,
+4977,Electrical Engineering,Bachelor's,110,2008-2009,,
+4978,Electrical Engineering,Bachelor's,110,2009-2010,,
+4979,Electrical Engineering,Bachelor's,110,2010-2011,,
+4980,Electrical Engineering,Bachelor's,110,2011-2012,,
+4981,Electrical Engineering,Bachelor's,110,2012-2013,,
+4982,Electrical Engineering,Bachelor's,110,2013-2014,,
+4983,Electrical Engineering,Bachelor's,110,2014-2015,,
+4984,Electrical Engineering,Bachelor's,110,2015-2016,,
+4577,Mechanical Engineering,Bachelor's,110,2009-2010,47,22
+4578,Mechanical Engineering,Bachelor's,110,2010-2011,43,26
+4579,Mechanical Engineering,Bachelor's,110,2011-2012,42,25
+4580,Mechanical Engineering,Bachelor's,110,2012-2013,43,33
+4581,Mechanical Engineering,Bachelor's,110,2013-2014,46,28
+4582,Mechanical Engineering,Bachelor's,110,2014-2015,2,40
+4884,Mechanical Engineering,Bachelor's,110,2015-2016,1,28
+4949,Mechanical Engineering,Associate's,110,2006-2007,,
+4950,Mechanical Engineering,Bachelor's,110,2007-2008,,
+4951,Mechanical Engineering,Bachelor's,110,2008-2009,,
+4995,Manufacturing Engineering ,Bachelor's,110,2015-2016,,
+4584,Engineering Technology,Bachelor's,110,2009-2010,21,38
+4585,Engineering Technology,Bachelor's,110,2010-2011,7,50
+4586,Engineering Technology,Bachelor's,110,2011-2012,10,36
+4587,Engineering Technology,Bachelor's,110,2012-2013,14,25
+4588,Engineering Technology,Bachelor's,110,2013-2014,13,27
+4589,Engineering Technology,Bachelor's,110,2014-2015,3,36
+4883,Engineering Technology,Bachelor's,110,2015-2016,9,32
+4962,Engineering Technology,Bachelor's,110,2013-2014,,
+4963,Engineering Technology,Bachelor's,110,2014-2015,,
+4964,Engineering Technology,Bachelor's,110,2015-2016,,
+4965,Engineering Technology,Bachelor's,110,2006-2007,,
+4966,Engineering Technology,Bachelor's,110,2007-2008,,
+4967,Engineering Technology,Bachelor's,110,2008-2009,,
+4968,Engineering Technology,Bachelor's,110,2009-2010,,
+4969,Engineering Technology,Bachelor's,110,2010-2011,,
+4970,Engineering Technology,Bachelor's,110,2011-2012,,
+4971,Engineering Technology,Bachelor's,110,2012-2013,,
+4972,Engineering Technology,Bachelor's,110,2013-2014,,
+4973,Engineering Technology,Bachelor's,110,2014-2015,,
+4974,Engineering Technology,Bachelor's,110,2015-2016,,
+4952,Industrial Distribution,Bachelor's,110,2006-2007,,
+4953,Industrial Distribution,Bachelor's,110,2007-2008,,
+4954,Industrial Distribution,Bachelor's,110,2008-2009,,
+4955,Industrial Distribution,Bachelor's,110,2009-2010,,
+4956,Industrial Distribution,Bachelor's,110,2010-2011,,
+4957,Industrial Distribution,Bachelor's,110,2011-2012,,
+4958,Industrial Distribution,Bachelor's,110,2012-2013,,
+4959,Industrial Distribution,Bachelor's,110,2013-2014,,
+4960,Industrial Distribution,Bachelor's,110,2014-2015,,
+4961,Industrial Distribution,Bachelor's,110,2015-2016,,
+3366,Management Information Systems,Bachelor's,110,2004-2005,,
+3367,Management Information Systems,Bachelor's,110,2005-2006,,
+3368,Management Information Systems,Bachelor's,110,2006-2007,,
+3369,Management Information Systems,Bachelor's,110,2007-2008,,
+3370,Management Information Systems,Bachelor's,110,2008-2009,,
+3371,Management Information Systems,Bachelor's,110,2009-2010,,
+3372,Management Information Systems,Bachelor's,110,2010-2011,,
+3373,Management Information Systems,Bachelor's,110,2011-2012,,
+4317,Management Information Systems,Bachelor's,110,2015-2016,,
+4946,Management Information Systems,Bachelor's,110,2012-2013,,
+4947,Management Information Systems,Bachelor's,110,2013-2014,,
+4948,Management Information Systems,Bachelor's,110,2014-2015,,
+2305,Computer Science + X,Bachelor's,112,2004-2005,,
+2306,Computer Science + X,Bachelor's,112,2005-2006,,
+2307,Computer Science + X,Bachelor's,112,2006-2007,,
+2308,Computer Science + X,Bachelor's,112,2007-2008,,
+2309,Computer Science + X,Bachelor's,112,2008-2009,,
+2310,Computer Science + X,Bachelor's,112,2009-2010,,
+2311,Computer Science + X,Bachelor's,112,2010-2011,,
+2312,Computer Science + X,Bachelor's,112,2011-2012,11,5
+5266,Computer Science + X,Bachelor's,112,2012-2013,14,4
+5267,Computer Science + X,Bachelor's,112,2013-2014,30,12
+5268,Computer Science + X,Bachelor's,112,2014-2015,39,11
+5269,Computer Science + X,Bachelor's,112,2015-2016,45,14
+1287,Bioinformatics,Bachelor's,114,2008-2009,2,3
+1301,Mathematics and Computer Science,Bachelor's,114,2008-2009,2,0
+1288,Bioinformatics,Bachelor's,114,2009-2010,4,3
+1293,Computer Science,Bachelor's,114,2008-2009,1,0
+2814,Software Development,Bachelor's,114,2006-2007,,
+1294,Information Technology,Bachelor's,114,2006-2007,1,0
+1295,Information Technology,Bachelor's,114,2007-2008,1,0
+1296,Information Technology,Bachelor's,114,2008-2009,1,0
+2793,Information,Bachelor's,114,2005-2006,,
+2797,Information,Bachelor's,114,2009-2010,,
+2798,Information,Bachelor's,114,2010-2011,,
+2799,Information,Bachelor's,114,2011-2012,,
+1300,Mathematics and Computer Science,Bachelor's,114,2007-2008,1,0
+2805,Mathematics and Computer Science,Bachelor's,114,2009-2010,,
+2806,Mathematics and Computer Science,Bachelor's,114,2010-2011,,
+2807,Mathematics and Computer Science,Bachelor's,114,2011-2012,,
+2808,Computer Science &,Bachelor's,114,2004-2005,,
+2809,Computer Science &,Bachelor's,114,2007-2008,,
+2810,Computer Science &,Bachelor's,114,2008-2009,,
+2811,Computer Science &,Bachelor's,114,2009-2010,,
+2812,Computer Science &,Bachelor's,114,2010-2011,,
+2813,Computer Science &,Bachelor's,114,2011-2012,,
+1289,Computer Science,Bachelor's,114,2004-2005,4,3
+1290,Computer Science,Bachelor's,114,2005-2006,3,0
+1291,Computer Science,Bachelor's,114,2006-2007,1,3
+1292,Computer Science,Bachelor's,114,2007-2008,4,1
+1297,Computer Science,Bachelor's,114,2004-2005,,2
+1298,Computer Science,Bachelor's,114,2005-2006,2,0
+1299,Computer Science,Bachelor's,114,2006-2007,3,0
+2790,Computer Science,Bachelor's,114,2009-2010,,
+2791,Computer Science,Bachelor's,114,2010-2011,,
+2792,Computer Science,Bachelor's,114,2011-2012,,
+2778,Information Assurance/Cybersecurity,Bachelor's,114,2005-2006,,
+2779,Information Assurance/Cybersecurity,Bachelor's,114,2006-2007,,
+2780,Information Assurance/Cybersecurity,Bachelor's,114,2007-2008,,
+2781,Information Assurance/Cybersecurity,Bachelor's,114,2008-2009,,
+2782,Information Assurance/Cybersecurity,Bachelor's,114,2009-2010,,
+2783,Information Assurance/Cybersecurity,Bachelor's,114,2010-2011,,
+2784,Information Assurance/Cybersecurity,Bachelor's,114,2011-2012,,
+2815,Software Development,Bachelor's,114,2007-2008,,
+2816,Software Development,Bachelor's,114,2008-2009,,
+2817,Software Development,Bachelor's,114,2009-2010,,
+2818,Software Development,Bachelor's,114,2010-2011,,
+2819,Software Development,Bachelor's,114,2011-2012,,
+1285,Bioinformatics,Bachelor's,114,2006-2007,2,0
+1286,Bioinformatics,Bachelor's,114,2007-2008,2,0
+2776,Bioinformatics,Bachelor's,114,2010-2011,,
+2777,Bioinformatics,Bachelor's,114,2011-2012,,
+4217,Computer Science,Bachelor's,115,2014-2015,27,
+4212,Aerospace Engineering,Bachelor's,115,2014-2015,17,
+4216,Computer Science,Bachelor's,115,2013-2014,11,
+4220,Computer Engineering,Bachelor's,115,2012-2013,8,
+4210,Aerospace Engineering,Bachelor's,115,2012-2013,12,
+4211,Aerospace Engineering,Bachelor's,115,2013-2014,9,
+4208,Aerospace Engineering,Bachelor's,115,2010-2011,15,
+4214,Computer Science,Bachelor's,115,2011-2012,7,
+4209,Aerospace Engineering,Bachelor's,115,2011-2012,7,
+4219,Computer Engineering,Bachelor's,115,2011-2012,9,
+4221,Computer Engineering,Bachelor's,115,2013-2014,7,
+4218,Computer Engineering,Bachelor's,115,2010-2011,5,
+4215,Computer Science,Bachelor's,115,2012-2013,13,
+4213,Computer Science,Bachelor's,115,2010-2011,17,
+4222,Computer Engineering,Bachelor's,115,2014-2015,2,
+5081,Computer Science,Bachelor's,115,2015-2016,,
+5080,Computer Engineering,Bachelor's,115,2015-2016,,
+4762,Computer Science,Bachelor's,116,2015-2016,,
+4763,Management Information Systems,Bachelor's,116,2015-2016,,
+1979,Information Technology,Bachelor's,117,2013-2014,3,
+2030,Information Technology,Bachelor's,117,2014-2015,4,
+4767,Informatics,Bachelor's,117,2014-2015,,0
+1952,Computer Science,Bachelor's,117,2007-2008,14,6
+1953,Computer Science,Bachelor's,117,2008-2009,11,5
+1954,Computer Science,Bachelor's,117,2009-2010,19,4
+1955,Computer Science,Bachelor's,117,2010-2011,17,5
+1956,Computer Science,Bachelor's,117,2011-2012,15,8
+1957,Computer Science,Bachelor's,117,2012-2013,43,13
+1958,Computer Science,Bachelor's,117,2013-2014,40,9
+2036,Computer Science,Bachelor's,117,2014-2015,68,24
+1966,Software Engineering,Bachelor's,117,2011-2012,4,
+1967,Software Engineering,Bachelor's,117,2012-2013,5,
+1968,Software Engineering,Bachelor's,117,2013-2014,7,
+2029,Software Engineering,Bachelor's,117,2014-2015,7,3
+1971,Electrical Engineering,Bachelor's,117,2007-2008,11,14
+1972,Electrical Engineering,Bachelor's,117,2008-2009,19,13
+1973,Electrical Engineering,Bachelor's,117,2009-2010,17,10
+1974,Electrical Engineering,Bachelor's,117,2010-2011,37,15
+1975,Electrical Engineering,Bachelor's,117,2011-2012,30,10
+1976,Electrical Engineering,Bachelor's,117,2012-2013,34,7
+1977,Electrical Engineering,Bachelor's,117,2013-2014,24,16
+2033,Electrical Engineering,Bachelor's,117,2014-2015,27,
+1959,Computer Systems Engineering,Bachelor's,117,2007-2008,11,3
+1960,Computer Systems Engineering,Bachelor's,117,2008-2009,5,5
+1961,Computer Systems Engineering,Bachelor's,117,2009-2010,9,9
+1962,Computer Systems Engineering,Bachelor's,117,2010-2011,13,5
+1963,Computer Systems Engineering,Bachelor's,117,2011-2012,12,4
+1964,Computer Systems Engineering,Bachelor's,117,2012-2013,10,2
+1965,Computer Systems Engineering,Bachelor's,117,2013-2014,11,3
+2032,Computer Systems Engineering,Bachelor's,117,2014-2015,12,7
+4808,Management Information Systems,Bachelor's,120,2013-2014,8,16
+4809,Management Information Systems,Bachelor's,120,2014-2015,9,10
+4805,Management Information Systems,Bachelor's,120,2011-2012,10,0
+4806,Management Information Systems,Bachelor's,120,2012-2013,12,21
+3471,Computer Science,Bachelor's,121,2004-2005,,
+3472,Computer Science,Bachelor's,121,2005-2006,,
+3473,Computer Science,Bachelor's,121,2006-2007,,
+3474,Computer Science,Bachelor's,121,2007-2008,,
+3475,Computer Science,Bachelor's,121,2008-2009,,
+3476,Computer Science,Bachelor's,121,2009-2010,,
+3477,Computer Science,Bachelor's,121,2010-2011,,
+3478,Computer Science,Bachelor's,121,2011-2012,,
+5008,Computer Science,Bachelor's,121,2012-2013,,
+5009,Computer Science,Bachelor's,121,2013-2014,,
+5010,Computer Science,Bachelor's,121,2014-2015,,
+5011,Computer Science,Bachelor's,121,2015-2016,,
+4575,Computer Science,Bachelor's,122,2014-2015,,
+4824,"Electrical, Electronics and Communications Engineering",Bachelor's,123,2011-2012,3,6
+4822,"Electrical, Electronics and Communications Engineering",Bachelor's,123,2013-2014,3,1
+4821,"Electrical, Electronics and Communications Engineering",Bachelor's,123,2014-2015,8,3
+5264,"Electrical, Electronics and Communications Engineering",Bachelor's,123,2015-2016,14,2
+4823,"Electrical, Electronics and Communications Engineering",Bachelor's,123,2012-2013,6,6
+4825,"Electrical, Electronics and Communications Engineering",Bachelor's,123,2010-2011,1,6
+5265,"Electrical, Electronics and Communications Engineering",Bachelor's,123,2016-2017,,
+3894,Computer Science,Bachelor's,124,2004-2005,,
+3895,Computer Science,Bachelor's,124,2005-2006,,
+3896,Computer Science,Bachelor's,124,2006-2007,,
+3897,Computer Science,Bachelor's,124,2007-2008,,
+3898,Computer Science,Bachelor's,124,2008-2009,,
+3899,Computer Science,Bachelor's,124,2009-2010,,
+3900,Computer Science,Bachelor's,124,2010-2011,,
+3901,Computer Science,Bachelor's,124,2011-2012,,
+2436,Computer Science,Bachelor's,127,2004-2005,,
+2437,Computer Science,Bachelor's,127,2005-2006,,
+2438,Computer Science,Bachelor's,127,2006-2007,,
+2439,Computer Science,Bachelor's,127,2007-2008,,
+2440,Computer Science,Bachelor's,127,2008-2009,,
+2441,Computer Science,Bachelor's,127,2009-2010,,
+2442,Computer Science,Bachelor's,127,2010-2011,,
+2443,Computer Science,Bachelor's,127,2011-2012,,
+2052,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,128,2013-2014,15,10
+4386,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,128,2014-2015,24,4
+2051,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,128,2012-2013,13,4
+2049,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,128,2010-2011,9,7
+2050,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,128,2011-2012,15,3
+1498,Computer Science / Engineering,Bachelor's,128,2004-2005,9,0
+1499,Computer Science / Engineering,Bachelor's,128,2005-2006,6,9
+1500,Computer Science / Engineering,Bachelor's,128,2006-2007,7,4
+1501,Computer Science / Engineering,Bachelor's,128,2007-2008,1,10
+1502,Computer Science / Engineering,Bachelor's,128,2008-2009,5,2
+1503,Computer Science / Engineering,Bachelor's,128,2009-2010,17,2
+1549,Computer Information Systems,Bachelor's,13,2003-2004,8,
+1550,Computer Information Systems,Bachelor's,13,2004-2005,11,
+1551,Computer Information Systems,Bachelor's,13,2005-2006,8,
+1552,Computer Information Systems,Bachelor's,13,2006-2007,7,
+1553,Computer Information Systems,Bachelor's,13,2007-2008,8,
+1554,Computer Information Systems,Bachelor's,13,2008-2009,11,10
+1555,Computer Information Systems,Bachelor's,13,2009-2010,14,6
+1556,Computer Information Systems,Bachelor's,13,2010-2011,11,8
+1557,Computer Information Systems,Bachelor's,13,2011-2012,20,10
+1558,Computer Information Systems,Bachelor's,13,2012-2013,8,10
+1559,Computer Information Systems,Bachelor's,13,2013-2014,11,
+1516,Computer Science,Bachelor's,13,2003-2004,14,
+1517,Computer Science,Bachelor's,13,2004-2005,14,
+1518,Computer Science,Bachelor's,13,2005-2006,15,
+1519,Computer Science,Bachelor's,13,2006-2007,19,
+1520,Computer Science,Bachelor's,13,2007-2008,17,
+1521,Computer Science,Bachelor's,13,2008-2009,30,3
+1522,Computer Science,Bachelor's,13,2009-2010,21,6
+1523,Computer Science,Bachelor's,13,2010-2011,25,8
+1524,Computer Science,Bachelor's,13,2011-2012,22,8
+1525,Computer Science,Bachelor's,13,2012-2013,29,11
+4398,Computer Science,Bachelor's,13,2013-2014,,29
+4399,Computer Science,Bachelor's,13,2014-2015,,34
+1505,Computer Engineering,Bachelor's,13,2003-2004,3,
+1506,Computer Engineering,Bachelor's,13,2004-2005,0,
+1507,Computer Engineering,Bachelor's,13,2005-2006,4,
+1508,Computer Engineering,Bachelor's,13,2006-2007,5,
+1509,Computer Engineering,Bachelor's,13,2007-2008,4,
+1510,Computer Engineering,Bachelor's,13,2008-2009,11,0
+1511,Computer Engineering,Bachelor's,13,2009-2010,9,0
+1512,Computer Engineering,Bachelor's,13,2010-2011,9,1
+1513,Computer Engineering,Bachelor's,13,2011-2012,7,4
+1514,Computer Engineering,Bachelor's,13,2012-2013,6,1
+1515,Computer Engineering,Bachelor's,13,2013-2014,7,
+1527,Electrical Engineering,Bachelor's,13,2003-2004,4,
+1528,Electrical Engineering,Bachelor's,13,2004-2005,6,
+1529,Electrical Engineering,Bachelor's,13,2005-2006,2,
+1530,Electrical Engineering,Bachelor's,13,2006-2007,3,
+1531,Electrical Engineering,Bachelor's,13,2007-2008,4,
+1532,Electrical Engineering,Bachelor's,13,2008-2009,7,1
+1533,Electrical Engineering,Bachelor's,13,2009-2010,9,2
+1534,Electrical Engineering,Bachelor's,13,2010-2011,7,3
+1535,Electrical Engineering,Bachelor's,13,2011-2012,4,5
+1536,Electrical Engineering,Bachelor's,13,2012-2013,3,2
+1537,Electrical Engineering,Bachelor's,13,2013-2014,7,
+1538,Mechanical Engineering,Bachelor's,13,2003-2004,9,
+1539,Mechanical Engineering,Bachelor's,13,2004-2005,15,
+1540,Mechanical Engineering,Bachelor's,13,2005-2006,18,
+1541,Mechanical Engineering,Bachelor's,13,2006-2007,13,
+1542,Mechanical Engineering,Bachelor's,13,2007-2008,8,
+1543,Mechanical Engineering,Bachelor's,13,2008-2009,15,9
+1544,Mechanical Engineering,Bachelor's,13,2009-2010,15,9
+1545,Mechanical Engineering,Bachelor's,13,2010-2011,13,6
+1546,Mechanical Engineering,Bachelor's,13,2011-2012,17,10
+1547,Mechanical Engineering,Bachelor's,13,2012-2013,9,6
+1548,Mechanical Engineering,Bachelor's,13,2013-2014,15,
+1560,Systems Engineering,Bachelor's,13,2008-2009,3,0
+1561,Systems Engineering,Bachelor's,13,2009-2010,4,0
+1562,Systems Engineering,Bachelor's,13,2010-2011,4,1
+1563,Systems Engineering,Bachelor's,13,2011-2012,2,3
+1564,Systems Engineering,Bachelor's,13,2012-2013,8,5
+1565,Systems Engineering,Bachelor's,13,2013-2014,4,
+1625,Computer Science,Bachelor's,131,2004-2005,7,5
+1626,Computer Science,Bachelor's,131,2005-2006,12,8
+1627,Computer Science,Bachelor's,131,2006-2007,13,7
+1628,Computer Science,Bachelor's,131,2007-2008,7,10
+1629,Computer Science,Bachelor's,131,2008-2009,11,
+1630,Computer Science,Bachelor's,131,2010-2011,11,9
+1622,Computer Science (BA),Bachelor's,131,2006-2007,3,0
+1623,Computer Science (BA),Bachelor's,131,2007-2008,6,1
+1624,Computer Science (BA),Bachelor's,131,2008-2009,10,0
+3423,Computer Science,Bachelor's,133,2004-2005,,
+3424,Computer Science,Bachelor's,133,2005-2006,,
+3425,Computer Science,Bachelor's,133,2006-2007,,
+3426,Computer Science,Bachelor's,133,2007-2008,,
+3427,Computer Science,Bachelor's,133,2008-2009,,
+3428,Computer Science,Bachelor's,133,2009-2010,,
+3429,Computer Science,Bachelor's,133,2010-2011,,
+3430,Computer Science,Bachelor's,133,2011-2012,,
+3415,Computer Engineering,Bachelor's,133,2004-2005,,
+3416,Computer Engineering,Bachelor's,133,2005-2006,,
+3417,Computer Engineering,Bachelor's,133,2006-2007,,
+3418,Computer Engineering,Bachelor's,133,2007-2008,,
+3419,Computer Engineering,Bachelor's,133,2008-2009,,
+3420,Computer Engineering,Bachelor's,133,2009-2010,,
+3421,Computer Engineering,Bachelor's,133,2010-2011,,
+3422,Computer Engineering,Bachelor's,133,2011-2012,,
+4642,Management Information Systems,Bachelor's,134,2015-2016,,
+4543,Computer Science,Bachelor's,137,2014-2015,,
+4545,Computer Science,Bachelor's,137,2015-2016,,
+3643,Computer Science,Bachelor's,14,2010-2011,,
+3644,Computer Science,Bachelor's,14,2011-2012,,
+3645,Management Information Systems,Bachelor's,14,2010-2011,,
+3646,Management Information Systems,Bachelor's,14,2011-2012,,
+4713,Management Information Systems,Bachelor's,143,2015-2016,9,8
+3627,Information Technology,Bachelor's,143,2004-2005,,
+3628,Information Technology,Bachelor's,143,2005-2006,,
+3629,Information Technology,Bachelor's,143,2006-2007,,
+3630,Information Technology,Bachelor's,143,2007-2008,,
+3631,Information Technology,Bachelor's,143,2008-2009,,
+3632,Information Technology,Bachelor's,143,2009-2010,,
+3633,Information Technology,Bachelor's,143,2010-2011,,
+3634,Information Technology,Bachelor's,143,2011-2012,,
+3619,Computer Science,Bachelor's,143,2004-2005,,
+3620,Computer Science,Bachelor's,143,2005-2006,,
+3621,Computer Science,Bachelor's,143,2006-2007,,
+3622,Computer Science,Bachelor's,143,2007-2008,,
+3623,Computer Science,Bachelor's,143,2008-2009,,
+3624,Computer Science,Bachelor's,143,2009-2010,,
+3625,Computer Science,Bachelor's,143,2010-2011,,
+3626,Computer Science,Bachelor's,143,2011-2012,,
+2604,Computer Information Systems,Bachelor's,144,2004-2005,,
+2605,Computer Information Systems,Bachelor's,144,2005-2006,,
+2606,Computer Information Systems,Bachelor's,144,2006-2007,,
+2607,Computer Information Systems,Bachelor's,144,2007-2008,,
+2608,Computer Information Systems,Bachelor's,144,2008-2009,,
+2609,Computer Information Systems,Bachelor's,144,2009-2010,,
+2592,Computer Science,Bachelor's,144,2004-2005,,
+2593,Computer Science,Bachelor's,144,2005-2006,,
+2594,Computer Science,Bachelor's,144,2006-2007,,
+2595,Computer Science,Bachelor's,144,2007-2008,,
+2596,Computer Science,Bachelor's,144,2008-2009,,
+2597,Computer Science,Bachelor's,144,2009-2010,,
+2598,Telecommunications Management,Bachelor's,144,2004-2005,,
+2599,Telecommunications Management,Bachelor's,144,2005-2006,,
+2600,Telecommunications Management,Bachelor's,144,2006-2007,,
+2601,Telecommunications Management,Bachelor's,144,2007-2008,,
+2602,Telecommunications Management,Bachelor's,144,2008-2009,,
+2603,Telecommunications Management,Bachelor's,144,2009-2010,,
+2586,Industrial Computer Systems,Bachelor's,144,2004-2005,,
+2587,Industrial Computer Systems,Bachelor's,144,2005-2006,,
+2588,Industrial Computer Systems,Bachelor's,144,2006-2007,,
+2589,Industrial Computer Systems,Bachelor's,144,2007-2008,,
+2590,Industrial Computer Systems,Bachelor's,144,2008-2009,,
+2591,Industrial Computer Systems,Bachelor's,144,2009-2010,,
+2610,Management Information Systems,Bachelor's,144,2004-2005,,
+2611,Management Information Systems,Bachelor's,144,2005-2006,,
+2612,Management Information Systems,Bachelor's,144,2006-2007,,
+2613,Management Information Systems,Bachelor's,144,2007-2008,,
+2614,Management Information Systems,Bachelor's,144,2008-2009,,
+2615,Management Information Systems,Bachelor's,144,2009-2010,,
+2616,Management Information Systems,Bachelor's,144,2004-2005,,
+2617,Management Information Systems,Bachelor's,144,2005-2006,,
+2618,Management Information Systems,Bachelor's,144,2006-2007,,
+2619,Management Information Systems,Bachelor's,144,2007-2008,,
+2620,Management Information Systems,Bachelor's,144,2008-2009,,
+2621,Management Information Systems,Bachelor's,144,2009-2010,,
+4415,Computer Science (BS),Bachelor's,146,2010-2011,3,0
+4416,Computer Science (BS),Bachelor's,146,2011-2012,2,1
+4417,Computer Science (BS),Bachelor's,146,2012-2013,5,2
+4418,Computer Science (BS),Bachelor's,146,2013-2014,8,2
+4419,Computer Science (BS),Bachelor's,146,2014-2015,10,2
+4899,Computer Science (BS),Bachelor's,146,2015-2016,8,3
+4410,Computer Science (BA),Bachelor's,146,2010-2011,2,1
+4411,Computer Science (BA),Bachelor's,146,2011-2012,1,1
+4412,Computer Science (BA),Bachelor's,146,2012-2013,3,1
+4413,Computer Science (BA),Bachelor's,146,2013-2014,0,0
+4414,Computer Science (BA),Bachelor's,146,2014-2015,1,1
+4900,Computer Science (BA),Bachelor's,146,2015-2016,8,0
+4811,Electrical Engineering,Bachelor's,146,2012-2013,0,0
+4812,Electrical Engineering,Bachelor's,146,2013-2014,0,0
+4813,Electrical Engineering,Bachelor's,146,2014-2015,1,0
+4901,Electrical Engineering,Bachelor's,146,2015-2016,,0
+3604,Management Information Systems,Bachelor's,146,2005-2006,,
+3605,Management Information Systems,Bachelor's,146,2006-2007,,
+3606,Management Information Systems,Bachelor's,146,2007-2008,,
+3607,Management Information Systems,Bachelor's,146,2008-2009,,
+3608,Management Information Systems,Bachelor's,146,2009-2010,,
+3609,Management Information Systems,Bachelor's,146,2010-2011,,
+3610,Management Information Systems,Bachelor's,146,2011-2012,,
+4437,Computer Science,Bachelor's,148,2015-2016,,
+4438,Computer Science,Bachelor's,148,2015-2016,,
+4536,Computer Science,Bachelor's,150,2015-2016,,
+2636,Computer Information Systems,Bachelor's,154,2004-2005,,
+2637,Computer Information Systems,Bachelor's,154,2005-2006,,
+2638,Computer Information Systems,Bachelor's,154,2006-2007,,
+2639,Computer Information Systems,Bachelor's,154,2007-2008,,
+2640,Computer Information Systems,Bachelor's,154,2008-2009,,
+2641,Computer Information Systems,Bachelor's,154,2009-2010,,
+2642,Computer Information Systems,Bachelor's,154,2010-2011,,
+2643,Computer Information Systems,Bachelor's,154,2011-2012,,
+2544,Computer Science,Bachelor's,155,2004-2005,,
+2545,Computer Science,Bachelor's,155,2005-2006,,
+2546,Computer Science,Bachelor's,155,2006-2007,,
+2547,Computer Science,Bachelor's,155,2007-2008,,
+2548,Computer Science,Bachelor's,155,2008-2009,,
+2549,Computer Science,Bachelor's,155,2009-2010,,
+4938,Computer Science,Bachelor's,155,2010-2011,,3
+4939,Computer Science,Bachelor's,155,2011-2012,,8
+4940,Computer Science,Bachelor's,155,2012-2013,,18
+4941,Computer Science,Bachelor's,155,2013-2014,,21
+4942,Computer Science,Bachelor's,155,2014-2015,,39
+4917,Computer Science + X,Bachelor's,157,2014-2015,10,16
+4906,Computer Science,Bachelor's,157,2013-2014,45,48
+4907,Computer Science,Bachelor's,157,2014-2015,71,65
+4905,Computer Science,Bachelor's,157,2012-2013,17,31
+4908,Computer Science,Bachelor's,157,2015-2016,50,31
+4920,Computer Science + X,Bachelor's,157,2014-2015,1,0
+4924,Computer Science + X,Bachelor's,157,2015-2016,2,0
+4910,Computer Science + X,Bachelor's,157,2012-2013,3,3
+4927,Computer Science + X,Bachelor's,157,2015-2016,1,1
+4904,Computer Science,Bachelor's,157,2011-2012,24,40
+4926,Computer Science + X,Bachelor's,157,2014-2015,4,1
+4913,Computer Science + X,Bachelor's,157,2015-2016,4,3
+4914,Computer Science + X,Bachelor's,157,2011-2012,3,4
+4918,Computer Science + X,Bachelor's,157,2015-2016,16,8
+4916,Computer Science + X,Bachelor's,157,2013-2014,8,14
+4912,Computer Science + X,Bachelor's,157,2014-2015,3,3
+4928,Computer Science + X,Bachelor's,157,2014-2015,2,0
+4929,Computer Science + X,Bachelor's,157,2015-2016,3,0
+4915,Computer Science + X,Bachelor's,157,2012-2013,6,6
+4923,Computer Science + X,Bachelor's,157,2014-2015,2,0
+4909,Computer Science + X,Bachelor's,157,2011-2012,1,2
+4911,Computer Science + X,Bachelor's,157,2013-2014,0,4
+4919,Computer Science + X,Bachelor's,157,2013-2014,0,0
+4921,Computer Science + X,Bachelor's,157,2015-2016,0,0
+4922,Computer Science + X,Bachelor's,157,2013-2014,0,0
+4925,Computer Science + X,Bachelor's,157,2013-2014,0,0
+5291,Computer Science,Bachelor's,157,2016-2017,91,
+3966,Information Technology,Bachelor's,158,2007-2008,,
+3967,Information Technology,Bachelor's,158,2008-2009,,
+3968,Information Technology,Bachelor's,158,2009-2010,,
+3969,Information Technology,Bachelor's,158,2010-2011,,
+3970,Information Technology,Bachelor's,158,2011-2012,,
+3958,Computer Science,Bachelor's,158,2004-2005,,
+3959,Computer Science,Bachelor's,158,2005-2006,,
+3960,Computer Science,Bachelor's,158,2006-2007,,
+3961,Computer Science,Bachelor's,158,2007-2008,,
+3962,Computer Science,Bachelor's,158,2008-2009,,
+3963,Computer Science,Bachelor's,158,2009-2010,,
+3964,Computer Science,Bachelor's,158,2010-2011,,
+3965,Computer Science,Bachelor's,158,2011-2012,,
+3971,Computer Science,Bachelor's,158,2004-2005,,
+3972,Computer Science,Bachelor's,158,2005-2006,,
+3973,Computer Science,Bachelor's,158,2006-2007,,
+3974,Computer Science,Bachelor's,158,2007-2008,,
+3975,Computer Science,Bachelor's,158,2008-2009,,
+3976,Computer Science,Bachelor's,158,2009-2010,,
+3977,Computer Science,Bachelor's,158,2010-2011,,
+3978,Computer Science,Bachelor's,158,2011-2012,,
+2383,Computer Science,Bachelor's,160,2004-2005,,
+2384,Computer Science,Bachelor's,160,2005-2006,,
+2385,Computer Science,Bachelor's,160,2006-2007,,
+2386,Computer Science,Bachelor's,160,2007-2008,,
+2387,Computer Science,Bachelor's,160,2008-2009,,
+2388,Computer Science,Bachelor's,160,2009-2010,,
+2389,Computer Science,Bachelor's,160,2010-2011,,
+2390,Computer Science,Bachelor's,160,2011-2012,,
+4512,Computer Science,Bachelor'ss,160,2014-2015,,10
+4653,Computer Science,Bachelor'ss,160,2012-2013,,5
+4654,Computer Science,Bachelor'ss,160,2013-2014,,5
+5046,Computer Science,Bachelor's,160,2015-2016,,
+4514,Computer Science,Bachelor's,163,2015-2016,,
+4532,Computer Science,Bachelor's,163,2014-2015,,
+4520,Computer Science,Bachelor'ss,170,2015-2016,,
+4773,Computer Science,Bachelor'ss,170,2015-2016,,
+2291,Computer Science,Bachelor's,172,2004-2005,,
+2292,Computer Science,Bachelor's,172,2005-2006,,
+2293,Computer Science,Bachelor's,172,2006-2007,,
+2294,Computer Science,Bachelor's,172,2007-2008,,
+2295,Computer Science,Bachelor's,172,2008-2009,,
+2296,Computer Science,Bachelor's,172,2009-2010,,
+4765,Computer Science,Bachelor's,172,2015-2016,,
+4699,Information Technology ,Bachelor'ss,173,2015-2016,,
+3820,Computer Science,Bachelor's,176,2004-2005,,
+3821,Computer Science,Bachelor's,176,2005-2006,,
+3822,Computer Science,Bachelor's,176,2006-2007,,
+3823,Computer Science,Bachelor's,176,2007-2008,,
+3824,Computer Science,Bachelor's,176,2008-2009,,
+3825,Computer Science,Bachelor's,176,2009-2010,,
+3826,Computer Science,Bachelor's,176,2010-2011,,
+3827,Computer Science,Bachelor's,176,2011-2012,,
+4684,Computer Science,Bachelor's,176,2012-2013,,
+4477,Computer Science,Bachelor's,179,2006-2007,9,
+4478,Computer Science,Bachelor's,179,2007-2008,7,
+4482,Computer Science,Bachelor's,179,2008-2009,5,
+4483,Computer Science,Bachelor's,179,2009-2010,1,
+4484,Computer Science,Bachelor's,179,2010-2011,5,
+4485,Computer Science,Bachelor's,179,2011-2012,3,
+4486,Computer Science,Bachelor's,179,2012-2013,5,
+4731,Computer Science,Bachelor's,179,2015-2016,,
+4490,Electrical Engineering,Bachelor's,179,2006-2007,3,
+4491,Electrical Engineering,Bachelor's,179,2007-2008,3,
+4492,Electrical Engineering,Bachelor's,179,2008-2009,1,
+4493,Electrical Engineering,Bachelor's,179,2009-2010,3,
+4494,Electrical Engineering,Bachelor's,179,2010-2011,7,
+4495,Electrical Engineering,Bachelor's,179,2011-2012,4,
+4496,Electrical Engineering,Bachelor's,179,2012-2013,1,
+4732,Electrical Engineering,Bachelor's,179,2015-2016,,
+4497,Mechanical Engineering,Bachelor's,179,2006-2007,4,
+4498,Mechanical Engineering,Bachelor's,179,2007-2008,5,
+4499,Mechanical Engineering,Bachelor's,179,2008-2009,6,
+4500,Mechanical Engineering,Bachelor's,179,2009-2010,12,
+4501,Mechanical Engineering,Bachelor's,179,2010-2011,9,
+4502,Mechanical Engineering,Bachelor's,179,2011-2012,10,
+4503,Mechanical Engineering,Bachelor's,179,2012-2013,5,
+4730,Mechanical Engineering,Bachelor's,179,2015-2016,,
+4705,Computer Science,Bachelor's,18,2014-2015,,1
+4736,Computer Engineering,Bachelor's,18,2014-2015,,1
+3519,Computer Science (BS),Bachelor's,182,2010-2011,6,4
+4063,Aerospace Engineering,Bachelor's,182,2014-2015,25,12
+4358,Mechanical Engineering,Bachelor's,182,2015-2016,31,37
+4064,Mechanical Engineering,Bachelor's,182,2010-2011,14,17
+4065,Mechanical Engineering,Bachelor's,182,2011-2012,18,15
+4059,Aerospace Engineering,Bachelor's,182,2010-2011,22,9
+4067,Mechanical Engineering,Bachelor's,182,2013-2014,23,26
+4071,Computer Science (BS),Bachelor's,182,2012-2013,6,9
+4060,Aerospace Engineering,Bachelor's,182,2011-2012,27,8
+4061,Aerospace Engineering,Bachelor's,182,2012-2013,19,11
+4072,Computer Science (BS),Bachelor's,182,2013-2014,10,13
+4062,Aerospace Engineering,Bachelor's,182,2013-2014,27,11
+4355,Aerospace Engineering,Bachelor's,182,2015-2016,32,14
+4066,Mechanical Engineering,Bachelor's,182,2012-2013,16,21
+4357,Computer Science (BS),Bachelor's,182,2015-2016,24,19
+4068,Mechanical Engineering,Bachelor's,182,2014-2015,16,25
+3520,Computer Science (BS),Bachelor's,182,2011-2012,10,5
+4073,Computer Science (BS),Bachelor's,182,2014-2015,15,13
+4070,Computer Science (BA),Bachelor's,182,2014-2015,24,4
+4356,Computer Science (BA),Bachelor's,182,2015-2016,18,
+4069,Computer Science (BA),Bachelor's,182,2013-2014,6,0
+3513,Computer Science (BS),Bachelor's,182,2004-2005,,
+3514,Computer Science (BS),Bachelor's,182,2005-2006,,
+3515,Computer Science (BS),Bachelor's,182,2006-2007,,
+3516,Computer Science (BS),Bachelor's,182,2007-2008,,
+3517,Computer Science (BS),Bachelor's,182,2008-2009,,
+3518,Computer Science (BS),Bachelor's,182,2009-2010,,
+4612,Data Science,Bachelor's,187,2014-2015,,
+4616,Data Science,Bachelor's,187,2015-2016,,
+4611,Information Sciences,Bachelor's,187,2014-2015,,
+4615,Information Sciences,Bachelor's,187,2015-2016,,
+4609,Computer Information Systems,Bachelor's,187,2014-2015,,
+4613,Computer Information Systems,Bachelor's,187,2015-2016,,
+4610,Information Assurance/Cybersecurity,Bachelor's,187,2014-2015,,
+4614,Information Assurance/Cybersecurity,Bachelor's,187,2015-2016,,
+2923,Computer Science,Bachelor's,189,2004-2005,,
+2924,Computer Science,Bachelor's,189,2005-2006,,
+2925,Computer Science,Bachelor's,189,2006-2007,,
+2926,Computer Science,Bachelor's,189,2007-2008,,
+2927,Computer Science,Bachelor's,189,2008-2009,,
+2928,Computer Science,Bachelor's,189,2009-2010,,
+2929,Computer Science,Bachelor's,189,2010-2011,,
+2930,Computer Science,Bachelor's,189,2011-2012,,
+2931,Computer Science,Bachelor's,189,2004-2005,,
+2932,Computer Science,Bachelor's,189,2005-2006,,
+2933,Computer Science,Bachelor's,189,2006-2007,,
+2934,Computer Science,Bachelor's,189,2007-2008,,
+2935,Computer Science,Bachelor's,189,2008-2009,,
+2936,Computer Science,Bachelor's,189,2009-2010,,
+2937,Computer Science,Bachelor's,189,2010-2011,,
+2938,Computer Science,Bachelor's,189,2011-2012,,
+2939,Business Technology,Bachelor's,189,2004-2005,,
+2940,Business Technology,Bachelor's,189,2005-2006,,
+2941,Business Technology,Bachelor's,189,2006-2007,,
+2942,Business Technology,Bachelor's,189,2007-2008,,
+2943,Business Technology,Bachelor's,189,2008-2009,,
+2944,Business Technology,Bachelor's,189,2009-2010,,
+2945,Business Technology,Bachelor's,189,2010-2011,,
+2946,Business Technology,Bachelor's,189,2011-2012,,
+2947,Information,Bachelor's,189,2004-2005,,
+2948,Information,Bachelor's,189,2005-2006,,
+2949,Information,Bachelor's,189,2006-2007,,
+2950,Information,Bachelor's,189,2007-2008,,
+2951,Information,Bachelor's,189,2008-2009,,
+2952,Information,Bachelor's,189,2009-2010,,
+2953,Information,Bachelor's,189,2010-2011,,
+2954,Information,Bachelor's,189,2011-2012,,
+4282,Computer Engineering,Bachelor's,194,2011-2012,3,1
+4865,Electrical Engineering,Bachelor's,194,2016-2017,5,
+4297,Computer Science,Bachelor's,194,2013-2014,3,2
+4864,Computer Engineering,Bachelor's,194,2016-2017,5,
+4285,Electrical Engineering,Bachelor's,194,2014-2015,6,7
+4286,Electrical Engineering,Bachelor's,194,2013-2014,4,7
+4280,Computer Engineering,Bachelor's,194,2013-2014,5,3
+4287,Electrical Engineering,Bachelor's,194,2012-2013,8,5
+4289,Electrical Engineering,Bachelor's,194,2010-2011,4,10
+4284,Computer Engineering,Bachelor's,194,2009-2010,2,2
+4346,Software Engineering,Bachelor's,194,2015-2016,2,0
+4298,Computer Science,Bachelor's,194,2012-2013,7,2
+4863,Computer Science,Bachelor's,194,2016-2017,21,
+4866,Software Engineering,Bachelor's,194,2016-2017,3,
+2839,Computer Science,Bachelor's,194,2014-2015,5,3
+2841,Computer Science,Bachelor's,194,2011-2012,7,2
+4281,Computer Engineering,Bachelor's,194,2012-2013,4,1
+2840,Computer Science,Bachelor's,194,2010-2011,10,5
+4283,Computer Engineering,Bachelor's,194,2010-2011,9,0
+4288,Electrical Engineering,Bachelor's,194,2011-2012,8,13
+4279,Computer Engineering,Bachelor's,194,2014-2015,7,2
+4299,Computer Science,Bachelor's,194,2009-2010,8,1
+4349,Computer Engineering,Bachelor's,194,2015-2016,5,2
+4347,Electrical Engineering,Bachelor's,194,2015-2016,10,7
+4348,Computer Science,Bachelor's,194,2015-2016,19,7
+4291,Software Engineering,Bachelor's,194,2014-2015,3,0
+4290,Electrical Engineering,Bachelor's,194,2009-2010,3,7
+4292,Software Engineering,Bachelor's,194,2013-2014,1,1
+4294,Software Engineering,Bachelor's,194,2011-2012,1,0
+2834,Computer Science,Bachelor's,194,2004-2005,,
+2835,Computer Science,Bachelor's,194,2005-2006,,
+2836,Computer Science,Bachelor's,194,2006-2007,,
+2837,Computer Science,Bachelor's,194,2007-2008,,
+2838,Computer Science,Bachelor's,194,2008-2009,,
+4293,Software Engineering,Bachelor's,194,2012-2013,0,0
+4295,Software Engineering,Bachelor's,194,2010-2011,0,0
+4296,Software Engineering,Bachelor's,194,2009-2010,0,0
+3118,Computer Science,Bachelor's,20,2006-2007,,
+3119,Computer Science,Bachelor's,20,2007-2008,,
+3120,Computer Science,Bachelor's,20,2008-2009,,
+3121,Computer Science,Bachelor's,20,2009-2010,,
+3122,Computer Science,Bachelor's,20,2010-2011,,
+3123,Computer Science,Bachelor's,20,2011-2012,,
+4606,Information Science,Bachelor's,200,2012-2013,4,2
+4607,Information Science,Bachelor's,200,2013-2014,3,2
+4617,Computer Science + X,Bachelor's,200,2010-2011,,5
+4618,Computer Science + X,Bachelor's,200,2011-2012,,11
+4619,Computer Science + X,Bachelor's,200,2012-2013,,22
+4620,Computer Science + X,Bachelor's,200,2013-2014,,22
+4621,Computer Science + X,Bachelor's,200,2014-2015,,32
+4604,Information Science,Bachelor's,200,2010-2011,0,1
+4605,Information Science,Bachelor's,200,2011-2012,0,0
+4608,Information Science ,Bachelor's,200,2014-2015,0,4
+4622,Information Science,Bachelor's,200,2010-2011,,8
+4623,Information Science,Bachelor's,200,2011-2012,,7
+4624,Information Science,Bachelor's,200,2012-2013,,13
+4625,Information Science,Bachelor's,200,2013-2014,,15
+4626,Information Science,Bachelor's,200,2014-2015,,18
+3585,Computer Science,Bachelor's,201,2004-2005,,
+3586,Computer Science,Bachelor's,201,2005-2006,,
+3587,Computer Science,Bachelor's,201,2006-2007,,
+3588,Computer Science,Bachelor's,201,2007-2008,,
+3589,Computer Science,Bachelor's,201,2008-2009,,
+3590,Computer Science,Bachelor's,201,2009-2010,,
+3591,Computer Science,Bachelor's,201,2010-2011,,
+3592,Computer Science,Bachelor's,201,2011-2012,,
+4780,Computational Mathematics,Bachelor's,204,2015-2016,,
+5277,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,205,2016-2017,5,
+4175,Electrical and Computer Engineering,Bachelor's,205,2014-2015,4,
+4173,Electrical and Computer Engineering,Bachelor's,205,2012-2013,8,0
+5276,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,205,2015-2016,9,6
+4172,Electrical and Computer Engineering,Bachelor's,205,2011-2012,15,1
+4174,Electrical and Computer Engineering,Bachelor's,205,2013-2014,13,3
+5275,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,205,2014-2015,3,4
+5271,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,205,2010-2011,5,6
+5273,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,205,2012-2013,2,7
+5272,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,205,2011-2012,2,4
+4171,Electrical and Computer Engineering,Bachelor's,205,2010-2011,3,1
+4236,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,205,2009-2010,,
+4237,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,205,2008-2009,,
+4238,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,205,2007-2008,,
+4239,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,205,2006-2007,,
+4240,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,205,2005-2006,,
+4241,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,205,2004-2005,,
+5274,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,205,2013-2014,0,11
+3736,Management Information Systems,Bachelor's,206,2004-2005,,
+3737,Management Information Systems,Bachelor's,206,2005-2006,,
+3738,Management Information Systems,Bachelor's,206,2006-2007,,
+3739,Management Information Systems,Bachelor's,206,2007-2008,,
+3740,Management Information Systems,Bachelor's,206,2008-2009,,
+3741,Management Information Systems,Bachelor's,206,2009-2010,,
+3742,Management Information Systems,Bachelor's,206,2010-2011,,
+3743,Management Information Systems,Bachelor's,206,2011-2012,,
+4712,Management Information Systems,Bachelor's,206,2014-2015,,
+2168,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,21,2004-2005,,
+2169,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,21,2005-2006,,
+2170,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,21,2006-2007,,
+2171,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,21,2007-2008,,
+2172,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,21,2008-2009,,
+2173,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,21,2009-2010,,
+2174,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,21,2010-2011,,
+2175,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,21,2011-2012,,
+2160,Computer Science,Bachelor's,21,2004-2005,,
+2161,Computer Science,Bachelor's,21,2005-2006,,
+2162,Computer Science,Bachelor's,21,2006-2007,,
+2163,Computer Science,Bachelor's,21,2007-2008,,
+2164,Computer Science,Bachelor's,21,2008-2009,,
+2165,Computer Science,Bachelor's,21,2009-2010,,
+2166,Computer Science,Bachelor's,21,2010-2011,,
+2167,Computer Science,Bachelor's,21,2011-2012,,
+3157,Computer Science,Bachelor'ss,211,2004-2005,,
+3158,Computer Science,Bachelor'ss,211,2005-2006,,
+3159,Computer Science,Bachelor'ss,211,2006-2007,,
+3160,Computer Science,Bachelor'ss,211,2007-2008,,
+3161,Computer Science,Bachelor'ss,211,2008-2009,,
+3162,Computer Science,Bachelor'ss,211,2009-2010,,
+2398,Information Technology,Bachelor's,216,2011-2012,0,12
+2391,Information Technology,Bachelor's,216,2004-2005,,
+2392,Information Technology,Bachelor's,216,2005-2006,,
+2393,Information Technology,Bachelor's,216,2006-2007,,
+2394,Information Technology,Bachelor's,216,2007-2008,,
+2395,Information Technology,Bachelor's,216,2008-2009,,
+2396,Information Technology,Bachelor's,216,2009-2010,,
+2397,Information Technology,Bachelor's,216,2010-2011,,
+5095,Information Technology,Bachelor's,216,2015-2016,3,3
+5314,Information Technology,Bachelor's,216,2012-2013,0,15
+5315,Information Technology,Bachelor's,216,2013-2014,1,9
+5316,Information Technology,Bachelor's,216,2014-2015,1,8
+5302,Game Design,Bachelor's,216,2011-2012,9,10
+5303,Game Design,Bachelor's,216,2012-2013,4,13
+5304,Game Design,Bachelor's,216,2013-2014,9,13
+5305,Game Design,Bachelor's,216,2014-2015,10,11
+5306,Game Design,Bachelor's,216,2015-2016,14,11
+5325,Computer Science + X,Bachelor's,216,2015-2016,0,3
+5326,Computer Science + X,Bachelor's,216,2014-2015,1,3
+5327,Computer Science + X,Bachelor's,216,2013-2014,0,3
+5328,Computer Science + X,Bachelor's,216,2012-2013,2,3
+5329,Computer Science + X,Bachelor's,216,2011-2012,1,3
+5330,Information Science,Bachelor's,216,2015-2016,6,5
+5332,Information Science,Bachelor's,216,2013-2014,1,11
+2399,Information Systems,Bachelor's,216,2004-2005,,
+2400,Information Systems,Bachelor's,216,2005-2006,,
+2401,Information Systems,Bachelor's,216,2006-2007,,
+2402,Information Systems,Bachelor's,216,2007-2008,,
+2403,Information Systems,Bachelor's,216,2008-2009,,
+2404,Information Systems,Bachelor's,216,2009-2010,,
+2405,Information Systems,Bachelor's,216,2010-2011,,
+2406,Computer Information Systems,Bachelor's,216,2011-2012,1,6
+5094,Computer and Information Systems,Bachelor's,216,2015-2016,0,3
+5311,Computer Information Systems,Bachelor's,216,2012-2013,0,4
+5312,Computer Information Systems,Bachelor's,216,2013-2014,0,3
+5313,Computer Information Systems,Bachelor's,216,2014-2015,0,5
+5091,Computer Science,Bachelor's,216,2015-2016,18,23
+5307,Computer Science,Bachelor's,216,2011-2012,12,10
+5308,Computer Science,Bachelor's,216,2012-2013,14,10
+5309,Computer Science,Bachelor's,216,2013-2014,10,13
+5310,Computer Science,Bachelor's,216,2014-2015,6,20
+5331,Computer Software and Media Applications,Bachelor's,216,2014-2015,4,9
+5333,Computer Software and Media Applications,Bachelor's,216,2012-2013,4,9
+5334,Computer Software and Media Applications,Bachelor's,216,2011-2012,1,4
+5093,Information Assurance/Cybersecurity,Bachelor's,216,2015-2016,1,1
+5097,Information Assurance/Cybersecurity,Bachelor's,216,2015-2016,0,3
+5317,Information Assurance/Cybersecurity,Bachelor's,216,2011-2012,0,1
+5318,Information Assurance/Cybersecurity,Bachelor's,216,2012-2013,3,3
+5319,Information Assurance/Cybersecurity,Bachelor's,216,2013-2014,0,2
+5320,Information Assurance/Cybersecurity,Bachelor's,216,2014-2015,2,2
+5321,Information Assurance/Cybersecurity,Bachelor's,216,2014-2015,1,3
+5322,Information Assurance/Cybersecurity,Bachelor's,216,2013-2014,0,5
+5323,Information Assurance/Cybersecurity,Bachelor's,216,2012-2013,0,4
+5324,Information Assurance/Cybersecurity,Bachelor's,216,2011-2012,0,6
+2955,Computer Science,Bachelor's,217,2004-2005,,
+2956,Computer Science,Bachelor's,217,2005-2006,,
+2957,Computer Science,Bachelor's,217,2006-2007,,
+2958,Computer Science,Bachelor's,217,2007-2008,,
+2959,Computer Science,Bachelor's,217,2008-2009,,
+2960,Computer Science,Bachelor's,217,2009-2010,,
+2961,Computer Science,Bachelor's,217,2004-2005,,
+2962,Computer Science,Bachelor's,217,2005-2006,,
+2963,Computer Science,Bachelor's,217,2006-2007,,
+2964,Computer Science,Bachelor's,217,2007-2008,,
+2965,Computer Science,Bachelor's,217,2008-2009,,
+2966,Computer Science,Bachelor's,217,2009-2010,,
+4701,Computer Science,Bachelor's,217,2015-2016,,
+2283,Computer Science,Bachelor's,223,2004-2005,,
+2284,Computer Science,Bachelor's,223,2005-2006,,
+2285,Computer Science,Bachelor's,223,2006-2007,,
+2286,Computer Science,Bachelor's,223,2007-2008,,
+2287,Computer Science,Bachelor's,223,2008-2009,,
+2288,Computer Science,Bachelor's,223,2009-2010,,
+2289,Computer Science,Bachelor's,223,2010-2011,,
+2290,Computer Science,Bachelor's,223,2011-2012,,
+4737,Computer Science,Bachelor's,223,2015-2016,,
+2267,Computer Information Systems,Bachelor's,224,2004-2005,,
+2268,Computer Information Systems,Bachelor's,224,2005-2006,,
+2269,Computer Information Systems,Bachelor's,224,2006-2007,,
+2270,Computer Information Systems,Bachelor's,224,2007-2008,,
+2271,Computer Information Systems,Bachelor's,224,2008-2009,,
+2272,Computer Information Systems,Bachelor's,224,2009-2010,,
+2273,Computer Information Systems,Bachelor's,224,2010-2011,,
+2274,Computer Information Systems,Bachelor's,224,2011-2012,,
+2275,Computer Science,Bachelor's,224,2004-2005,,
+2276,Computer Science,Bachelor's,224,2005-2006,,
+2277,Computer Science,Bachelor's,224,2006-2007,,
+2278,Computer Science,Bachelor's,224,2007-2008,,
+2279,Computer Science,Bachelor's,224,2008-2009,,
+2280,Computer Science,Bachelor's,224,2009-2010,,
+2281,Computer Science,Bachelor's,224,2010-2011,,
+2282,Computer Science,Bachelor's,224,2011-2012,,
+3403,Computer Information Systems,Bachelor's,232,2005-2006,,
+3404,Computer Information Systems,Bachelor's,232,2006-2007,,
+3405,Computer Information Systems,Bachelor's,232,2007-2008,,
+3406,Computer Information Systems,Bachelor's,232,2008-2009,,
+3407,Computer Information Systems,Bachelor's,232,2009-2010,,
+3398,Computer Science,Bachelor's,232,2005-2006,,
+3399,Computer Science,Bachelor's,232,2006-2007,,
+3400,Computer Science,Bachelor's,232,2007-2008,,
+3401,Computer Science,Bachelor's,232,2008-2009,,
+3402,Computer Science,Bachelor's,232,2009-2010,,
+3186,Programming,Associate's,233,2004-2005,,
+3187,Programming,Associate's,233,2005-2006,,
+3188,Programming,Associate's,233,2006-2007,,
+3189,Programming,Associate's,233,2007-2008,,
+3190,Programming,Associate's,233,2008-2009,,
+3191,Programming,Associate's,233,2009-2010,,
+3192,Programming,Associate's,233,2010-2011,,
+3193,Programming,Associate's,233,2011-2012,,
+3210,Web Design/Graphics,Associate's,233,2004-2005,,
+3211,Web Design/Graphics,Associate's,233,2005-2006,,
+3212,Web Design/Graphics,Associate's,233,2006-2007,,
+3213,Web Design/Graphics,Associate's,233,2007-2008,,
+3214,Web Design/Graphics,Associate's,233,2008-2009,,
+3215,Web Design/Graphics,Associate's,233,2009-2010,,
+3216,Web Design/Graphics,Associate's,233,2010-2011,,
+3217,Web Design/Graphics,Associate's,233,2011-2012,,
+3218,Web Design/Graphics,Associate's,233,2004-2005,,
+3219,Web Design/Graphics,Associate's,233,2005-2006,,
+3220,Web Design/Graphics,Associate's,233,2006-2007,,
+3221,Web Design/Graphics,Associate's,233,2007-2008,,
+3222,Web Design/Graphics,Associate's,233,2008-2009,,
+3223,Web Design/Graphics,Associate's,233,2009-2010,,
+3224,Web Design/Graphics,Associate's,233,2010-2011,,
+3225,Web Design/Graphics,Associate's,233,2011-2012,,
+3202,Database Management,Associate's,233,2004-2005,,
+3203,Database Management,Associate's,233,2005-2006,,
+3204,Database Management,Associate's,233,2006-2007,,
+3205,Database Management,Associate's,233,2007-2008,,
+3206,Database Management,Associate's,233,2008-2009,,
+3207,Database Management,Associate's,233,2009-2010,,
+3208,Database Management,Associate's,233,2010-2011,,
+3209,Database Management,Associate's,233,2011-2012,,
+3194,Network Administration,Associate's,233,2004-2005,,
+3195,Network Administration,Associate's,233,2005-2006,,
+3196,Network Administration,Associate's,233,2006-2007,,
+3197,Network Administration,Associate's,233,2007-2008,,
+3198,Network Administration,Associate's,233,2008-2009,,
+3199,Network Administration,Associate's,233,2009-2010,,
+3200,Network Administration,Associate's,233,2010-2011,,
+3201,Network Administration,Associate's,233,2011-2012,,
+4553,Computer Science + X,Bachelor's,236,2010-2011,,
+4554,Computer Science + X,Bachelor's,236,2011-2012,,
+4555,Computer Science + X,Bachelor's,236,2012-2013,,
+4556,Computer Science + X,Bachelor's,236,2013-2014,,
+4557,Computer Science + X,Bachelor's,236,2014-2015,,
+4728,Computer Science + X,Bachelor's,236,2015-2016,,
+2554,Computer Science,Bachelor's,236,2008-2009,,
+2555,Computer Science,Bachelor's,236,2009-2010,,
+2556,Computer Science,Bachelor's,236,2010-2011,,
+2557,Computer Science,Bachelor's,236,2011-2012,,
+2558,Computer Science,Bachelor's,236,2008-2009,,
+2559,Computer Science,Bachelor's,236,2009-2010,,
+4550,Computer Science,Bachelor's,236,2012-2013,,
+4551,Computer Science,Bachelor's,236,2013-2014,,
+4552,Computer Science,Bachelor's,236,2014-2015,,
+4727,Computer Science,Bachelor's,236,2015-2016,,
+4721,Computational Biology,Bachelor's,236,2010-2011,,
+4722,Computational Biology,Bachelor's,236,2011-2012,,
+4723,Computational Biology,Bachelor's,236,2012-2013,,
+4724,Computational Biology,Bachelor's,236,2013-2014,,
+4725,Computational Biology,Bachelor's,236,2014-2015,,
+4726,Computational Biology,Bachelor's,236,2015-2016,,
+5221,Mechanical Engineering,Bachelor's,238,2015-2016,10,1
+4234,Mechanical Engineering,Bachelor's,238,2012-2013,6,5
+5217,Computer Science,Bachelor's,238,2015-2016,9,5
+4226,Computer Science,Bachelor's,238,2013-2014,7,0
+4235,Mechanical Engineering,Bachelor's,238,2013-2014,7,4
+4225,Computer Science,Bachelor's,238,2012-2013,9,0
+4224,Computer Science,Bachelor's,238,2011-2012,6,0
+5216,Computer Science,Bachelor's,238,2014-2015,11,3
+5218,Information Technology,Bachelor's,238,2014-2015,1,3
+4223,Computer Science,Bachelor's,238,2010-2011,4,1
+5220,Mechanical Engineering,Bachelor's,238,2014-2015,7,7
+4232,Mechanical Engineering,Bachelor's,238,2010-2011,2,3
+4231,Information Technology,Bachelor's,238,2013-2014,1,0
+4228,Information Technology,Bachelor's,238,2010-2011,1,3
+4230,Information Technology,Bachelor's,238,2012-2013,1,2
+5219,Information Technology,Bachelor's,238,2015-2016,3,3
+4229,Information Technology,Bachelor's,238,2011-2012,1,1
+4233,Mechanical Engineering,Bachelor's,238,2011-2012,4,1
+3844,Information Technology Management,Bachelor's,240,2004-2005,,
+3845,Information Technology Management,Bachelor's,240,2005-2006,,
+3846,Information Technology Management,Bachelor's,240,2006-2007,,
+3847,Information Technology Management,Bachelor's,240,2007-2008,,
+3848,Information Technology Management,Bachelor's,240,2008-2009,,
+3849,Information Technology Management,Bachelor's,240,2009-2010,,
+3850,Information Technology Management,Bachelor's,240,2010-2011,,
+3851,Information Technology Management,Bachelor's,240,2011-2012,,
+2181,Computer Science,Bachelor'ss,243,2004-2005,,
+2182,Computer Science,Bachelor'ss,243,2005-2006,,
+2183,Computer Science,Bachelor'ss,243,2006-2007,,
+2184,Computer Science,Bachelor'ss,243,2007-2008,,
+2185,Computer Science,Bachelor'ss,243,2008-2009,,
+2186,Computer Science,Bachelor'ss,243,2009-2010,,
+2187,Computer Science,Bachelor'ss,243,2010-2011,,
+2188,Computer Science,Bachelor'ss,243,2011-2012,,
+3269,Computer Science,Bachelor's,244,2005-2006,,
+3270,Computer Science,Bachelor's,244,2006-2007,,
+3271,Computer Science,Bachelor's,244,2007-2008,,
+3272,Computer Science,Bachelor's,244,2008-2009,,
+3273,Computer Science,Bachelor's,244,2009-2010,,
+3274,Computer Science,Bachelor's,244,2010-2011,,
+3275,Computer Science,Bachelor's,244,2011-2012,,
+3750,Computer Science,Bachelor's,248,2004-2005,,
+3751,Computer Science,Bachelor's,248,2005-2006,,
+3752,Computer Science,Bachelor's,248,2006-2007,,
+3753,Computer Science,Bachelor's,248,2007-2008,,
+3754,Computer Science,Bachelor's,248,2008-2009,,
+3755,Computer Science,Bachelor's,248,2009-2010,,
+3756,Computer Science,Bachelor's,248,2010-2011,,
+3757,Computer Science,Bachelor's,248,2011-2012,,
+3758,Computer Engineering,Bachelor's,248,2007-2008,,
+3759,Computer Engineering,Bachelor's,248,2008-2009,,
+3760,Computer Engineering,Bachelor's,248,2009-2010,,
+5292,Computer Science,Bachelor's,249,2011-2012,11,9
+5294,Computer Science,Bachelor's,249,2013-2014,17,6
+5293,Computer Science,Bachelor's,249,2012-2013,9,7
+5295,Computer Science,Bachelor's,249,2014-2015,16,12
+5299,Information Technology,Bachelor's,249,2013-2014,8,22
+5301,Information Technology,Bachelor's,249,2015-2016,11,29
+5296,Computer Science,Bachelor's,249,2015-2016,9,2
+5297,Information Technology,Bachelor's,249,2011-2012,3,17
+5298,Information Technology,Bachelor's,249,2012-2013,6,15
+5300,Information Technology,Bachelor's,249,2014-2015,3,30
+3178,Computer Information Systems,Bachelor's,25,2004-2005,,
+3179,Computer Information Systems,Bachelor's,25,2005-2006,,
+3180,Computer Information Systems,Bachelor's,25,2006-2007,,
+3181,Computer Information Systems,Bachelor's,25,2007-2008,,
+3182,Computer Information Systems,Bachelor's,25,2008-2009,,
+3183,Computer Information Systems,Bachelor's,25,2009-2010,,
+3184,Computer Information Systems,Bachelor's,25,2010-2011,,
+3185,Computer Information Systems,Bachelor's,25,2011-2012,,
+3170,Computer Science,Bachelor's,25,2004-2005,,
+3171,Computer Science,Bachelor's,25,2005-2006,,
+3172,Computer Science,Bachelor's,25,2006-2007,,
+3173,Computer Science,Bachelor's,25,2007-2008,,
+3174,Computer Science,Bachelor's,25,2008-2009,,
+3175,Computer Science,Bachelor's,25,2009-2010,,
+3176,Computer Science,Bachelor's,25,2010-2011,,
+3177,Computer Science,Bachelor's,25,2011-2012,,
+2650,Informatics,Bachelor's,250,2006-2007,,
+2651,Informatics,Bachelor's,250,2007-2008,,
+2652,Informatics,Bachelor's,250,2008-2009,,
+2653,Informatics,Bachelor's,250,2009-2010,,
+2644,Computer Science,Bachelor's,250,2004-2005,,
+2645,Computer Science,Bachelor's,250,2005-2006,,
+2646,Computer Science,Bachelor's,250,2006-2007,,
+2647,Computer Science,Bachelor's,250,2007-2008,,
+2648,Computer Science,Bachelor's,250,2008-2009,,
+2649,Computer Science,Bachelor's,250,2009-2010,,
+2654,Information Management,Bachelor's,250,2004-2005,,
+2655,Information Management,Bachelor's,250,2005-2006,,
+2656,Information Management,Bachelor's,250,2006-2007,,
+2657,Information Management,Bachelor's,250,2007-2008,,
+2658,Information Management,Bachelor's,250,2008-2009,,
+2659,Information Management,Bachelor's,250,2009-2010,,
+4537,Computer Science,Bachelor's,251,2014-2015,,
+5135,Computer Science,Bachelor's,251,2004-2005,,
+5136,Computer Science,Bachelor's,251,2015-2016,,
+4508,Computer Science,Bachelor's,255,2015-2016,,
+4574,Computer Science (BS),Bachelor's,255,2015-2016,,
+4572,Computer Science (BA),Bachelor's,255,2015-2016,,
+4573,Computer Science (BA),Bachelor'ss,255,2015-2016,,
+3294,Computer Science,Bachelor's,258,2004-2005,,
+3295,Computer Science,Bachelor's,258,2005-2006,,
+3296,Computer Science,Bachelor's,258,2006-2007,,
+3297,Computer Science,Bachelor's,258,2007-2008,,
+3298,Computer Science,Bachelor's,258,2008-2009,,
+3299,Computer Engineering,Bachelor's,258,2004-2005,,
+3300,Computer Engineering,Bachelor's,258,2005-2006,,
+3301,Computer Engineering,Bachelor's,258,2006-2007,,
+3302,Computer Engineering,Bachelor's,258,2007-2008,,
+3303,Computer Engineering,Bachelor's,258,2008-2009,,
+2057,Computer Science,Bachelor's,26,2008-2009,25,16
+2059,Computer Science,Bachelor's,26,2009-2010,27,28
+2061,Computer Science,Bachelor's,26,2010-2011,32,36
+2063,Computer Science,Bachelor's,26,2011-2012,32,31
+2065,Computer Science,Bachelor's,26,2012-2013,39,38
+2067,Computer Science,Bachelor's,26,2013-2014,48,38
+2069,Computer Science,Bachelor's,26,2014-2015,,
+4507,Computer Science,Bachelor's,26,2015-2016,,
+2058,Computer Engineering,Bachelor's,26,2008-2009,6,8
+2060,Computer Engineering,Bachelor's,26,2009-2010,3,3
+2062,Computer Engineering,Bachelor's,26,2010-2011,6,6
+2064,Computer Engineering,Bachelor's,26,2011-2012,11,7
+2066,Computer Engineering,Bachelor's,26,2012-2013,7,2
+2068,Computer Engineering,Bachelor's,26,2013-2014,11,8
+2070,Computer Engineering,Bachelor's,26,2014-2015,,
+4807,Computer Engineering,Bachelor's,26,2015-2016,,
+3108,Computer Science,Bachelor's,260,2010-2011,,
+3109,Computer Science,Bachelor's,260,2011-2012,,
+3116,Computer Science,Bachelor's,260,2010-2011,,
+3117,Computer Science,Bachelor's,260,2011-2012,,
+5245,Computer Science + X,Bachelor's,262,2013-2014,,
+2189,Computer Science,Bachelor'ss,262,2004-2005,,
+2190,Computer Science,Bachelor'ss,262,2005-2006,,
+2191,Computer Science,Bachelor'ss,262,2006-2007,,
+2225,Computer Science,Bachelor's,262,2010-2011,,
+2226,Computer Science,Bachelor's,262,2011-2012,,
+2192,Computer Science (BS),Bachelor'ss,262,2007-2008,,
+2193,Computer Science (BS),Bachelor'ss,262,2008-2009,,
+2194,Computer Science (BS),Bachelor'ss,262,2009-2010,,
+2195,Computer Science (BS),Bachelor'ss,262,2010-2011,,
+2196,Computer Science (BS),Bachelor'ss,262,2011-2012,,
+2207,Computer Science (BS),Bachelor's,262,2007-2008,,
+2208,Computer Science (BS),Bachelor's,262,2008-2009,,
+2209,Computer Science (BS),Bachelor's,262,2009-2010,,
+2210,Computer Science (BS),Bachelor's,262,2010-2011,,
+2211,Computer Science (BS),Bachelor's,262,2011-2012,,
+2212,Computer Science (BS),Bachelor's,262,2007-2008,,
+2213,Computer Science (BS),Bachelor's,262,2008-2009,,
+2214,Computer Science (BS),Bachelor's,262,2009-2010,,
+2215,Computer Science (BS),Bachelor's,262,2010-2011,,
+2216,Computer Science (BS),Bachelor's,262,2011-2012,,
+2221,Computer Science (BA),Bachelor's,262,2011-2012,,
+2222,Computer Science (BS),Bachelor's,262,2007-2008,,
+2223,Computer Science (BS),Bachelor's,262,2008-2009,,
+2224,Computer Science (BS),Bachelor's,262,2009-2010,,
+4571,Computer Science (BS),Bachelor's,262,2015-2016,,
+5244,Computer Science (BS),Bachelor's,262,2012-2013,,
+5246,Computer Science (BS),Bachelor's,262,2014-2015,,
+5247,Computer Science (BS),Bachelor's,262,2013-2014,,
+2202,Computer Science (BA),Bachelor'ss,262,2007-2008,,
+2203,Computer Science (BA),Bachelor'ss,262,2008-2009,,
+2204,Computer Science (BA),Bachelor'ss,262,2009-2010,,
+2205,Computer Science (BA),Bachelor'ss,262,2010-2011,,
+2206,Computer Science (BA),Bachelor'ss,262,2011-2012,,
+2217,Computer Science (BA),Bachelor's,262,2007-2008,,
+2218,Computer Science (BA),Bachelor's,262,2008-2009,,
+2219,Computer Science (BA),Bachelor's,262,2009-2010,,
+2220,Computer Science (BA),Bachelor's,262,2010-2011,,
+5240,Computer Science (BA),Bachelor'ss,262,2012-2013,,
+5241,Computer Science (BA),Bachelor'ss,262,2013-2014,,
+5242,Computer Science (BA),Bachelor'ss,262,2014-2015,,
+5243,Computer Science (BA),Bachelor'ss,262,2015-2016,,
+2197,Computational Biology,Bachelor'ss,262,2007-2008,,
+2198,Computational Biology,Bachelor'ss,262,2008-2009,,
+2199,Computational Biology,Bachelor'ss,262,2009-2010,,
+2200,Computational Biology,Bachelor'ss,262,2010-2011,,
+2201,Computational Biology,Bachelor'ss,262,2011-2012,,
+1980,Information Technology,Bachelor's,263,2013-2014,8,
+2035,Information Technology,Bachelor's,263,2014-2015,31,
+1981,Software Engineering,Bachelor's,263,2013-2014,6,
+2031,Software Engineering,Bachelor's,263,2014-2015,37,
+1978,Electrical Engineering,Bachelor's,263,2013-2014,3,
+2034,Electrical Engineering,Bachelor's,263,2014-2015,41,
+3234,Information Technology,Bachelor's,268,2004-2005,,
+3235,Information Technology,Bachelor's,268,2005-2006,,
+3236,Information Technology,Bachelor's,268,2006-2007,,
+3237,Information Technology,Bachelor's,268,2007-2008,,
+3238,Information Technology,Bachelor's,268,2008-2009,,
+3239,Information Technology,Bachelor's,268,2009-2010,,
+3240,Information Technology,Bachelor's,268,2010-2011,,
+3241,Information Technology,Bachelor's,268,2011-2012,,
+5258,Information Technology,Bachelor's,27,2015-2016,,
+5259,Computer Information Systems,Bachelor's,27,2015-2016,,
+4535,Applied Computer Science,Bachelor's,27,2015-2016,,
+5257,Computer Science ,Bachelor's,27,2015-2016,,
+2668,Computer Science,Bachelor's,270,2004-2005,,
+2669,Computer Science,Bachelor's,270,2005-2006,,
+2670,Computer Science,Bachelor's,270,2006-2007,,
+2671,Computer Science,Bachelor's,270,2007-2008,,
+2672,Computer Science,Bachelor's,270,2008-2009,,
+2673,Computer Science,Bachelor's,270,2009-2010,,
+2674,Computer Science,Bachelor's,270,2010-2011,,
+2675,Computer Science,Bachelor's,270,2011-2012,,
+2676,Computer Science,Bachelor's,270,2007-2008,,
+2677,Computer Science,Bachelor's,270,2008-2009,,
+2678,Computer Science,Bachelor's,270,2009-2010,,
+5012,Computer Science,Bachelor's,270,2012-2013,,
+5013,Computer Science,Bachelor's,270,2013-2014,,
+5014,Computer Science,Bachelor's,270,2014-2015,,
+5015,Computer Science,Bachelor's,270,2015-2016,,
+5016,Computer Science,Bachelor's,270,2016-2017,,
+2660,Computer Engineering,Bachelor's,270,2004-2005,,
+2661,Computer Engineering,Bachelor's,270,2005-2006,,
+2662,Computer Engineering,Bachelor's,270,2006-2007,,
+2663,Computer Engineering,Bachelor's,270,2007-2008,,
+2664,Computer Engineering,Bachelor's,270,2008-2009,,
+2665,Computer Engineering,Bachelor's,270,2009-2010,,
+2666,Computer Engineering,Bachelor's,270,2010-2011,,
+2667,Computer Engineering,Bachelor's,270,2011-2012,,
+5017,Computer Engineering,Bachelor's,270,2012-2013,,
+5018,Computer Engineering,Bachelor's,270,2013-2014,,
+5019,Computer Engineering,Bachelor's,270,2014-2015,,
+5020,Computer Engineering,Bachelor's,270,2015-2016,,
+5021,Computer Engineering,Bachelor's,270,2016-2017,,
+2679,Software Engineering,Bachelor's,270,2010-2011,,
+2680,Software Engineering,Bachelor's,270,2011-2012,,
+5027,Software Engineering,Bachelor's,270,2012-2013,,
+5028,Software Engineering,Bachelor's,270,2013-2014,,
+5029,Software Engineering,Bachelor's,270,2014-2015,,
+5030,Software Engineering,Bachelor's,270,2015-2016,,
+5031,Software Engineering,Bachelor's,270,2016-2017,,
+5032,Electrical Engineering,Bachelor's,270,2010-2011,,
+5033,Electrical Engineering,Bachelor's,270,2011-2012,,
+5034,Electrical Engineering,Bachelor's,270,2012-2013,,
+5035,Electrical Engineering,Bachelor's,270,2013-2014,,
+5036,Electrical Engineering,Bachelor's,270,2014-2015,,
+5037,Electrical Engineering,Bachelor's,270,2015-2016,,
+5038,Electrical Engineering,Bachelor's,270,2016-2017,,
+5039,Mechanical Engineering,Bachelor's,270,2010-2011,,
+5040,Mechanical Engineering,Bachelor's,270,2011-2012,,
+5041,Mechanical Engineering,Bachelor's,270,2012-2013,,
+5042,Mechanical Engineering,Bachelor's,270,2013-2014,,
+5043,Mechanical Engineering,Bachelor's,270,2014-2015,,
+5044,Mechanical Engineering,Bachelor's,270,2015-2016,,
+5045,Mechanical Engineering,Bachelor's,270,2016-2017,,
+2681,Management Information Systems,Bachelor's,270,2004-2005,,
+2682,Management Information Systems,Bachelor's,270,2005-2006,,
+2683,Management Information Systems,Bachelor's,270,2006-2007,,
+2684,Management Information Systems,Bachelor's,270,2007-2008,,
+2685,Management Information Systems,Bachelor's,270,2008-2009,,
+2686,Management Information Systems,Bachelor's,270,2009-2010,,
+2687,Management Information Systems,Bachelor's,270,2010-2011,,
+2688,Management Information Systems,Bachelor's,270,2011-2012,,
+5022,Management Information Systems,Bachelor's,270,2012-2013,,
+5023,Management Information Systems,Bachelor's,270,2013-2014,,
+5024,Management Information Systems,Bachelor's,270,2014-2015,,
+5025,Management Information Systems,Bachelor's,270,2015-2016,,
+5026,Management Information Systems,Bachelor's,270,2016-2017,,
+2872,Computer Science,Bachelor's,271,2004-2005,,
+2873,Computer Science,Bachelor's,271,2005-2006,,
+2874,Computer Science,Bachelor's,271,2006-2007,,
+2875,Computer Science,Bachelor's,271,2007-2008,,
+2876,Computer Science,Bachelor's,271,2008-2009,,
+2877,Computer Science,Bachelor's,271,2011-2012,,
+2043,Computer Science,Bachelor's,287,2013-2014,152,9
+2041,Civil Engineering,Bachelor's,287,2013-2014,152,10
+2045,Electrical & Computer Engineering,Bachelor's,287,2013-2014,152,6
+2044,Computer Science,Bachelor's,287,2014-2015,189,5
+2042,Civil Engineering,Bachelor's,287,2014-2015,189,4
+2046,Electrical & Computer Engineering,Bachelor's,287,2014-2015,189,13
+4933,Computer Science,Bachelor's,287,2016-2017,173,
+4931,Civil Engineering,Bachelor's,287,2016-2017,173,
+4935,Electrical & Computer Engineering,Bachelor's,287,2016-2017,173,
+4932,Computer Science,Bachelor's,287,2015-2016,200,12
+4930,Civil Engineering,Bachelor's,287,2015-2016,200,13
+4934,Electrical & Computer Engineering,Bachelor's,287,2015-2016,200,3
+1598,Computer Science,Bachelor's,287,2003-2004,85,8
+1599,Computer Science,Bachelor's,287,2004-2005,75,4
+1600,Computer Science,Bachelor's,287,2005-2006,73,2
+1601,Computer Science,Bachelor's,287,2006-2007,99,4
+1602,Computer Science,Bachelor's,287,2007-2008,92,1
+1603,Computer Science,Bachelor's,287,2008-2009,93,6
+1604,Computer Science,Bachelor's,287,2009-2010,112,3
+1605,Computer Science,Bachelor's,287,2010-2011,127,0
+1606,Computer Science,Bachelor's,287,2011-2012,107,7
+1607,Computer Science,Bachelor's,287,2012-2013,139,12
+1588,Civil Engineering,Bachelor's,287,2003-2004,85,2
+1589,Civil Engineering,Bachelor's,287,2004-2005,75,5
+1590,Civil Engineering,Bachelor's,287,2005-2006,73,7
+1591,Civil Engineering,Bachelor's,287,2006-2007,99,11
+1592,Civil Engineering,Bachelor's,287,2007-2008,92,6
+1593,Civil Engineering,Bachelor's,287,2008-2009,93,6
+1594,Civil Engineering,Bachelor's,287,2009-2010,112,14
+1595,Civil Engineering,Bachelor's,287,2010-2011,127,7
+1596,Civil Engineering,Bachelor's,287,2011-2012,107,7
+1597,Civil Engineering,Bachelor's,287,2012-2013,139,8
+1608,Electrical & Computer Engineering,Bachelor's,287,2003-2004,85,10
+1609,Electrical & Computer Engineering,Bachelor's,287,2004-2005,75,10
+1610,Electrical & Computer Engineering,Bachelor's,287,2005-2006,73,11
+1611,Electrcal & Computer Engineering,Bachelor's,287,2006-2007,99,12
+1612,Electrical & Computer Engineering,Bachelor's,287,2007-2008,92,6
+1613,Electrical & Computer Engineering,Bachelor's,287,2008-2009,93,12
+1614,Electrical & Computer Engineering,Bachelor's,287,2009-2010,112,11
+1615,Electrical & Computer Engineering,Bachelor's,287,2010-2011,127,15
+1616,Electrical & Computer Engineering,Bachelor's,287,2011-2012,107,6
+1617,Electrical & Computer Engineering,Bachelor's,287,2012-2013,139,16
+1340,Computer Science,Bachelor's,29,2004-2005,17,45
+1341,Computer Science,Bachelor's,29,2005-2006,12,27
+1342,Computer Science,Bachelor's,29,2006-2007,15,17
+1343,Computer Science,Bachelor's,29,2007-2008,15,7
+2882,Computer Science,Bachelor's,29,2008-2009,,
+2883,Computer Science,Bachelor's,29,2009-2010,,
+2884,Computer Science,Bachelor's,29,2010-2011,,
+2885,Computer Science,Bachelor's,29,2011-2012,,
+3390,Computer Information Systems,Bachelor's,291,2004-2005,,
+3391,Computer Information Systems,Bachelor's,291,2005-2006,,
+3392,Computer Information Systems,Bachelor's,291,2006-2007,,
+3393,Computer Information Systems,Bachelor's,291,2007-2008,,
+3394,Computer Information Systems,Bachelor's,291,2008-2009,,
+3395,Computer Information Systems,Bachelor's,291,2009-2010,,
+3396,Computer Information Systems,Bachelor's,291,2010-2011,,
+3397,Computer Information Systems,Bachelor's,291,2011-2012,,
+3374,Computer Science (BS),Bachelor's,291,2004-2005,,
+3375,Computer Science (BS),Bachelor's,291,2005-2006,,
+3376,Computer Science (BS),Bachelor's,291,2006-2007,,
+3377,Computer Science (BS),Bachelor's,291,2007-2008,,
+3378,Computer Science (BS),Bachelor's,291,2008-2009,,
+3379,Computer Science (BS),Bachelor's,291,2009-2010,,
+3380,Computer Science (BS),Bachelor's,291,2010-2011,,
+3381,Computer Science (BS),Bachelor's,291,2011-2012,,
+3382,Computer Science (BA),Bachelor's,291,2004-2005,,
+3383,Computer Science (BA),Bachelor's,291,2005-2006,,
+3384,Computer Science (BA),Bachelor's,291,2006-2007,,
+3385,Computer Science (BA),Bachelor's,291,2007-2008,,
+3386,Computer Science (BA),Bachelor's,291,2008-2009,,
+3387,Computer Science (BA),Bachelor's,291,2009-2010,,
+3388,Computer Science (BA),Bachelor's,291,2010-2011,,
+3389,Computer Science (BA),Bachelor's,291,2011-2012,,
+2523,Information Science,Bachelor's,294,2008-2009,,
+2525,Information Science,Bachelor's,294,2009-2010,,
+2526,Information Science,Bachelor's,294,2010-2011,,
+2527,Information Science,Bachelor's,294,2011-2012,,
+2519,Information Technology Management,Bachelor's,294,2004-2005,,
+2520,Information Technology Management,Bachelor's,294,2005-2006,,
+2521,Information Technology Management,Bachelor's,294,2006-2007,,
+2522,Information Technology Management,Bachelor's,294,2007-2008,,
+2902,Information Technology,Bachelor's,295,2004-2005,,
+2903,Information Technology,Bachelor's,295,2005-2006,,
+2904,Information Technology,Bachelor's,295,2006-2007,,
+2905,Information Technology,Bachelor's,295,2007-2008,,
+2906,Information Technology,Bachelor's,295,2008-2009,,
+2907,Information Technology,Bachelor's,295,2009-2010,,
+2908,Information Technology,Bachelor's,295,2010-2011,,
+2909,Information Technology,Bachelor's,295,2011-2012,,
+4563,Information Technology,Bachelor's,295,2014-2015,,7
+2910,Informatics,Bachelor's,295,2007-2008,,
+2911,Informatics,Bachelor's,295,2008-2009,,
+2912,Informatics,Bachelor's,295,2009-2010,,
+2913,Informatics,Bachelor's,295,2010-2011,,
+2914,Informatics,Bachelor's,295,2011-2012,,
+2915,Informatics,Bachelor's,295,2007-2008,,
+2916,Informatics,Bachelor's,295,2008-2009,,
+2917,Informatics,Bachelor's,295,2009-2010,,
+2918,Informatics,Bachelor's,295,2010-2011,,
+2919,Informatics,Bachelor's,295,2011-2012,,
+4565,Informatics,Bachelor's,295,2014-2015,,3
+2894,Computer Science,Bachelor's,295,2004-2005,,
+2895,Computer Science,Bachelor's,295,2005-2006,,
+2896,Computer Science,Bachelor's,295,2006-2007,,
+2897,Computer Science,Bachelor's,295,2007-2008,,
+2898,Computer Science,Bachelor's,295,2008-2009,,
+2899,Computer Science,Bachelor's,295,2009-2010,,
+2900,Computer Science,Bachelor's,295,2010-2011,,
+2901,Computer Science,Bachelor's,295,2011-2012,,
+4564,Computer Science,Bachelor's,295,2014-2015,,2
+2920,Computer Engineering Technology,Bachelor's,295,2006-2007,,
+2921,Computer Engineering Technology,Bachelor's,295,2007-2008,,
+2922,Computer Engineering Technology,Bachelor's,295,2008-2009,,
+4561,Management Information Systems,Bachelor's,295,2014-2015,,6
+2176,Computer Science,Bachelor'ss,297,2007-2008,,
+2177,Computer Science,Bachelor'ss,297,2008-2009,,
+2178,Computer Science,Bachelor'ss,297,2009-2010,,
+2179,Computer Science,Bachelor'ss,297,2010-2011,,
+2180,Computer Science,Bachelor'ss,297,2011-2012,,
+4488,Computer Science,Bachelor'ss,297,2015-2016,,
+3852,Computer Science,Bachelor's,299,2004-2005,,
+3853,Computer Science,Bachelor's,299,2005-2006,,
+3854,Computer Science,Bachelor's,299,2006-2007,,
+3855,Computer Science,Bachelor's,299,2007-2008,,
+3856,Computer Science,Bachelor's,299,2008-2009,,
+3857,Computer Science,Bachelor's,299,2009-2010,,
+3858,Computer Science,Bachelor's,299,2010-2011,,
+3859,Computer Science,Bachelor's,299,2011-2012,,
+3860,Computer Science,Bachelor's,299,2004-2005,,
+3861,Computer Science,Bachelor's,299,2005-2006,,
+3862,Computer Science,Bachelor's,299,2006-2007,,
+3863,Computer Science,Bachelor's,299,2007-2008,,
+3864,Computer Science,Bachelor's,299,2008-2009,,
+3865,Computer Science,Bachelor's,299,2009-2010,,
+3866,Computer Science,Bachelor's,299,2010-2011,,
+3867,Computer Science,Bachelor's,299,2011-2012,,
+3868,Computer Engineering,Bachelor's,299,2004-2005,,
+3869,Computer Engineering,Bachelor's,299,2005-2006,,
+3870,Computer Engineering,Bachelor's,299,2006-2007,,
+3871,Computer Engineering,Bachelor's,299,2007-2008,,
+3872,Computer Engineering,Bachelor's,299,2008-2009,,
+3873,Computer Engineering,Bachelor's,299,2009-2010,,
+3874,Computer Engineering,Bachelor's,299,2010-2011,,
+3875,Computer Engineering,Bachelor's,299,2011-2012,,
+1476,Computer Science,Bachelor's,302,2005-2006,4,3
+1477,Computer Science,Bachelor's,302,2006-2007,6,5
+1478,Computer Science,Bachelor's,302,2007-2008,6,4
+1479,Computer Science,Bachelor's,302,2008-2009,23,3
+1685,Computer Science,Bachelor's,302,2012-2013,28,13
+1686,Computer Science,Bachelor's,302,2011-2012,15,13
+1688,Computer Science,Bachelor's,302,2010-2011,17,10
+1689,Computer Science,Bachelor's,302,2009-2010,22,7
+2055,Computer Science,Bachelor's,302,2013-2014,33,11
+4343,Computer Science,Bachelor's,302,2014-2015,52,11
+4344,Computer Science,Bachelor's,302,2015-2016,,
+1472,Computer Engineering,Bachelor's,302,2005-2006,4,3
+1473,Computer Engineering,Bachelor's,302,2006-2007,3,2
+1474,Computer Engineering,Bachelor's,302,2007-2008,2,2
+1475,Computer Engineering,Bachelor's,302,2008-2009,12,1
+1690,Computer Engineering,Bachelor's,302,2009-2010,7,1
+1691,Computer Engineering,Bachelor's,302,2010-2011,12,5
+1692,Computer Engineering,Bachelor's,302,2011-2012,10,2
+1693,Computer Engineering,Bachelor's,302,2012-2013,15,2
+2053,Computer Engineering,Bachelor's,302,2013-2014,11,6
+2054,Computer Engineering,Bachelor's,302,2014-2015,25,
+3063,Computer Science,Bachelor's,307,2004-2005,,
+3064,Computer Science,Bachelor's,307,2005-2006,,
+3065,Computer Science,Bachelor's,307,2006-2007,,
+3066,Computer Science,Bachelor's,307,2007-2008,,
+3067,Computer Science,Bachelor's,307,2008-2009,,
+3068,Computer Science,Bachelor's,307,2009-2010,,
+3069,Computer Science,Bachelor's,307,2010-2011,,
+3070,Computer Science,Bachelor's,307,2011-2012,,
+4999,Computer Science,Bachelor's,311,2015-2016,,
+2297,Computer Science,Bachelor's,312,2004-2005,,
+2298,Computer Science,Bachelor's,312,2005-2006,,
+2299,Computer Science,Bachelor's,312,2006-2007,,
+2300,Computer Science,Bachelor's,312,2007-2008,,
+2301,Computer Science,Bachelor's,312,2008-2009,,
+2302,Computer Science,Bachelor's,312,2009-2010,,
+2303,Computer Science,Bachelor's,312,2010-2011,,
+2304,Computer Science,Bachelor's,312,2011-2012,,
+4576,Computer Science (BS),Bachelor's,314,2015-2016,,
+5201,Computer Science (BS),Bachelor's,314,2015-2016,,
+4671,Information Technology,Bachelor's,319,2014-2015,27,
+4662,Computer Software and Media Applications,Bachelor's,319,2013-2014,15,
+4667,Computer Software and Media Applications,Bachelor's,319,2010-2011,16,
+4670,Information Technology,Bachelor's,319,2015-2016,27,
+4677,Information Technology,Bachelor's,319,2010-2011,4,
+4663,Computer Software and Media Applications,Bachelor's,319,2012-2013,8,
+4664,Computer Software and Media Applications,Bachelor's,319,2011-2012,18,
+4658,Computer Software and Media Applications,Bachelor's,319,2015-2016,14,
+4674,Information Technology,Bachelor's,319,2012-2013,12,
+4676,Information Technology,Bachelor's,319,2011-2012,8,
+4659,Computer Software and Media Applications,Bachelor's,319,2014-2015,11,
+4672,Information Technology,Bachelor's,319,2013-2014,12,
+3057,Information Technology,Bachelor's,319,2007-2008,,
+4678,Information Technology,Bachelor's,319,2009-2010,12,
+4679,Information Technology,Bachelor's,319,2008-2009,8,
+5281,Information Technology,Bachelor's,319,2016-2017,28,
+2037,Computer Science,Bachelor's,319,2011-2012,19,9
+2038,Computer Science,Bachelor's,319,2012-2013,34,7
+2039,Computer Science,Bachelor's,319,2013-2014,30,14
+2040,Computer Science,Bachelor's,319,2014-2015,40,9
+3051,Computer Science,Bachelor's,319,2004-2005,,
+3052,Computer Science,Bachelor's,319,2005-2006,,
+3053,Computer Science,Bachelor's,319,2006-2007,,
+3054,Computer Science,Bachelor's,319,2007-2008,,
+3055,Computer Science,Bachelor's,319,2008-2009,,
+3056,Computer Science,Bachelor's,319,2009-2010,,
+4384,Computer Science,Bachelor's,319,2015-2016,62,
+3060,Web Design/Graphics,Bachelor's,319,2007-2008,,
+4668,Computer Software and Media Applications,Bachelor's,319,2009-2010,17,
+4669,Computer Software and Media Applications,Bachelor's,319,2008-2009,11,
+5280,Computer Software and Media Applications,Bachelor's,319,2016-2017,29,
+2505,Information Technology,Bachelor's,32,2010-2011,,
+2506,Information Technology,Bachelor's,32,2011-2012,,
+2497,Software Information Systems,Bachelor's,32,2004-2005,,
+2498,Software Information Systems,Bachelor's,32,2005-2006,,
+2499,Software Information Systems,Bachelor's,32,2006-2007,,
+2500,Software Information Systems,Bachelor's,32,2007-2008,,
+2501,Software Information Systems,Bachelor's,32,2008-2009,,
+2502,Software Information Systems,Bachelor's,32,2009-2010,,
+2503,Software Information Systems,Bachelor's,32,2010-2011,,
+2504,Software Information Systems,Bachelor's,32,2011-2012,,
+2489,Computer Science (BS),Bachelor's,32,2004-2005,,
+2490,Computer Science (BS),Bachelor's,32,2005-2006,,
+2491,Computer Science (BS),Bachelor's,32,2006-2007,,
+2492,Computer Science (BS),Bachelor's,32,2007-2008,,
+2493,Computer Science (BS),Bachelor's,32,2008-2009,,
+2494,Computer Science (BS),Bachelor's,32,2009-2010,,
+2495,Computer Science (BS),Bachelor's,32,2010-2011,,
+2496,Computer Science (BS),Bachelor's,32,2011-2012,,
+2481,Computer Science (BA),Bachelor's,32,2004-2005,,
+2482,Computer Science (BA),Bachelor's,32,2005-2006,,
+2483,Computer Science (BA),Bachelor's,32,2006-2007,,
+2484,Computer Science (BA),Bachelor's,32,2007-2008,,
+2485,Computer Science (BA),Bachelor's,32,2008-2009,,
+2486,Computer Science (BA),Bachelor's,32,2009-2010,,
+2487,Computer Science (BA),Bachelor's,32,2010-2011,,
+2488,Computer Science (BA),Bachelor's,32,2011-2012,,
+2716,Information Technology,Bachelor's,320,2009-2010,,
+2717,Information Technology,Bachelor's,320,2010-2011,,
+2718,Information Technology,Bachelor's,320,2011-2012,,
+4439,Information Technology,Bachelor's,320,2015-2016,,
+4442,Information Technology,Bachelor's,320,2012-2013,,
+4443,Information Technology,Bachelor's,320,2013-2014,,
+4444,Information Technology,Bachelor's,320,2014-2015,,
+5047,Information Technology,Bachelor's,320,2004-2005,,
+2727,Computer Information Systems,Bachelor's,320,2004-2005,,
+2728,Computer Information Systems,Bachelor's,320,2005-2006,,
+2729,Computer Information Systems,Bachelor's,320,2006-2007,,
+2730,Computer Information Systems,Bachelor's,320,2007-2008,,
+2731,Computer Information Systems,Bachelor's,320,2008-2009,,
+2732,Computer Information Systems,Bachelor's,320,2009-2010,,
+2733,Computer Information Systems,Bachelor's,320,2010-2011,,
+2734,Computer Information Systems,Bachelor's,320,2011-2012,,
+2719,Computer Science,Bachelor's,320,2004-2005,,
+2720,Computer Science,Bachelor's,320,2005-2006,,
+2721,Computer Science,Bachelor's,320,2006-2007,,
+2722,Computer Science,Bachelor's,320,2007-2008,,
+2723,Computer Science,Bachelor's,320,2008-2009,,
+2724,Computer Science,Bachelor's,320,2009-2010,,
+2725,Computer Science,Bachelor's,320,2010-2011,,
+2726,Computer Science,Bachelor's,320,2011-2012,,
+4445,Computer Science,Bachelor's,320,2012-2013,,
+4446,Computer Science,Bachelor's,320,2013-2014,,
+4447,Computer Science,Bachelor's,320,2014-2015,,
+4448,Computer Science,Bachelor's,320,2015-2016,,
+2697,Telecomm Technology,Bachelor's,320,2004-2005,,
+2698,Telecomm Technology,Bachelor's,320,2005-2006,,
+2699,Telecomm Technology,Bachelor's,320,2006-2007,,
+2700,Telecomm Technology,Bachelor's,320,2007-2008,,
+2701,Telecomm Technology,Bachelor's,320,2008-2009,,
+2702,Telecomm Technology,Bachelor's,320,2009-2010,,
+2703,Telecomm Technology,Bachelor's,320,2010-2011,,
+2704,Telecomm Technology,Bachelor's,320,2011-2012,,
+2705,Unclear,Bachelor's,320,2004-2005,,
+2706,Unclear,Bachelor's,320,2005-2006,,
+2707,Unclear,Bachelor's,320,2006-2007,,
+2708,Unclear,Bachelor's,320,2007-2008,,
+2709,Unclear,Bachelor's,320,2008-2009,,
+2710,Electronics Technology,Bachelor's,320,2004-2005,,
+2711,Electronics Technology,Bachelor's,320,2005-2006,,
+2712,Electronics Technology,Bachelor's,320,2006-2007,,
+2713,Electronics Technology,Bachelor's,320,2007-2008,,
+2714,Electronics Technology,Bachelor's,320,2008-2009,,
+2715,Electronics Technology,Bachelor's,320,2009-2010,,
+4634,Information Technology,Bachelor's,322,2015-2016,,
+4635,Data Science,Bachelor's,322,2015-2016,,
+4636,Game Design,Bachelor's,322,2015-2016,,
+2475,Information Technology,Bachelor's,323,2009-2010,,
+2476,Information Technology,Bachelor's,323,2010-2011,,
+2479,Software Information Systems,Bachelor's,323,2009-2010,,
+2480,Software Information Systems,Bachelor's,323,2010-2011,,
+2477,Computer Science,Bachelor's,323,2009-2010,,
+2478,Computer Science,Bachelor's,323,2010-2011,,
+4430,Computer Science,Bachelor's,324,2011-2012,2,3
+4431,Computer Science,Bachelor's,324,2012-2013,6,1
+4432,Computer Science,Bachelor's,324,2013-2014,4,5
+4433,Computer Science,Bachelor's,324,2014-2015,4,5
+4547,Computer Science,Associate's,324,2010-2011,5,0
+4852,Computer Science,Bachelor's,324,2016-2017,13,
+4878,Computer Science,Bachelor's,324,2015-2016,9,4
+4426,Electrical and Computer Engineering,Bachelor's,324,2011-2012,7,6
+4427,Electrical and Computer Engineering,Bachelor's,324,2013-2014,2,2
+4428,Electrical and Computer Engineering,Bachelor's,324,2014-2015,9,9
+4429,Electrical and Computer Engineering,Bachelor's,324,2012-2013,3,4
+4549,Electrical and Computer Engineering,Bachelor's,324,2010-2011,6,2
+4854,Electrical and Computer Engineering,Bachelor's,324,2016-2017,7,
+4880,Electrical and Computer Engineering,Bachelor's,324,2015-2016,11,1
+4533,Computer Science,Bachelor's,326,2014-2015,,
+2842,Computer Science,Bachelor's,330,2004-2005,,
+2843,Computer Science,Bachelor's,330,2005-2006,,
+2844,Computer Science,Bachelor's,330,2006-2007,,
+2845,Computer Science,Bachelor's,330,2007-2008,,
+2846,Computer Science,Bachelor's,330,2008-2009,,
+2847,Computer Science,Bachelor's,330,2009-2010,,
+2848,Computer Science,Bachelor's,330,2010-2011,,
+2849,Computer Science,Bachelor's,330,2011-2012,,
+4688,Computer Science,Bachelor's,330,2015-2016,12,
+4690,Computer Science,Bachelor's,330,2014-2015,,
+4693,Computer Science,Bachelor's,330,2013-2014,,
+4696,Computer Science,Bachelor's,330,2012-2013,,
+2858,Computer Engineering,Bachelor's,330,2004-2005,,
+2859,Computer Engineering,Bachelor's,330,2005-2006,,
+2860,Computer Engineering,Bachelor's,330,2006-2007,,
+2861,Computer Engineering,Bachelor's,330,2007-2008,,
+2862,Computer Engineering,Bachelor's,330,2008-2009,,
+2863,Computer Engineering,Bachelor's,330,2009-2010,,
+2864,Computer Engineering,Bachelor's,330,2010-2011,,
+2865,Computer Engineering,Bachelor's,330,2011-2012,,
+4487,Computer Engineering,Bachelor's,330,2015-2016,,
+4692,Computer Engineering,Bachelor's,330,2014-2015,,
+4695,Computer Engineering,Bachelor's,330,2013-2014,,
+4698,Computer Engineering,Bachelor's,330,2012-2013,,
+2850,Computer Science,Bachelor's,330,2004-2005,,
+2851,Computer Science,Bachelor's,330,2005-2006,,
+2852,Computer Science,Bachelor's,330,2006-2007,,
+2853,Computer Science,Bachelor's,330,2007-2008,,
+2854,Computer Science,Bachelor's,330,2008-2009,,
+2855,Computer Science,Bachelor's,330,2009-2010,,
+2856,Computer Science,Bachelor's,330,2010-2011,,
+2857,Computer Science,Bachelor's,330,2011-2012,,
+4689,Software Engineering,Bachelor's,330,2015-2016,,
+4691,Software Engineering,Bachelor's,330,2014-2015,,
+4694,Software Engineering,Bachelor's,330,2013-2014,,
+4697,Software Engineering,Bachelor's,330,2012-2013,,
+4681,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,331,2014-2015,,2
+3546,Computer Science,Bachelor's,331,2004-2005,,
+3547,Computer Science,Bachelor's,331,2005-2006,,
+3548,Computer Science,Bachelor's,331,2006-2007,,
+3549,Computer Science,Bachelor's,331,2007-2008,,
+3550,Computer Science,Bachelor's,331,2008-2009,,
+3551,Computer Science,Bachelor's,331,2009-2010,,
+3552,Computer Science,Bachelor's,331,2010-2011,,
+3553,Computer Science,Bachelor's,331,2011-2012,,
+3037,Information Science ,Bachelor's,333,2004-2005,,
+3038,Information Science ,Bachelor's,333,2005-2006,,
+3039,Information Science ,Bachelor's,333,2006-2007,,
+3040,Information Science ,Bachelor's,333,2007-2008,,
+3041,Information Science ,Bachelor's,333,2008-2009,,
+3042,Information Science ,Bachelor's,333,2009-2010,,
+3043,Information Science ,Bachelor's,333,2010-2011,,
+3044,Information Science ,Bachelor's,333,2011-2012,,
+3034,Computer Science,Bachelor's,333,2004-2005,,
+3035,Computer Science,Bachelor's,333,2005-2006,,
+3036,Computer Science,Bachelor's,333,2006-2007,,
+3031,Computer Engineering,Bachelor's,333,2004-2005,,
+3032,Computer Engineering,Bachelor's,333,2005-2006,,
+3033,Computer Engineering,Bachelor's,333,2006-2007,,
+2319,Information Technology,Associate's,334,2007-2008,,
+2320,Information Technology,Associate's,334,2008-2009,,
+2321,Information Technology,Associate's,334,2009-2010,,
+2322,Information Technology,Associate's,334,2007-2008,,
+2313,Computer Information Systems,Associate's,334,2007-2008,,
+2314,Computer Information Systems,Associate's,334,2008-2009,,
+2315,Computer Information Systems,Associate's,334,2009-2010,,
+2316,Computer Support,Associate's,334,2007-2008,,
+2317,Computer Support,Associate's,334,2008-2009,,
+2318,Computer Support,Associate's,334,2009-2010,,
+5224,Computer Science (BS),Bachelor's,336,2011-2012,,13
+5225,Computer Science (BS),Bachelor's,336,2012-2013,,14
+5226,Computer Science (BS),Bachelor's,336,2013-2014,,20
+5227,Computer Science (BS),Bachelor's,336,2015-2016,,
+5279,Computer Science (BS),Bachelor's,336,2014-2015,,
+5223,Computer Science (BS),Bachelor's,336,2010-2011,,10
+5228,Computer Science (BA),Bachelor's,336,2010-2011,,1
+5229,Computer Science (BA),Bachelor's,336,2011-2012,,1
+5230,Computer Science (BA),Bachelor's,336,2012-2013,,2
+5231,Computer Science (BA),Bachelor's,336,2013-2014,,7
+5232,Computer Science (BA),Bachelor's,336,2015-2016,,
+5278,Computer Science (BA),Bachelor's,336,2014-2015,,
+3697,Computer Science +,Bachelor's,337,2004-2005,,
+3698,Computer Science,Bachelor's,337,2005-2006,,
+3699,Computer Science,Bachelor's,337,2006-2007,,
+3700,Computer Science,Bachelor's,337,2007-2008,,
+3701,Computer Science,Bachelor's,337,2008-2009,,
+3702,Computer Science,Bachelor's,337,2009-2010,,
+3703,Computer Science,Bachelor's,337,2010-2011,,
+3704,Computer Science,Bachelor's,337,2011-2012,,
+3689,Computer Science,Bachelor's,337,2004-2005,,
+3690,Computer Science,Bachelor's,337,2005-2006,,
+3691,Computer Science,Bachelor's,337,2006-2007,,
+3692,Computer Science,Bachelor's,337,2007-2008,,
+3693,Computer Science,Bachelor's,337,2008-2009,,
+3694,Computer Science,Bachelor's,337,2009-2010,,
+3695,Computer Science,Bachelor's,337,2010-2011,,
+3696,Computer Science,Bachelor's,337,2011-2012,,
+2366,Computer Science,Bachelor's,345,2004-2005,,
+2367,Computer Science,Bachelor's,345,2005-2006,,
+2368,Computer Science,Bachelor's,345,2006-2007,,
+2369,Computer Science,Bachelor's,345,2007-2008,,
+2370,Computer Science,Bachelor's,345,2008-2009,,
+2371,Computer Science,Bachelor's,345,2009-2010,,
+2372,Computer Science,Bachelor's,345,2010-2011,,
+2373,Computer Science,Bachelor's,345,2011-2012,,
+2358,Mathematics,Bachelor's,345,2004-2005,,
+2359,Mathematics,Bachelor's,345,2005-2006,,
+2360,Mathematics,Bachelor's,345,2006-2007,,
+2361,Mathematics,Bachelor's,345,2007-2008,,
+2362,Mathematics,Bachelor's,345,2008-2009,,
+2363,Mathematics,Bachelor's,345,2009-2010,,
+2364,Mathematics,Bachelor's,345,2010-2011,,
+2365,Mathematics,Bachelor's,345,2011-2012,,
+3997,Computer Science,Bachelor's,346,2009-2010,,10
+3998,Computer Science,Bachelor's,346,2010-2011,,17
+3999,Computer Science,Bachelor's,346,2011-2012,,7
+4000,Computer Science,Bachelor's,346,2012-2013,,16
+4001,Computer Science,Bachelor's,346,2013-2014,,25
+4002,Computer Science,Bachelor's,346,2014-2015,,33
+4003,Computer Science,Bachelor's,346,2009-2010,,4
+4004,Computer Science,Bachelor's,346,2010-2011,,2
+4005,Computer Science,Bachelor's,346,2011-2012,,2
+4006,Computer Science,Bachelor's,346,2012-2013,,4
+4007,Computer Science,Bachelor's,346,2013-2014,,5
+4008,Computer Science,Bachelor's,346,2014-2015,,13
+4850,Computer Science,Bachelor's,346,2015-2016,,33
+4851,Computer Science,Bachelor's,346,2015-2016,,46
+4434,Computer Science,Bachelor'ss,347,2014-2015,,
+2820,Computer Science,Bachelor's,348,2004-2005,,
+2821,Computer Science,Bachelor's,348,2005-2006,,
+2822,Computer Science,Bachelor's,348,2006-2007,,
+2823,Computer Science,Bachelor's,348,2007-2008,,
+2824,Computer Science,Bachelor's,348,2008-2009,,
+2825,Computer Science,Bachelor's,348,2009-2010,,
+2566,Computer Information Systems,Bachelor's,351,2008-2009,,
+2567,Computer Information Systems,Bachelor's,351,2009-2010,,
+2568,Computer Science,Bachelor's,351,2004-2005,,
+2569,Computer Science,Bachelor's,351,2005-2006,,
+2570,Computer Science,Bachelor's,351,2006-2007,,
+2571,Computer Science,Bachelor's,351,2007-2008,,
+2572,Computer Science,Bachelor's,351,2008-2009,,
+2573,Computer Science,Bachelor's,351,2009-2010,,
+2580,Information Technology Management,Bachelor's,351,2004-2005,,
+2581,Information Technology Management,Bachelor's,351,2005-2006,,
+2582,Information Technology Management,Bachelor's,351,2006-2007,,
+2583,Information Technology Management,Bachelor's,351,2007-2008,,
+2584,Information Technology Management,Bachelor's,351,2008-2009,,
+2585,Information Technology Management,Bachelor's,351,2009-2010,,
+2560,Computer Engineering,Bachelor's,351,2004-2005,,
+2561,Computer Engineering,Bachelor's,351,2005-2006,,
+2562,Computer Engineering,Bachelor's,351,2006-2007,,
+2563,Computer Engineering,Bachelor's,351,2007-2008,,
+2564,Computer Engineering,Bachelor's,351,2008-2009,,
+2565,Computer Engineering,Bachelor's,351,2009-2010,,
+2574,Computer Engineering,Bachelor's,351,2004-2005,,
+2575,Computer Engineering,Bachelor's,351,2005-2006,,
+2576,Computer Engineering,Bachelor's,351,2006-2007,,
+2577,Computer Engineering,Bachelor's,351,2007-2008,,
+2578,Computer Engineering,Bachelor's,351,2008-2009,,
+2579,Computer Engineering,Bachelor's,351,2009-2010,,
+3521,Information Technology,Bachelor's,36,2008-2009,,
+3522,Information Technology,Bachelor's,36,2009-2010,,
+3523,Information Technology,Bachelor's,36,2010-2011,,
+3524,Information Technology,Bachelor's,36,2011-2012,,
+4169,Computer Science,Bachelor's,361,2014-2015,42,
+4170,Information Technology,Bachelor's,361,2014-2015,7,
+1700,Information Technology,Bachelor's,361,2008-2009,,3
+1701,Information Technology,Bachelor's,361,2009-2010,4,3
+1702,Information Technology,Bachelor's,361,2010-2011,,2
+1703,Information Technology,Bachelor's,361,2011-2012,4,4
+1704,Information Technology,Bachelor's,361,2012-2013,4,5
+1705,Information Technology,Bachelor's,361,2013-2014,1,8
+3495,Information Technology,Bachelor's,361,2007-2008,,
+1694,Computer Science,Bachelor's,361,2008-2009,,5
+1695,Computer Science,Bachelor's,361,2009-2010,16,7
+1696,Computer Science,Bachelor's,361,2010-2011,14,9
+1697,Computer Science,Bachelor's,361,2011-2012,13,4
+1698,Computer Science,Bachelor's,361,2012-2013,22,7
+1699,Computer Science,Bachelor's,361,2013-2014,27,5
+3500,Computer Science,Bachelor's,361,2004-2005,,
+3501,Computer Science,Bachelor's,361,2005-2006,,
+3502,Computer Science,Bachelor's,361,2006-2007,,
+3503,Computer Science,Bachelor's,361,2007-2008,,
+3508,Computer Engineering,Bachelor's,361,2007-2008,,
+3509,Computer Engineering,Bachelor's,361,2008-2009,,
+3510,Computer Engineering,Bachelor's,361,2009-2010,,
+3511,Computer Engineering,Bachelor's,361,2010-2011,,
+3512,Computer Engineering,Bachelor's,361,2011-2012,,
+5215,Computer Science,Bachelor's,363,2014-2015,,
+5222,Computer Science,Bachelor's,363,2016-2017,,
+2259,Computer Science,Bachelor's,364,2004-2005,,
+2260,Computer Science,Bachelor's,364,2005-2006,,
+2261,Computer Science,Bachelor's,364,2006-2007,,
+2262,Computer Science,Bachelor's,364,2007-2008,,
+2263,Computer Science,Bachelor's,364,2008-2009,,
+2264,Computer Science,Bachelor's,364,2009-2010,,
+2265,Computer Science,Bachelor's,364,2010-2011,,
+2266,Computer Science,Bachelor's,364,2011-2012,,
+3147,Information Technology ,Bachelor'ss,367,2005-2006,,
+3148,Information Technology ,Bachelor'ss,367,2006-2007,,
+3149,Information Technology ,Bachelor'ss,367,2007-2008,,
+3150,Information Technology ,Bachelor'ss,367,2008-2009,,
+3151,Information Technology ,Bachelor'ss,367,2009-2010,,
+3137,Computer Science,Bachelor'ss,367,2005-2006,,
+3138,Computer Science,Bachelor'ss,367,2006-2007,,
+3139,Computer Science,Bachelor'ss,367,2007-2008,,
+3140,Computer Science,Bachelor'ss,367,2008-2009,,
+3141,Computer Science,Bachelor'ss,367,2009-2010,,
+3132,Computer Engineering,Bachelor'ss,367,2005-2006,,
+3133,Computer Engineering,Bachelor'ss,367,2006-2007,,
+3134,Computer Engineering,Bachelor'ss,367,2007-2008,,
+3135,Computer Engineering,Bachelor'ss,367,2008-2009,,
+3136,Computer Engineering,Bachelor'ss,367,2009-2010,,
+3142,Computer Engineering,Bachelor'ss,367,2005-2006,,
+3143,Computer Engineering,Bachelor'ss,367,2006-2007,,
+3144,Computer Engineering,Bachelor'ss,367,2007-2008,,
+3145,Computer Engineering,Bachelor'ss,367,2008-2009,,
+3146,Computer Engineering,Bachelor'ss,367,2009-2010,,
+3152,Management Information Systems,Bachelor'ss,367,2005-2006,,
+3153,Management Information Systems,Bachelor'ss,367,2006-2007,,
+3154,Management Information Systems,Bachelor'ss,367,2007-2008,,
+3155,Management Information Systems,Bachelor'ss,367,2008-2009,,
+3156,Management Information Systems,Bachelor'ss,367,2009-2010,,
+3705,Informatics,Bachelor's,368,2004-2005,,
+3706,Informatics,Bachelor's,368,2005-2006,,
+3707,Informatics,Bachelor's,368,2006-2007,,
+3708,Informatics,Bachelor's,368,2007-2008,,
+3709,Informatics,Bachelor's,368,2008-2009,,
+3710,Informatics,Bachelor's,368,2009-2010,,
+3719,Computer Information Systems,Bachelor's,368,2004-2005,,
+3720,Computer Information Systems,Bachelor's,368,2005-2006,,
+3721,Computer Information Systems,Bachelor's,368,2006-2007,,
+3722,Computer Information Systems,Bachelor's,368,2007-2008,,
+3723,Computer Information Systems,Bachelor's,368,2008-2009,,
+3724,Computer Information Systems,Bachelor's,368,2009-2010,,
+3711,Computer Science,Bachelor's,368,2004-2005,,
+3712,Computer Science,Bachelor's,368,2005-2006,,
+3713,Computer Science,Bachelor's,368,2006-2007,,
+3714,Computer Science,Bachelor's,368,2007-2008,,
+3715,Computer Science,Bachelor's,368,2008-2009,,
+3716,Computer Science,Bachelor's,368,2009-2010,,
+3725,Engineering Technology,Bachelor's,368,2007-2008,,
+3726,Engineering Technology,Bachelor's,368,2008-2009,,
+3727,Engineering Technology,Bachelor's,368,2009-2010,,
+3717,Computational Mathematics,Bachelor's,368,2004-2005,,
+3718,Computational Mathematics,Bachelor's,368,2005-2006,,
+1282,Informatics,Bachelor's,369,2005-2006,,13
+1283,Informatics,Bachelor's,369,2006-2007,,14
+1284,Informatics,Bachelor's,369,2007-2008,,14
+2098,Informatics,Bachelor's,369,2009-2010,,22
+2099,Informatics,Bachelor's,369,2010-2011,,29
+2100,Informatics,Bachelor's,369,2011-2012,,42
+2101,Informatics,Bachelor's,369,2012-2013,,20
+2102,Informatics,Bachelor's,369,2013-2014,,45
+2103,Informatics,Bachelor's,369,2014-2015,,
+4244,Informatics,Bachelor's,369,2008-2009,,10
+4253,Computer Science (BS),Bachelor's,369,2007-2008,,1
+4254,Computer Science (BS),Bachelor's,369,2008-2009,,
+4255,Computer Science (BS),Bachelor's,369,2009-2010,,4
+4256,Computer Science (BS),Bachelor's,369,2010-2011,,3
+4257,Computer Science (BS),Bachelor's,369,2011-2012,,2
+4258,Computer Science (BS),Bachelor's,369,2012-2013,,5
+4259,Computer Science (BS),Bachelor's,369,2013-2014,,5
+4260,Computer Science (BS),Bachelor's,369,2014-2015,,
+4245,Computer Science (BA),Bachelor's,369,2007-2008,,1
+4246,Computer Science (BA),Bachelor's,369,2008-2009,,1
+4247,Computer Science (BA),Bachelor's,369,2009-2010,,
+4248,Computer Science (BA),Bachelor's,369,2010-2011,,1
+4249,Computer Science (BA),Bachelor's,369,2011-2012,,4
+4250,Computer Science (BA),Bachelor's,369,2012-2013,,3
+4251,Computer Science (BA),Bachelor's,369,2013-2014,,4
+4252,Computer Science (BA),Bachelor's,369,2014-2015,,
+3910,Information Technology,Bachelor's,37,2004-2005,,
+3911,Information Technology,Bachelor's,37,2005-2006,,
+3912,Information Technology,Bachelor's,37,2006-2007,,
+3913,Information Technology,Bachelor's,37,2007-2008,,
+3914,Information Technology,Bachelor's,37,2008-2009,,
+3915,Information Technology,Bachelor's,37,2009-2010,,
+3916,Information Technology,Bachelor's,37,2010-2011,,
+3917,Information Technology,Bachelor's,37,2011-2012,,
+3902,Computer Science,Bachelor's,37,2004-2005,,
+3903,Computer Science,Bachelor's,37,2005-2006,,
+3904,Computer Science,Bachelor's,37,2006-2007,,
+3905,Computer Science,Bachelor's,37,2007-2008,,
+3906,Computer Science,Bachelor's,37,2008-2009,,
+3907,Computer Science,Bachelor's,37,2009-2010,,
+3908,Computer Science,Bachelor's,37,2010-2011,,
+3909,Computer Science,Bachelor's,37,2011-2012,,
+4267,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,370,2013-2014,14,5
+4268,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,370,2012-2013,11,2
+4269,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,370,2011-2012,19,3
+4270,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,370,2010-2011,11,2
+4271,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,370,2009-2010,6,3
+4943,Computer and Information Sciences,Bachelor's,370,2014-2015,14,2
+4944,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,370,2015-2016,23,4
+4945,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,370,2016-2017,11,
+2743,Information Science,Bachelor's,371,2011-2012,,
+2735,Computer Science,Bachelor's,371,2004-2005,,
+2736,Computer Science,Bachelor's,371,2005-2006,,
+2737,Computer Science,Bachelor's,371,2006-2007,,
+2738,Computer Science,Bachelor's,371,2007-2008,,
+2739,Computer Science,Bachelor's,371,2008-2009,,
+2740,Computer Science,Bachelor's,371,2009-2010,,
+2741,Computer Science,Bachelor's,371,2010-2011,,
+2742,Computer Science,Bachelor's,371,2011-2012,,
+4119,Computer Science,Bachelor's,373,2014-2015,13,4
+4120,Computer Science,Bachelor's,373,2013-2014,13,3
+4130,Computer Engineering,Bachelor's,373,2014-2015,12,2
+4847,Electrical and Computer Engineering,Bachelor's,373,2016-2017,3,
+4848,Electrical Engineering,Bachelor's,373,2016-2017,6,
+4776,Mechanical Engineering,Bachelor's,373,2015-2016,11,6
+4771,Computer Science,Bachelor's,373,2015-2016,24,7
+4846,Computer Science,Bachelor's,373,2016-2017,33,
+4155,Computer Software and Media Applications,Bachelor's,373,2014-2015,5,0
+4775,Computer Engineering,Bachelor's,373,2015-2016,5,1
+4122,Computer Science,Bachelor's,373,2011-2012,8,1
+4770,Computer Software and Media Applications,Bachelor's,373,2015-2016,5,0
+4150,Electrical Engineering,Bachelor's,373,2014-2015,4,4
+4124,Mechanical Engineering,Bachelor's,373,2014-2015,23,3
+4849,Mechanical Engineering,Bachelor's,373,2016-2017,28,
+4845,Computer Engineering,Bachelor's,373,2016-2017,13,
+4769,Electrical Engineering,Bachelor's,373,2015-2016,4,2
+4843,Computer Software and Media Applications,Bachelor's,373,2016-2017,15,
+4153,Electrical Engineering,Bachelor's,373,2011-2012,10,1
+4774,Electrical and Computer Engineering,Bachelor's,373,2015-2016,5,1
+4126,Mechanical Engineering,Bachelor's,373,2012-2013,9,7
+4123,Computer Science,Bachelor's,373,2010-2011,3,2
+4121,Computer Science,Bachelor's,373,2012-2013,4,1
+4157,Computer Software and Media Applications,Bachelor's,373,2012-2013,1,0
+4159,Computer Software and Media Applications,Bachelor's,373,2010-2011,3,4
+4156,Computer Software and Media Applications,Bachelor's,373,2013-2014,0,2
+4158,Computer Software and Media Applications,Bachelor's,373,2011-2012,1,1
+4129,Computer Engineering,Bachelor's,373,2010-2011,2,
+4131,Computer Engineering,Bachelor's,373,2013-2014,3,2
+4132,Computer Engineering,Bachelor's,373,2012-2013,4,2
+4133,Computer Engineering,Bachelor's,373,2011-2012,4,
+4151,Electrical Engineering,Bachelor's,373,2013-2014,6,2
+4152,Electrical Engineering,Bachelor's,373,2012-2013,3,3
+4154,Electrical Engineering,Bachelor's,373,2010-2011,3,2
+4160,Electrical and Computer Engineering,Bachelor's,373,2014-2015,4,1
+4161,Electrical and Computer Engineering,Bachelor's,373,2013-2014,1,
+4162,Electrical and Computer Engineering,Bachelor's,373,2012-2013,1,
+4163,Electrical and Computer Engineering,Bachelor's,373,2011-2012,1,
+4164,Electrical and Computer Engineering,Bachelor's,373,2010-2011,,1
+4125,Mechanical Engineering,Bachelor's,373,2013-2014,11,1
+4127,Mechanical Engineering,Bachelor's,373,2011-2012,11,3
+4128,Mechanical Engineering,Bachelor's,373,2010-2011,4,0
+2144,Computer Information Systems,Bachelor's,379,2004-2005,,
+2145,Computer Information Systems,Bachelor's,379,2005-2006,,
+2146,Computer Information Systems,Bachelor's,379,2006-2007,,
+2147,Computer Information Systems,Bachelor's,379,2007-2008,,
+2148,Computer Information Systems,Bachelor's,379,2008-2009,,
+2149,Computer Information Systems,Bachelor's,379,2009-2010,,
+2150,Computer Information Systems,Bachelor's,379,2010-2011,,
+2151,Computer Information Systems,Bachelor's,379,2011-2012,,
+2152,Computer Information Systems,Bachelor's,379,2004-2005,,
+2153,Computer Information Systems,Bachelor's,379,2005-2006,,
+2154,Computer Information Systems,Bachelor's,379,2006-2007,,
+2155,Computer Information Systems,Bachelor's,379,2007-2008,,
+2156,Computer Information Systems,Bachelor's,379,2008-2009,,
+2157,Computer Information Systems,Bachelor's,379,2009-2010,,
+2158,Computer Information Systems,Bachelor's,379,2010-2011,,
+2159,Computer Information Systems,Bachelor's,379,2011-2012,,
+2136,Computer Science,Bachelor's,379,2004-2005,,
+2137,Computer Science,Bachelor's,379,2005-2006,,
+2138,Computer Science,Bachelor's,379,2006-2007,,
+2139,Computer Science,Bachelor's,379,2007-2008,,
+2140,Computer Science,Bachelor's,379,2008-2009,,
+2141,Computer Science,Bachelor's,379,2009-2010,,
+2142,Computer Science,Bachelor's,379,2010-2011,,
+2143,Computer Science,Bachelor's,379,2011-2012,,
+1738,Computer Science,Bachelor's,38,2011-2012,24,5
+1739,Computer Science,Bachelor's,38,2012-2013,47,7
+1740,Computer Science,Bachelor's,38,2013-2014,69,16
+4517,Computer Science,Bachelor's,38,2014-2015,79,24
+4682,Computer Science,Bachelor's,380,2015-2016,,
+3985,Computer Information Systems,Bachelor's,381,2004-2005,,
+3986,Computer Information Systems,Bachelor's,381,2005-2006,,
+3987,Computer Information Systems,Bachelor's,381,2006-2007,,
+3988,Computer Information Systems,Bachelor's,381,2007-2008,,
+3989,Computer Information Systems,Bachelor's,381,2008-2009,,
+3990,Computer Information Systems,Bachelor's,381,2009-2010,,
+3979,Computer Science,Bachelor's,381,2004-2005,,
+3980,Computer Science,Bachelor's,381,2005-2006,,
+3981,Computer Science,Bachelor's,381,2006-2007,,
+3982,Computer Science,Bachelor's,381,2007-2008,,
+3983,Computer Science,Bachelor's,381,2008-2009,,
+3984,Computer Science,Bachelor's,381,2009-2010,,
+3991,Computer Engineering,Bachelor's,381,2004-2005,,
+3992,Computer Engineering,Bachelor's,381,2005-2006,,
+3993,Computer Engineering,Bachelor's,381,2006-2007,,
+3994,Computer Engineering,Bachelor's,381,2007-2008,,
+3995,Computer Engineering,Bachelor's,381,2008-2009,,
+3996,Computer Engineering,Bachelor's,381,2009-2010,,
+2352,Applied Information Technology,Bachelor's,387,2007-2008,,
+2353,Applied Information Technology,Bachelor's,387,2008-2009,,
+2354,Applied Information Technology,Bachelor's,387,2009-2010,,
+1372,Computer Science,Bachelor's,388,2008-2009,12,
+1373,Computer Science,Bachelor's,388,2009-2010,8,5
+1374,Computer Science,Bachelor's,388,2010-2011,14,6
+1375,Computer Science,Bachelor's,388,2011-2012,12,8
+1376,Computer Science,Bachelor's,388,2012-2013,34,9
+2008,Computer Science,Bachelor's,388,2013-2014,21,15
+2013,Computer Science,Bachelor's,388,2014-2015,89,
+2967,Computer Science,Bachelor's,388,2004-2005,,
+2968,Computer Science,Bachelor's,388,2005-2006,,
+2969,Computer Science,Bachelor's,388,2006-2007,,
+2970,Computer Science,Bachelor's,388,2007-2008,,
+1377,Computer Engineering,Bachelor's,388,2008-2009,8,
+1378,Computer Engineering,Bachelor's,388,2009-2010,14,7
+1379,Computer Engineering,Bachelor's,388,2010-2011,11,10
+1380,Computer Engineering,Bachelor's,388,2011-2012,15,2
+1381,Computer Engineering,Bachelor's,388,2012-2013,22,4
+2009,Computer Engineering,Bachelor's,388,2013-2014,33,8
+2048,Computer Engineering,Bachelor's,388,2014-2015,61,
+2989,Computer Engineering,Bachelor's,388,2006-2007,,
+2990,Computer Engineering,Bachelor's,388,2007-2008,,
+2744,Computer Science,Bachelor's,392,2008-2009,,
+2745,Computer Science,Bachelor's,392,2009-2010,,
+2746,Computer Science,Bachelor's,392,2010-2011,,
+2747,Computer Science,Bachelor's,392,2011-2012,,
+2748,Computer Science,Bachelor's,392,2004-2005,,
+2749,Computer Science,Bachelor's,392,2005-2006,,
+2750,Computer Science,Bachelor's,392,2006-2007,,
+2751,Computer Science,Bachelor's,392,2007-2008,,
+2752,Computer Science,Bachelor's,392,2008-2009,,
+2753,Computer Science,Bachelor's,392,2009-2010,,
+2754,Computer Science,Bachelor's,392,2010-2011,,
+2755,Computer Science,Bachelor's,392,2011-2012,,
+2327,Data Science,Bachelor's,393,2010-2011,,
+2328,Data Science,Bachelor's,393,2011-2012,,
+2329,Computer Science + X,Bachelor's,393,2011-2012,,
+2325,Information Systems,Bachelor's,393,2010-2011,,
+2326,Information Systems,Bachelor's,393,2011-2012,,
+2323,Computer Science,Bachelor's,393,2010-2011,,
+2324,Computer Science,Bachelor's,393,2011-2012,,
+3525,Computer Information Systems,Bachelor's,394,2004-2005,,
+3526,Computer Information Systems,Bachelor's,394,2005-2006,,
+3527,Computer Information Systems,Bachelor's,394,2006-2007,,
+3528,Computer Information Systems,Bachelor's,394,2007-2008,,
+3529,Computer Information Systems,Bachelor's,394,2008-2009,,
+3530,Computer Information Systems,Bachelor's,394,2009-2010,,
+2112,Computer Science,Bachelor's,395,2004-2005,,
+2113,Computer Science,Bachelor's,395,2005-2006,,
+2114,Computer Science,Bachelor's,395,2006-2007,,
+2115,Computer Science,Bachelor's,395,2007-2008,,
+2116,Computer Science,Bachelor's,395,2008-2009,,
+2117,Computer Science,Bachelor's,395,2009-2010,,
+2118,Computer Science,Bachelor's,395,2010-2011,,
+2119,Computer Science,Bachelor's,395,2011-2012,,
+2120,Computer Science,Bachelor's,395,2004-2005,,
+2121,Computer Science,Bachelor's,395,2005-2006,,
+2122,Computer Science,Bachelor's,395,2006-2007,,
+2123,Computer Science,Bachelor's,395,2007-2008,,
+2124,Computer Science,Bachelor's,395,2008-2009,,
+2125,Computer Science,Bachelor's,395,2009-2010,,
+2126,Computer Science,Bachelor's,395,2010-2011,,
+2127,Computer Science,Bachelor's,395,2011-2012,,
+2128,Software Engineering,Bachelor's,395,2004-2005,,
+2129,Software Engineering,Bachelor's,395,2005-2006,,
+2130,Software Engineering,Bachelor's,395,2006-2007,,
+2131,Software Engineering,Bachelor's,395,2007-2008,,
+2132,Software Engineering,Bachelor's,395,2008-2009,,
+2133,Software Engineering,Bachelor's,395,2009-2010,,
+2134,Software Engineering,Bachelor's,395,2010-2011,,
+2135,Software Engineering,Bachelor's,395,2011-2012,,
+2235,Computer Information Systems,Bachelor's,397,2004-2005,,
+2236,Computer Information Systems,Bachelor's,397,2005-2006,,
+2237,Computer Information Systems,Bachelor's,397,2006-2007,,
+2238,Computer Information Systems,Bachelor's,397,2007-2008,,
+2239,Computer Information Systems,Bachelor's,397,2008-2009,,
+2240,Computer Information Systems,Bachelor's,397,2009-2010,,
+2241,Computer Information Systems,Bachelor's,397,2010-2011,,
+2242,Computer Information Systems,Bachelor's,397,2011-2012,,
+2227,Computer Science,Bachelor's,397,2004-2005,,
+2228,Computer Science,Bachelor's,397,2005-2006,,
+2229,Computer Science,Bachelor's,397,2006-2007,,
+2230,Computer Science,Bachelor's,397,2007-2008,,
+2231,Computer Science,Bachelor's,397,2008-2009,,
+2232,Computer Science,Bachelor's,397,2009-2010,,
+2233,Computer Science,Bachelor's,397,2010-2011,,
+2234,Computer Science,Bachelor's,397,2011-2012,,
+3276,Computer Science,Bachelor's,4,2004-2005,,
+3277,Computer Science,Bachelor's,4,2005-2006,,
+3278,Computer Science,Bachelor's,4,2006-2007,,
+3279,Computer Science,Bachelor's,4,2007-2008,,
+3280,Computer Science,Bachelor's,4,2008-2009,,
+3281,Computer Science,Bachelor's,4,2009-2010,,
+3282,Computer Science,Bachelor's,4,2010-2011,,
+3283,Computer Science,Bachelor's,4,2011-2012,,
+3284,Computational Mathematics,Bachelor's,4,2010-2011,,
+3285,Computational Mathematics,Bachelor's,4,2011-2012,,
+3342,Information Science,Bachelor's,40,2004-2005,,
+3343,Information Science,Bachelor's,40,2005-2006,,
+3344,Information Science,Bachelor's,40,2006-2007,,
+3345,Information Science,Bachelor's,40,2007-2008,,
+3346,Information Science,Bachelor's,40,2008-2009,,
+3347,Information Science,Bachelor's,40,2009-2010,,
+3348,Information Science,Bachelor's,40,2010-2011,,
+3349,Information Science,Bachelor's,40,2011-2012,,
+3334,Computer Science,Bachelor's,40,2004-2005,,
+3335,Computer Science,Bachelor's,40,2005-2006,,
+3336,Computer Science,Bachelor's,40,2006-2007,,
+3337,Computer Science,Bachelor's,40,2007-2008,,
+3338,Computer Science,Bachelor's,40,2008-2009,,
+3339,Computer Science,Bachelor's,40,2009-2010,,
+3340,Computer Science,Bachelor's,40,2010-2011,,
+3341,Computer Science,Bachelor's,40,2011-2012,,
+3350,Computer Science,Bachelor's,40,2008-2009,,
+3351,Computer Science,Bachelor's,40,2009-2010,,
+3352,Computer Science,Bachelor's,40,2010-2011,,
+3353,Computer Science,Bachelor's,40,2011-2012,,
+4707,Computer Science,Bachelor's,40,2015-2016,,
+3468,,,402,2004-2005,,
+3469,,,402,2005-2006,,
+3470,,,402,2006-2007,,
+4138,Mechanical Engineering,Bachelor's,41,2010-2011,4,3
+4143,Computer Science,Bachelor's,41,2010-2011,2,1
+4134,Mechanical Engineering,Bachelor's,41,2014-2015,4,0
+4142,Computer Science,Bachelor's,41,2011-2012,8,1
+4135,Mechanical Engineering,Bachelor's,41,2013-2014,4,4
+4141,Computer Science,Bachelor's,41,2012-2013,6,3
+5261,Computer Science,Bachelor's,41,2015-2016,17,6
+4140,Computer Science,Bachelor's,41,2013-2014,8,2
+5262,Mechanical Engineering,Bachelor's,41,2015-2016,10,6
+4136,Mechanical Engineering,Bachelor's,41,2012-2013,4,3
+4139,Computer Science,Bachelor's,41,2014-2015,10,0
+4137,Mechanical Engineering,Bachelor's,41,2011-2012,0,2
+4703,Computer Science,Bachelor's,410,2015-2016,,6
+2330,Computer Science,Bachelor's,411,2004-2005,,
+2331,Computer Science,Bachelor's,411,2005-2006,,
+2332,Computer Science,Bachelor's,411,2006-2007,,
+2333,Computer Science,Bachelor's,411,2007-2008,,
+2334,Computer Science,Bachelor's,411,2008-2009,,
+2335,Computer Science,Bachelor's,411,2009-2010,,
+2336,Computer Science,Bachelor's,411,2010-2011,,
+2337,Computer Science,Bachelor's,411,2011-2012,,
+4511,Computer Science,Bachelor's,411,2015-2016,,
+4515,Computer Science,Bachelor's,411,2014-2015,,
+4826,Computer Science,Bachelor's,411,2015-2016,,
+1641,Computer Science,Bachelor's,412,2005-2006,2,4
+1642,Computer Science,Bachelor's,412,2006-2007,2,2
+1643,Computer Science,Bachelor's,412,2007-2008,3,4
+1644,Computer Science,Bachelor's,412,2008-2009,3,0
+3828,Computer Science,Bachelor's,412,2004-2005,1,
+3833,Computer Science,Bachelor's,412,2009-2010,7,1
+3834,Computer Science,Bachelor's,412,2010-2011,4,0
+3835,Computer Science,Bachelor's,412,2011-2012,1,5
+4316,Computer Science,Bachelor's,412,2015-2016,11,
+4319,Computer Science,Bachelor's,412,2014-2015,8,3
+4320,Computer Science,Bachelor's,412,2013-2014,5,4
+4321,Computer Science,Bachelor's,412,2012-2013,,7
+4560,Computer Science,Bachelor's,412,2015-2016,,
+4440,Computer Science,Bachelor'ss,414,2015-2016,,
+4680,Computer Science,Bachelor'ss,414,2015-2016,,
+2764,Computer Information Systems,Bachelor's,417,2004-2005,,
+2765,Computer Information Systems,Bachelor's,417,2005-2006,,
+2766,Computer Information Systems,Bachelor's,417,2006-2007,,
+2767,Computer Information Systems,Bachelor's,417,2007-2008,,
+2768,Computer Information Systems,Bachelor's,417,2008-2009,,
+2769,Computer Information Systems,Bachelor's,417,2009-2010,,
+2770,Computer Information Systems,Bachelor's,417,2010-2011,,
+2771,Computer Information Systems,Bachelor's,417,2011-2012,,
+5214,Computer Information Systems,Bachelor's,417,2015-2016,,
+4702,Computer Science (BA),Bachelor's,420,2015-2016,,
+2756,Computer Science,Bachelor's,421,2004-2005,,
+2757,Computer Science,Bachelor's,421,2005-2006,,
+2758,Computer Science,Bachelor's,421,2006-2007,,
+2759,Computer Science,Bachelor's,421,2007-2008,,
+2760,Computer Science,Bachelor's,421,2008-2009,,
+2761,Computer Science,Bachelor's,421,2009-2010,,
+2762,Computer Science,Bachelor's,421,2010-2011,,
+2763,Computer Science,Bachelor's,421,2011-2012,,
+1566,Computer Science,Bachelor's,422,2005-2006,20,13
+1567,Computer Science,Bachelor's,422,2006-2007,12,9
+1568,Computer Science,Bachelor's,422,2007-2008,6,13
+1569,Computer Science,Bachelor's,422,2008-2009,17,16
+1570,Computer Science,Bachelor's,422,2009-2010,15,19
+1571,Computer Science,Bachelor's,422,2010-2011,16,17
+1877,Computer Science,Bachelor's,422,2011-2012,10,16
+1878,Computer Science,Bachelor's,422,2012-2013,25,19
+1907,Computer Science,Bachelor's,422,2013-2014,16,36
+1908,Computer Science,Bachelor's,422,2014-2015,27,37
+4449,Computer Science,Bachelor's,422,2015-2016,38,37
+4885,Computer Science,Bachelor's,422,2016-2017,33,
+2071,Computer Engineering,Bachelor's,422,2011-2012,3,1
+2072,Computer Engineering,Bachelor's,422,2012-2013,0,0
+2073,Computer Engineering,Bachelor's,422,2013-2014,3,1
+2074,Computer Engineering,Bachelor's,422,2014-2015,2,2
+4353,Computer Engineering,Bachelor's,422,2015-2016,5,3
+2075,Mechanical Engineering,Bachelor's,422,2011-2012,12,18
+2076,Mechanical Engineering,Bachelor's,422,2012-2013,18,19
+2077,Mechanical Engineering,Bachelor's,422,2013-2014,9,13
+2078,Mechanical Engineering,Bachelor's,422,2014-2015,8,14
+4354,Mechanical Engineering,Bachelor's,422,2015-2016,15,13
+4781,Informatics,Bachelor's,424,2015-2016,,14
+4782,Informatics,Bachelor's,424,2014-2015,,4
+1458,Computer Science + X,Bachelor's,424,2004-2005,,2
+1459,Computer Science + X,Bachelor's,424,2005-2006,,2
+1460,Computer Science + X,Bachelor's,424,2006-2007,,1
+1461,Computer Science + X,Bachelor's,424,2007-2008,,1
+1462,Information Science,Bachelor's,424,2004-2005,,19
+1463,Information Science,Bachelor's,424,2005-2006,,10
+1464,Information Science,Bachelor's,424,2006-2007,,11
+1465,Information Science,Bachelor's,424,2007-2008,,10
+3330,Information Science,Bachelor's,424,2008-2009,,11
+3331,Information Science,Bachelor's,424,2009-2010,,12
+3332,Information Science,Bachelor's,424,2010-2011,,10
+3333,Information Science,Bachelor's,424,2011-2012,,21
+4783,Information Science,Bachelor'ss,424,2013-2014,,14
+4784,Information Science,Bachelor'ss,424,2012-2013,,15
+4785,Information Science,Bachelor'ss,424,2014-2015,,10
+4786,Information Science,Bachelor'ss,424,2015-2016,,4
+3320,Computer Science,Bachelor's,424,2008-2009,,1
+3321,Computer Science,Bachelor's,424,2009-2010,,0
+3322,Computer Science,Bachelor's,424,2008-2009,,
+3323,Computer Science,Bachelor's,424,2009-2010,,
+3324,Computer Science,Bachelor's,424,2010-2011,,
+3325,Computer Science,Bachelor's,424,2011-2012,,
+4799,Computer Science,Bachelor's,424,2010-2011,,2
+4800,Computer Science,Bachelor's,424,2011-2012,,1
+4801,Computer Science,Bachelor's,424,2012-2013,,0
+4802,Computer Science,Bachelor's,424,2015-2016,,0
+4803,Computer Science,Bachelor's,424,2013-2014,,2
+4804,Computer Science,Bachelor's,424,2014-2015,,2
+1454,Computer Science (BS),Bachelor's,424,2004-2005,,3
+1455,Computer Science (BS),Bachelor's,424,2005-2006,,2
+1456,Computer Science (BS),Bachelor's,424,2006-2007,,0
+1457,Computer Science (BS),Bachelor's,424,2007-2008,,1
+3314,Computer Science (BS),Bachelor's,424,2008-2009,,1
+3315,Computer Science (BS),Bachelor's,424,2009-2010,,
+4793,Computer Science (BS),Bachelor's,424,2014-2015,,
+4794,Computer Science (BS),Bachelor's,424,2010-2011,,1
+4795,Computer Science (BS),Bachelor's,424,2011-2012,,1
+4796,Computer Science (BS),Bachelor's,424,2015-2016,,
+4797,Computer Science (BS),Bachelor's,424,2012-2013,,3
+4798,Computer Science (BS),Bachelor's,424,2013-2014,,1
+1450,Computer Science (BA),Bachelor's,424,2004-2005,,3
+1451,Computer Science (BA),Bachelor's,424,2005-2006,,2
+1452,Computer Science (BA),Bachelor's,424,2006-2007,,1
+1453,Computer Science (BA),Bachelor's,424,2007-2008,,0
+3308,Computer Science (BA),Bachelor's,424,2008-2009,,2
+3309,Computer Science (BA),Bachelor's,424,2009-2010,,2
+4787,Computer Science (BA),Bachelor's,424,2010-2011,,2
+4788,Computer Science (BA),Bachelor's,424,2011-2012,,4
+4789,Computer Science (BA),Bachelor's,424,2012-2013,,2
+4790,Computer Science (BA),Bachelor's,424,2013-2014,,3
+4791,Computer Science (BA),Bachelor's,424,2014-2015,,2
+4792,Computer Science (BA),Bachelor's,424,2015-2016,,1
+4481,Computer Information Systems,Bachelor's,43,2014-2015,,5
+4519,Computer Science,Bachelor's,43,2014-2015,,2
+4181,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,430,2014-2015,84,
+4182,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,430,2013-2014,59,54
+4183,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,430,2012-2013,92,43
+4184,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,430,2011-2012,50,31
+4185,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,430,2010-2011,41,22
+4186,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,430,2009-2010,32,25
+4187,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,430,2008-2009,26,11
+4188,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,430,2007-2008,17,20
+4189,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,430,2006-2007,25,25
+4190,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,430,2005-2006,27,22
+4191,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,430,2004-2005,30,40
+4192,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,430,2003-2004,45,47
+3439,Computer Science + X,Bachelor's,430,2007-2008,,
+3440,Computer Science + X,Bachelor's,430,2008-2009,,
+3441,Computer Science + X,Bachelor's,430,2009-2010,,
+3434,Computer Science (BS),Bachelor's,430,2007-2008,,
+3435,Computer Science (BS),Bachelor's,430,2008-2009,,
+3436,Computer Science (BS),Bachelor's,430,2009-2010,,
+3437,Computer Science (BA),Bachelor's,430,2008-2009,,
+3438,Computer Science (BA),Bachelor's,430,2009-2010,,
+3442,Computer Engineering,Bachelor's,430,2007-2008,,
+3443,Computer Engineering,Bachelor's,430,2008-2009,,
+3444,Computer Engineering,Bachelor's,430,2009-2010,,
+3445,Computer Engineering,Bachelor's,430,2007-2008,,
+3446,Computer Engineering,Bachelor's,430,2008-2009,,
+3447,Computer Engineering,Bachelor's,430,2009-2010,,
+1392,Information Technology,Bachelor's,435,2004-2005,,24
+1393,Information Technology,Bachelor's,435,2005-2006,,10
+1394,Information Technology,Bachelor's,435,2006-2007,,9
+1395,Information Technology,Bachelor's,435,2007-2008,,11
+3089,Game Development,Bachelor's,435,2009-2010,,
+3090,Information Science,Bachelor's,435,2004-2005,,
+3091,Information Science,Bachelor's,435,2005-2006,,
+3092,Information Science,Bachelor's,435,2006-2007,,
+3093,Information Science,Bachelor's,435,2007-2008,,
+3094,Information Science,Bachelor's,435,2008-2009,,
+3095,Information Science,Bachelor's,435,2009-2010,,
+1388,Computer Science,Bachelor's,435,2004-2005,,9
+1389,Computer Science,Bachelor's,435,2005-2006,,4
+1390,Computer Science,Bachelor's,435,2006-2007,,3
+1391,Computer Science,Bachelor's,435,2007-2008,,4
+1400,Computer Science,Bachelor's,435,2004-2005,,2
+1401,Computer Science,Bachelor's,435,2005-2006,,7
+3087,Computer Science,Bachelor's,435,2008-2009,,
+3088,Computer Science,Bachelor's,435,2009-2010,,
+1396,Networking,Bachelor's,435,2004-2005,,0
+1397,Networking,Bachelor's,435,2005-2006,,2
+1398,Networking,Bachelor's,435,2006-2007,,1
+1399,Networking,Bachelor's,435,2007-2008,,1
+3096,Security,Bachelor's,435,2007-2008,,
+3097,Security,Bachelor's,435,2008-2009,,
+3098,Security,Bachelor's,435,2009-2010,,
+1402,Software Engineering,Bachelor's,435,2006-2007,,2
+1403,Software Engineering,Bachelor's,435,2007-2008,,0
+3100,Software Engineering,Bachelor's,435,2008-2009,,
+3101,Software Engineering,Bachelor's,435,2009-2010,,
+1572,Computer Engineering,Bachelor's,437,2009-2010,,13
+1573,Computer Engineering,Bachelor's,437,2010-2011,,1
+1574,Computer Engineering,Bachelor's,437,2011-2012,,7
+1575,Electrical Engineering,Bachelor's,437,2009-2010,,22
+1576,Electrical Engineering,Bachelor's,437,2010-2011,,12
+1577,Electrical Engineering,Bachelor's,437,2011-2012,,11
+1578,Mechanical Engineering,Bachelor's,437,2009-2010,,29
+1579,Mechanical Engineering,Bachelor's,437,2010-2011,,10
+1580,Mechanical Engineering,Bachelor's,437,2011-2012,,16
+2418,Computer Science + X,Bachelor's,438,2007-2008,,
+2419,Computer Science + X,Bachelor's,438,2008-2009,,
+2420,Computer Science + X,Bachelor's,438,2009-2010,,
+2421,Computer Science + X,Bachelor's,438,2010-2011,,
+2422,Computer Science + X,Bachelor's,438,2011-2012,,
+2423,Computer Science,Bachelor's,438,2007-2008,,
+2424,Computer Science,Bachelor's,438,2008-2009,,
+2425,Computer Science,Bachelor's,438,2009-2010,,
+2426,Computer Science,Bachelor's,438,2010-2011,,
+2427,Computer Science,Bachelor's,438,2011-2012,,
+3124,Information Technology ,Bachelor'ss,440,2004-2005,,
+3125,Information Technology ,Bachelor'ss,440,2005-2006,,
+3126,Information Technology ,Bachelor'ss,440,2006-2007,,
+3127,Information Technology ,Bachelor'ss,440,2007-2008,,
+3128,Information Technology ,Bachelor'ss,440,2008-2009,,
+3129,Information Technology ,Bachelor'ss,440,2009-2010,,
+3130,Information Technology ,Bachelor'ss,440,2010-2011,,
+3131,Information Technology ,Bachelor'ss,440,2011-2012,,
+4509,Computer Science,Bachelor's,443,2014-2015,,
+3408,Computer Science,Bachelor's,445,2005-2006,,
+3409,Computer Science,Bachelor's,445,2006-2007,,
+3410,Computer Science,Bachelor's,445,2007-2008,,
+3411,Computer Science,Bachelor's,445,2008-2009,,
+3412,Computer Science,Bachelor's,445,2009-2010,,
+3413,Computer Science,Bachelor's,445,2010-2011,,
+3414,Computer Science,Bachelor's,445,2011-2012,,
+3077,Computer Science (BS),Bachelor's,448,2004-2005,,
+3078,Computer Science (BS),Bachelor's,448,2005-2006,,
+3079,Computer Science (BS),Bachelor's,448,2006-2007,,
+3080,Computer Science (BS),Bachelor's,448,2007-2008,,
+3081,Computer Science (BS),Bachelor's,448,2008-2009,,
+3082,Computer Science (BS),Bachelor's,448,2009-2010,,
+3071,Computer Science (BA),Bachelor's,448,2004-2005,,
+3072,Computer Science (BA),Bachelor's,448,2005-2006,,
+3073,Computer Science (BA),Bachelor's,448,2006-2007,,
+3074,Computer Science (BA),Bachelor's,448,2007-2008,,
+3075,Computer Science (BA),Bachelor's,448,2008-2009,,
+3076,Computer Science (BA),Bachelor's,448,2009-2010,,
+4768,Computer Science,Bachelor's,451,2015-2016,,
+4777,Computer Science,Bachelor's,451,2015-2016,,
+4778,Computer Science,Bachelor's,451,2015-2016,,
+4779,Computer Science,Bachelor's,451,2015-2016,,
+4675,Electrical Engineering,Bachelor's,451,2015-2016,,
+4685,Electrical Engineering,Bachelor's,451,2015-2016,,
+3949,Game Design,Bachelor's,453,2009-2010,,
+3950,Game Design,Bachelor's,453,2010-2011,,
+3951,Game Design,Bachelor's,453,2011-2012,,
+3926,Web/Resource Management,Bachelor's,453,2004-2005,,
+3927,Web/Resource Management,Bachelor's,453,2005-2006,,
+3928,Web/Resource Management,Bachelor's,453,2006-2007,,
+3929,Web/Resource Management,Bachelor's,453,2007-2008,,
+3930,Web/Resource Management,Bachelor's,453,2008-2009,,
+3931,Web/Resource Management,Bachelor's,453,2009-2010,,
+3932,Web/Resource Management,Bachelor's,453,2010-2011,,
+3933,Web/Resource Management,Bachelor's,453,2011-2012,,
+3952,Web/Resource Management,Bachelor's,453,2006-2007,,
+3953,Web/Resource Management,Bachelor's,453,2007-2008,,
+3954,Web/Resource Management,Bachelor's,453,2008-2009,,
+3955,Web/Resource Management,Bachelor's,453,2009-2010,,
+3956,Web/Resource Management,Bachelor's,453,2010-2011,,
+3957,Web/Resource Management,Bachelor's,453,2011-2012,,
+3934,Internet Network Design,Bachelor's,453,2004-2005,,
+3935,Internet Network Design,Bachelor's,453,2005-2006,,
+3936,Internet Network Design,Bachelor's,453,2006-2007,,
+3937,Internet Network Design,Bachelor's,453,2007-2008,,
+3938,Internet Network Design,Bachelor's,453,2008-2009,,
+3939,Internet Network Design,Bachelor's,453,2009-2010,,
+3940,Internet Network Design,Bachelor's,453,2010-2011,,
+3941,Internet Network Design,Bachelor's,453,2011-2012,,
+3942,Network Security,Bachelor's,453,2005-2006,,
+3943,Network Security,Bachelor's,453,2006-2007,,
+3944,Network Security,Bachelor's,453,2007-2008,,
+3945,Network Security,Bachelor's,453,2008-2009,,
+3946,Network Security,Bachelor's,453,2009-2010,,
+3947,Network Security,Bachelor's,453,2010-2011,,
+3948,Network Security,Bachelor's,453,2011-2012,,
+1234,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,456,2008-2009,3,5
+1231,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,456,2005-2006,2,14
+1233,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,456,2007-2008,2,4
+1235,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,456,2009-2010,4,6
+1237,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,456,2011-2012,7,3
+1236,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,456,2010-2011,3,7
+4243,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,456,2013-2014,8,5
+1232,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,456,2006-2007,0,10
+4242,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,456,2012-2013,3,5
+2689,Computer Science,Bachelor's,459,2004-2005,,
+2690,Computer Science,Bachelor's,459,2005-2006,,
+2691,Computer Science,Bachelor's,459,2006-2007,,
+2692,Computer Science,Bachelor's,459,2007-2008,,
+2693,Computer Science,Bachelor's,459,2008-2009,,
+2694,Computer Science,Bachelor's,459,2009-2010,,
+2695,Computer Science,Bachelor's,459,2010-2011,,
+2696,Computer Science,Bachelor's,459,2011-2012,,
+4146,Computer Science,Bachelor's,46,2013-2014,3,5
+4149,Computer Science,Bachelor's,46,2010-2011,1,1
+4144,Computer Engineering,Bachelor's,46,2014-2015,1,0
+5234,Computer Science,Bachelor's,46,2015-2016,5,3
+4147,Computer Science,Bachelor's,46,2012-2013,3,2
+4145,Computer Science,Bachelor's,46,2014-2015,4,3
+4148,Computer Science,Bachelor's,46,2011-2012,4,0
+5235,Computer Engineering,Bachelor's,46,2015-2016,0,0
+1618,Computer Science,Bachelor's,462,2004-2005,,5
+1619,Computer Science,Bachelor's,462,2005-2006,,4
+1620,Computer Science,Bachelor's,462,2006-2007,,3
+1621,Computer Science,Bachelor's,462,2007-2008,,0
+4729,Computer Science,Bachelor's,462,2015-2016,,
+4435,Software Engineering,Bachelor's,463,2015-2016,,
+4513,Management Information Systems,Bachelor's,464,2015-2016,,
+4273,Computer Science,Bachelor's,467,2014-2015,,
+4489,Computer Science,Bachelor's,468,2015-2016,,
+4538,Computer Science,Bachelor's,468,2014-2015,,
+4539,Computer Science,Bachelor's,468,2015-2016,,
+4540,Computer Science,Bachelor's,468,2015-2016,,
+4541,Computer Science,Bachelor's,468,2013-2014,,
+4542,Computer Science,Bachelor's,468,2015-2016,,
+2004,Computer Science,Bachelor's,469,2013-2014,,21
+4318,Computer Science,Bachelor's,469,2014-2015,,12
+2006,Computer Engineering,Bachelor's,469,2013-2014,,3
+4334,Computer Engineering,Bachelor's,469,2014-2015,,2
+1665,Electrical Engineering,Bachelor's,469,2004-2005,,9
+1666,Electrical Engineering,Bachelor's,469,2005-2006,,16
+1667,Electrical Engineering,Bachelor's,469,2006-2007,,13
+1668,Electrical Engineering,Bachelor's,469,2007-2008,,15
+1669,Electrical Engineering,Bachelor's,469,2008-2009,,9
+1670,Electrical Engineering,Bachelor's,469,2009-2010,,10
+1671,Electrical Engineering,Bachelor's,469,2010-2011,,11
+1672,Electrical Engineering,Bachelor's,469,2011-2012,,10
+1673,Electrical Engineering,Bachelor's,469,2012-2013,,9
+1993,Electrical Engineering,Bachelor's,469,2013-2014,,18
+2007,Electrical Engineering,Bachelor's,469,2003-2004,,12
+1674,Mechanical Engineering,Bachelor's,469,2003-2004,,18
+1675,Mechanical Engineering,Bachelor's,469,2004-2005,,29
+1676,Mechanical Engineering,Bachelor's,469,2005-2006,,31
+1677,Mechanical Engineering,Bachelor's,469,2006-2007,,27
+1678,Mechanical Engineering,Bachelor's,469,2007-2008,,19
+1679,Mechanical Engineering,Bachelor's,469,2008-2009,,24
+1680,Mechanical Engineering,Bachelor's,469,2009-2010,,28
+1681,Mechanical Engineering,Bachelor's,469,2010-2011,,32
+1682,Mechanical Engineering,Bachelor's,469,2011-2012,,31
+1683,Mechanical Engineering,Bachelor's,469,2012-2013,,
+3250,Information Technology,Bachelor's,47,2004-2005,,
+3251,Information Technology,Bachelor's,47,2005-2006,,
+3252,Information Technology,Bachelor's,47,2006-2007,,
+3253,Information Technology,Bachelor's,47,2007-2008,,
+3254,Information Technology,Bachelor's,47,2008-2009,,
+3255,Information Technology,Bachelor's,47,2009-2010,,
+3256,Information Technology,Bachelor's,47,2010-2011,,
+3257,Information Technology,Bachelor's,47,2011-2012,,
+3266,Game Design,Bachelor's,47,2009-2010,,
+3267,Game Design,Bachelor's,47,2010-2011,,
+3268,Game Design,Bachelor's,47,2011-2012,,
+3242,Computer Science,Bachelor's,47,2004-2005,,
+3243,Computer Science,Bachelor's,47,2005-2006,,
+3244,Computer Science,Bachelor's,47,2006-2007,,
+3245,Computer Science,Bachelor's,47,2007-2008,,
+3246,Computer Science,Bachelor's,47,2008-2009,,
+3247,Computer Science,Bachelor's,47,2009-2010,,
+3248,Computer Science,Bachelor's,47,2010-2011,,
+3249,Computer Science,Bachelor's,47,2011-2012,,
+3258,Computer Science,Bachelor's,47,2004-2005,,
+3259,Computer Science,Bachelor's,47,2005-2006,,
+3260,Computer Science,Bachelor's,47,2006-2007,,
+3261,Computer Science,Bachelor's,47,2007-2008,,
+3262,Computer Science,Bachelor's,47,2008-2009,,
+3263,Computer Science,Bachelor's,47,2009-2010,,
+3264,Computer Science,Bachelor's,47,2010-2011,,
+3265,Computer Science,Bachelor's,47,2011-2012,,
+4526,Computer Science (BS),Bachelor's,475,2014-2015,,18
+4527,Computer Science (BS),Bachelor's,475,2013-2014,,12
+4528,Computer Science (BS),Bachelor's,475,2012-2013,,11
+4529,Computer Science (BS),Bachelor's,475,2011-2012,,6
+4530,Computer Science (BS),Bachelor's,475,2010-2011,,4
+4815,Computer Science (BS),Bachelor's,475,2015-2016,,32
+4521,Computer Science (BA),Bachelor'ss,475,2014-2015,,4
+4522,Computer Science (BA),Bachelor'ss,475,2013-2014,,9
+4523,Computer Science (BA),Bachelor'ss,475,2012-2013,,2
+4524,Computer Science (BA),Bachelor'ss,475,2011-2012,,4
+4525,Computer Science (BA),Bachelor'ss,475,2010-2011,,1
+4814,Computer Science (BA),Bachelor'ss,475,2015-2016,,8
+4516,Computer Engineering,Bachelor'ss,476,2015-2016,,
+4706,Computer Science / Engineering,Bachelor's,481,2015-2016,22,
+4534,Information Technology,Bachelor's,485,2015-2016,,
+4479,Computer Information Systems,Bachelor's,485,2014-2015,,
+4480,Computer Information Systems,Bachelor's,485,2015-2016,,
+3918,Computer Science,Bachelor's,486,2004-2005,,
+3919,Computer Science,Bachelor's,486,2005-2006,,
+3920,Computer Science,Bachelor's,486,2006-2007,,
+3921,Computer Science,Bachelor's,486,2007-2008,,2
+3922,Computer Science,Bachelor's,486,2008-2009,,
+3923,Computer Science,Bachelor's,486,2009-2010,,
+3924,Computer Science,Bachelor's,486,2010-2011,,
+3925,Computer Science,Bachelor's,486,2011-2012,,
+4274,Computer Science,Bachelor's,486,2015-2016,,
+4275,Computer Science,Bachelor's,486,2014-2015,,
+4276,Computer Science,Bachelor's,486,2012-2013,,
+4277,Computer Science,Bachelor's,486,2013-2014,,
+1334,Materials Science and Engineering,Bachelor's,487,2010-2011,2,7
+2021,Computer Science,Bachelor's,487,2013-2014,18,8
+2014,Chemical Engineering,Bachelor's,487,2012-2013,32,12
+2024,Electrical Engineering,Bachelor's,487,2013-2014,6,7
+2015,Chemical Engineering,Bachelor's,487,2013-2014,52,16
+2019,Computer Engineering,Bachelor's,487,2014-2015,9,2
+1308,Biosystems Engineering,Bachelor's,487,2010-2011,8,7
+1305,Applied Engineering Sciences,Bachelor's,487,2011-2012,3,13
+2016,Chemical Engineering,Bachelor's,487,2014-2015,32,
+1314,Civil Engineering,Bachelor's,487,2008-2009,9,16
+2023,Electrical Engineering,Bachelor's,487,2012-2013,11,8
+1339,Mechanical Engineering,Bachelor's,487,2011-2012,25,14
+2027,Mechanical Engineering,Bachelor's,487,2013-2014,37,27
+2028,Mechanical Engineering,Bachelor's,487,2014-2015,38,27
+1307,Biosystems Engineering,Bachelor's,487,2009-2010,13,7
+2020,Computer Science,Bachelor's,487,2012-2013,16,6
+2022,Computer Science,Bachelor's,487,2014-2015,31,11
+1335,Materials Science and Engineering,Bachelor's,487,2011-2012,3,6
+2026,Mechanical Engineering,Bachelor's,487,2012-2013,29,13
+2017,Computer Engineering,Bachelor's,487,2012-2013,8,0
+2025,Electrical Engineering,Bachelor's,487,2014-2015,13,12
+1316,Civil Engineering,Bachelor's,487,2010-2011,15,11
+2018,Computer Engineering,Bachelor's,487,2013-2014,6,4
+1319,Computer Engineering,Bachelor's,487,2009-2010,7,1
+1320,Computer Engineering,Bachelor's,487,2010-2011,11,3
+1322,Computer Science,Bachelor's,487,2006-2007,20,5
+1323,Computer Science,Bachelor's,487,2007-2008,14,5
+1324,Computer Science,Bachelor's,487,2008-2009,10,4
+1325,Computer Science,Bachelor's,487,2009-2010,8,2
+1326,Computer Science,Bachelor's,487,2010-2011,9,5
+1327,Computer Science,Bachelor's,487,2011-2012,13,7
+5131,Computer Science,Bachelor's,487,2015-2016,,
+1302,Applied Engineering Sciences,Bachelor's,487,2008-2009,5,14
+1303,Applied Engineering Sciences,Bachelor's,487,2009-2010,1,16
+1304,Applied Engineering Sciences,Bachelor's,487,2010-2011,6,9
+1310,Chemical Engineering,Bachelor's,487,2008-2009,22,13
+1311,Chemical Engineering,Bachelor's,487,2009-2010,21,15
+1312,Chemical Engineering,Bachelor's,487,2010-2011,21,20
+1313,Chemical Engineering,Bachelor's,487,2011-2012,27,15
+1315,Civil Engineering,Bachelor's,487,2009-2010,19,11
+1317,Civil Engineering,Bachelor's,487,2011-2012,16,13
+1318,Computer Engineering,Bachelor's,487,2008-2009,8,1
+1321,Computer Engineering,Bachelor's,487,2011-2012,8,1
+1328,Electrical Engineering,Bachelor's,487,2008-2009,8,8
+1329,Electrical Engineering,Bachelor's,487,2009-2010,5,5
+1330,Electrical Engineering,Bachelor's,487,2010-2011,5,3
+1331,Electrical Engineering,Bachelor's,487,2011-2012,11,4
+1332,Materials Science and Engineering,Bachelor's,487,2008-2009,1,3
+1333,Materials Science and Engineering,Bachelor's,487,2009-2010,0,6
+1336,Mechanical Engineering,Bachelor's,487,2008-2009,9,13
+1337,Mechanical Engineering,Bachelor's,487,2009-2010,19,17
+1338,Mechanical Engineering,Bachelor's,487,2010-2011,26,18
+1306,Biosystems Engineering,Bachelor's,487,2008-2009,8,3
+1309,Biosystems Engineering,Bachelor's,487,2011-2012,20,17
+4205,Computer Engineering,Bachelor's,489,2012-2013,2,0
+4194,Electrical Engineering,Bachelor's,489,2013-2014,3,2
+4203,Computer Engineering,Bachelor's,489,2010-2011,2,1
+4202,Computer Science,Bachelor's,489,2014-2015,12,2
+4193,Electrical Engineering,Bachelor's,489,2014-2015,3,3
+4200,Computer Science,Bachelor's,489,2012-2013,5,4
+4207,Computer Engineering,Bachelor's,489,2014-2015,1,1
+4196,Electrical Engineering,Bachelor's,489,2011-2012,0,3
+4201,Computer Science,Bachelor's,489,2013-2014,3,1
+4206,Computer Engineering,Bachelor's,489,2013-2014,4,0
+4199,Computer Science,Bachelor's,489,2011-2012,7,1
+4204,Computer Engineering,Bachelor's,489,2011-2012,4,1
+4996,Computer Science,Bachelor's,489,2015-2016,9,4
+4998,Electrical Engineering,Bachelor's,489,2015-2016,6,3
+4198,Computer Science,Bachelor's,489,2010-2011,2,1
+4997,Computer Engineering,Bachelor's,489,2015-2016,2,0
+4197,Electrical Engineering,Bachelor's,489,2010-2011,4,5
+4195,Electrical Engineering,Bachelor's,489,2012-2013,2,2
+4629,Computer Science,Bachelor's,490,2012-2013,4,4
+4631,Computer Science,Bachelor's,490,2014-2015,13,8
+4630,Computer Science,Bachelor's,490,2013-2014,6,3
+4628,Computer Science,Bachelor's,490,2011-2012,4,3
+4627,Computer Science,Bachelor's,490,2010-2011,7,4
+4632,Computer Science,Bachelor's,490,2015-2016,20,
+3540,Computer Science,Bachelor's,490,2004-2005,,
+3541,Computer Science,Bachelor's,490,2005-2006,,
+3542,Computer Science,Bachelor's,490,2006-2007,,
+3543,Computer Science,Bachelor's,490,2007-2008,,
+3544,Computer Science,Bachelor's,490,2008-2009,,
+3545,Computer Science,Bachelor's,490,2009-2010,,
+5356,Computer Science,Bachelor's,493,2016-2017,85,
+1706,Computer Science,Bachelor's,493,2010-2011,40,24
+1707,Computer Science,Bachelor's,493,2011-2012,56,26
+1708,Computer Science,Bachelor's,493,2012-2013,65,40
+1709,Computer Science,Bachelor's,493,2013-2014,86,28
+1711,Computer Science,Bachelor's,493,2014-2015,102,64
+4383,Computer Science,Bachelor's,493,2015-2016,132,
+3804,Information Technology,Bachelor's,497,2004-2005,,
+3805,Information Technology,Bachelor's,497,2005-2006,,
+3806,Information Technology,Bachelor's,497,2006-2007,,
+3807,Information Technology,Bachelor's,497,2007-2008,,
+3808,Information Technology,Bachelor's,497,2008-2009,,
+3809,Information Technology,Bachelor's,497,2009-2010,,
+3810,Information Technology,Bachelor's,497,2010-2011,,
+3811,Information Technology,Bachelor's,497,2011-2012,,
+3812,Information Technology Management,Bachelor's,497,2004-2005,,
+3813,Information Technology Management,Bachelor's,497,2005-2006,,
+3814,Information Technology Management,Bachelor's,497,2006-2007,,
+3815,Information Technology Management,Bachelor's,497,2007-2008,,
+3816,Information Technology Management,Bachelor's,497,2008-2009,,
+3817,Information Technology Management,Bachelor's,497,2009-2010,,
+3818,Information Technology Management,Bachelor's,497,2010-2011,,
+3819,Information Technology Management,Bachelor's,497,2011-2012,,
+3009,Data Science,Bachelor's,499,2008-2009,,
+3010,Data Science,Bachelor's,499,2009-2010,,
+3011,Data Science,Bachelor's,499,2010-2011,,
+3012,Data Science,Bachelor's,499,2011-2012,,
+2995,Computer Information Systems,Bachelor's,499,2008-2009,,
+2996,Computer Information Systems,Bachelor's,499,2009-2010,,
+2997,Computer Information Systems,Bachelor's,499,2010-2011,,
+2998,Computer Information Systems,Bachelor's,499,2011-2012,,
+3017,Computer Information Systems,Bachelor's,499,2008-2009,,
+3018,Computer Information Systems,Bachelor's,499,2009-2010,,
+3019,Computer Information Systems,Bachelor's,499,2010-2011,,
+3020,Computer Information Systems,Bachelor's,499,2011-2012,,
+2999,Computer Science,Bachelor's,499,2008-2009,,
+3000,Computer Science,Bachelor's,499,2009-2010,,
+3001,Computer Science,Bachelor's,499,2010-2011,,
+3002,Computer Science,Bachelor's,499,2011-2012,,
+3003,Computer Science,Bachelor's,499,2010-2011,,
+3004,Computer Science,Bachelor's,499,2011-2012,,
+3005,Computer Science,Bachelor's,499,2008-2009,,
+3006,Computer Science,Bachelor's,499,2009-2010,,
+3007,Computer Science,Bachelor's,499,2010-2011,,
+3008,Computer Science,Bachelor's,499,2011-2012,,
+3013,Network Security,Bachelor's,499,2008-2009,,
+3014,Network Security,Bachelor's,499,2009-2010,,
+3015,Network Security,Bachelor's,499,2010-2011,,
+3016,Network Security,Bachelor's,499,2011-2012,,
+3021,Software Engineering,Bachelor's,499,2008-2009,,
+3022,Software Engineering,Bachelor's,499,2009-2010,,
+3023,Software Engineering,Bachelor's,499,2010-2011,,
+3024,Software Engineering,Bachelor's,499,2011-2012,,
+3025,Management Information Systems,Bachelor's,499,2008-2009,,
+3026,Management Information Systems,Bachelor's,499,2009-2010,,
+3027,Management Information Systems,Bachelor's,499,2010-2011,,
+3028,Management Information Systems,Bachelor's,499,2011-2012,,
+3796,Computer Science,Bachelor's,500,2004-2005,,
+3800,Computer Science,Bachelor's,500,2008-2009,,
+3801,Computer Science,Bachelor's,500,2009-2010,,
+3802,Computer Science,Bachelor's,500,2010-2011,,9
+3803,Computer Science,Bachelor's,500,2011-2012,,12
+4504,Computer Science,Bachelor's,500,2012-2013,,19
+4505,Computer Science,Bachelor's,500,2013-2014,,18
+4506,Computer Science,Bachelor's,500,2014-2015,,27
+5270,Computer Science,Bachelor's,500,2015-2016,,43
+3045,Computer Science,Bachelor's,51,2004-2005,,
+3046,Computer Science,Bachelor's,51,2005-2006,,
+3047,Computer Science,Bachelor's,51,2006-2007,,
+3048,Computer Science,Bachelor's,51,2007-2008,,
+3049,Computer Science,Bachelor's,51,2008-2009,,
+3050,Computer Science,Bachelor's,51,2009-2010,,
+1226,Computer Science,Bachelor's,54,2005-2006,9,8
+1227,Computer Science,Bachelor's,54,2006-2007,17,5
+1228,Computer Science,Bachelor's,54,2007-2008,14,6
+1229,Computer Science,Bachelor's,54,2008-2009,12,2
+1230,Computer Science,Bachelor's,54,2009-2010,18,2
+2243,Computer Science,Bachelor's,54,2004-2005,,
+2249,Computer Science,Bachelor's,54,2010-2011,,
+2250,Computer Science,Bachelor's,54,2011-2012,,
+2251,Software Engineering,Bachelor's,54,2004-2005,,
+2252,Software Engineering,Bachelor's,54,2005-2006,,
+2253,Software Engineering,Bachelor's,54,2006-2007,,
+2254,Software Engineering,Bachelor's,54,2007-2008,,
+2255,Software Engineering,Bachelor's,54,2008-2009,,
+2256,Software Engineering,Bachelor's,54,2009-2010,,
+2257,Software Engineering,Bachelor's,54,2010-2011,,
+2258,Software Engineering,Bachelor's,54,2011-2012,,
+5355,Computer Science,Bachelor's,6,2016-2017,24,
+5336,Computer Science,Bachelor's,6,2013-2014,21,4
+5337,Computer Science,Bachelor's,6,2014-2015,28,6
+5354,Computer Science,Bachelor's,6,2015-2016,34,16
+5340,Information Science,Bachelor's,6,2013-2014,4,10
+5341,Information Science,Bachelor's,6,2014-2015,4,10
+5342,Information Science,Bachelor's,6,2015-2016,2,8
+5343,Information Science,Bachelor's,6,2016-2017,2,
+3226,Computer Science,Bachelor's,60,2004-2005,,
+3227,Computer Science,Bachelor's,60,2005-2006,,
+3228,Computer Science,Bachelor's,60,2006-2007,,
+3229,Computer Science,Bachelor's,60,2007-2008,,
+3230,Computer Science,Bachelor's,60,2008-2009,,
+3231,Computer Science,Bachelor's,60,2009-2010,,
+3232,Computer Science,Bachelor's,60,2010-2011,,
+3233,Computer Science,Bachelor's,60,2011-2012,,
+3611,Computer Science,Bachelor's,61,2004-2005,,
+3612,Computer Science,Bachelor's,61,2005-2006,,
+3613,Computer Science,Bachelor's,61,2006-2007,,
+3614,Computer Science,Bachelor's,61,2007-2008,,
+3615,Computer Science,Bachelor's,61,2008-2009,,
+3616,Computer Science,Bachelor's,61,2009-2010,,
+4735,Computer and Information Science,Bachelor's,63,2015-2016,,
+4404,Computer Science,Bachelor's,64,2014-2015,50,32
+4936,Computer Science,Bachelor's,64,2016-2017,79,
+4406,Computer Science + X,Bachelor's,64,2012-2013,11,8
+4405,Computer Science,Bachelor's,64,2015-2016,78,48
+4937,Computer Science + X,Bachelor's,64,2016-2017,14,
+4403,Computer Science,Bachelor's,64,2013-2014,36,37
+4407,Computer Science + X,Bachelor's,64,2013-2014,12,30
+4409,Computer Science + X,Bachelor's,64,2015-2016,21,21
+4402,Computer Science,Bachelor's,64,2012-2013,27,21
+2535,Computer Science,Bachelor's,64,2011-2012,21,13
+4408,Computer Science + X,Bachelor's,64,2014-2015,13,25
+2543,Computer Science + X,Bachelor's,64,2011-2012,19,18
+2536,Computer Science + X,Bachelor's,64,2004-2005,,
+2537,Computer Science + X,Bachelor's,64,2005-2006,,
+2538,Computer Science + X,Bachelor's,64,2006-2007,,
+2539,Computer Science + X,Bachelor's,64,2007-2008,,
+2540,Computer Science + X,Bachelor's,64,2008-2009,,
+2541,Computer Science + X,Bachelor's,64,2009-2010,,
+2542,Computer Science + X,Bachelor's,64,2010-2011,,
+4401,Computer Science + X,Bachelor's,64,2010-2011,,
+2528,Computer Science,Bachelor's,64,2004-2005,,
+2529,Computer Science,Bachelor's,64,2005-2006,,
+2530,Computer Science,Bachelor's,64,2006-2007,,
+2531,Computer Science,Bachelor's,64,2007-2008,,
+2532,Computer Science,Bachelor's,64,2008-2009,,
+2533,Computer Science,Bachelor's,64,2009-2010,,
+2534,Computer Science,Bachelor's,64,2010-2011,,
+3876,Programming,Associate's,65,2004-2005,,
+3877,Programming,Associate's,65,2005-2006,,
+3878,Programming,Associate's,65,2006-2007,,
+3879,Programming,Associate's,65,2007-2008,,
+3880,Programming,Associate's,65,2008-2009,,
+3881,Programming,Associate's,65,2009-2010,,
+3882,Network Administration,Associate's,65,2004-2005,,
+3883,Network Administration,Associate's,65,2005-2006,,
+3884,Network Administration,Associate's,65,2006-2007,,
+3885,Network Administration,Associate's,65,2007-2008,,
+3886,Network Administration,Associate's,65,2008-2009,,
+3887,Network Administration,Associate's,65,2009-2010,,
+3888,Computer Support Specialist,Associate's,65,2004-2005,,
+3889,Computer Support Specialist,Associate's,65,2005-2006,,
+3890,Computer Support Specialist,Associate's,65,2006-2007,,
+3891,Computer Support Specialist,Associate's,65,2007-2008,,
+3892,Computer Support Specialist,Associate's,65,2008-2009,,
+3893,Computer Support Specialist,Associate's,65,2009-2010,,
+4370,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,68,2003-2004,41,72
+4371,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,68,2004-2005,25,59
+4372,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,68,2005-2006,34,33
+4373,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,68,2006-2007,25,27
+4374,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,68,2007-2008,35,10
+4375,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,68,2008-2009,43,22
+4376,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,68,2009-2010,41,9
+4377,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,68,2010-2011,50,24
+4378,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,68,2011-2012,62,31
+4379,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,68,2012-2013,96,33
+4380,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,68,2013-2014,150,43
+4381,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,68,2014-2015,142,55
+4382,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,68,2015-2016,150,111
+5238,Computer Technology,Bachelor's,7,2004-2005,,
+5239,Computer Technology,Bachelor's,7,2015-2016,,
+5236,Computer Science,Bachelor's,7,2004-2005,,
+5237,Computer Science,Bachelor's,7,2015-2016,,
+4873,Computer Science,Bachelor's,72,2016-2017,13,
+4877,Electrical Engineering,Bachelor's,72,2016-2017,8,
+4869,Computer Engineering,Bachelor's,72,2015-2016,7,3
+4870,Computer Engineering,Bachelor's,72,2016-2017,9,
+4876,Electrical Engineering,Bachelor's,72,2015-2016,3,8
+4872,Computer Science,Bachelor's,72,2015-2016,10,1
+1430,Computer Science,Bachelor's,72,2003-2004,,7
+1431,Computer Science,Bachelor's,72,2004-2005,,6
+1432,Computer Science,Bachelor's,72,2005-2006,,2
+1433,Computer Science,Bachelor's,72,2006-2007,3,2
+1434,Computer Science,Bachelor's,72,2007-2008,2,3
+1435,Computer Science,Bachelor's,72,2008-2009,5,1
+1436,Computer Science,Bachelor's,72,2009-2010,4,2
+1437,Computer Science,Bachelor's,72,2010-2011,4,3
+1438,Computer Science,Bachelor's,72,2011-2012,3,2
+1439,Computer Science,Bachelor's,72,2012-2013,7,3
+1969,Computer Science,Bachelor's,72,2013-2014,6,4
+1970,Computer Science,Bachelor's,72,2014-2015,17,5
+1420,Computer Engineering,Bachelor's,72,2003-2004,,15
+1421,Computer Engineering,Bachelor's,72,2004-2005,,15
+1422,Computer Engineering,Bachelor's,72,2005-2006,,16
+1423,Computer Engineering,Bachelor's,72,2006-2007,1,1
+1424,Computer Engineering,Bachelor's,72,2007-2008,7,3
+1425,Computer Engineering,Bachelor's,72,2008-2009,2,1
+1426,Computer Engineering,Bachelor's,72,2009-2010,4,2
+1427,Computer Engineering,Bachelor's,72,2010-2011,6,1
+1428,Computer Engineering,Bachelor's,72,2011-2012,1,1
+1429,Computer Engineering,Bachelor's,72,2012-2013,3,0
+4867,Computer Engineering,Bachelor's,72,2013-2014,6,1
+4868,Computer Engineering,Bachelor's,72,2014-2015,3,2
+1440,Electrical Engineering,Bachelor's,72,2003-2004,,12
+1441,Electrical Engineering,Bachelor's,72,2004-2005,,7
+1442,Electrical Engineering,Bachelor's,72,2005-2006,,6
+1443,Electrical Engineering,Bachelor's,72,2006-2007,2,2
+1444,Electrical Engineering,Bachelor's,72,2007-2008,1,5
+1445,Electrical Engineering,Bachelor's,72,2008-2009,4,9
+1446,Electrical Engineering,Bachelor's,72,2009-2010,10,3
+1447,Electrical Engineering,Bachelor's,72,2010-2011,6,2
+1448,Electrical Engineering,Bachelor's,72,2011-2012,2,8
+1449,Electrical Engineering,Bachelor's,72,2012-2013,4,2
+4874,Electrical Engineering,Bachelor's,72,2013-2014,2,3
+4875,Electrical Engineering,Bachelor's,72,2014-2015,7,3
+4057,General Engineering,Bachelor's,75,2010-2011,11,0
+4021,General Engineering,Bachelor's,75,2014-2015,29,0
+4033,General Engineering,Bachelor's,75,2012-2013,15,0
+4855,General Engineering ,Bachelor's,75,2015-2016,24,0
+4856,General Engineering ,Bachelor's,75,2016-2017,26,
+4857,Computer Science,Bachelor's,75,2016-2017,6,
+4027,General Engineering,Bachelor's,75,2013-2014,25,0
+4058,General Engineering,Bachelor's,75,2011-2012,19,0
+4858,Computer Science,Bachelor's,75,2015-2016,4,0
+4026,Computer Science,Bachelor's,75,2013-2014,6,1
+4020,Computer Science,Bachelor's,75,2014-2015,2,4
+4032,Computer Science,Bachelor's,75,2012-2013,1,1
+4039,Computer Science,Bachelor's,75,2011-2012,2,0
+4045,Computer Science,Bachelor's,75,2010-2011,1,0
+4051,Computer Science,Bachelor's,75,2009-2010,,1
+4052,General Engineering,Bachelor's,75,2009-2010,,0
+4022,Civil Engineering,Bachelor's,75,2014-2015,,
+4028,Civil Engineering,Bachelor's,75,2013-2014,,2
+4035,Civil Engineering,Bachelor's,75,2012-2013,,7
+4041,Civil Engineering,Bachelor's,75,2011-2012,,6
+4047,Civil Engineering,Bachelor's,75,2010-2011,,3
+4053,Civil Engineering,Bachelor's,75,2009-2010,,4
+4023,Computer Engineering,Bachelor's,75,2014-2015,,0
+4029,Computer Engineering,Bachelor's,75,2013-2014,,1
+4036,Computer Engineering,Bachelor's,75,2012-2013,,1
+4042,Computer Engineering,Bachelor's,75,2011-2012,,0
+4048,Computer Engineering,Bachelor's,75,2010-2011,,0
+4054,Computer Engineering,Bachelor's,75,2009-2010,,0
+4861,Computer Engineering,Bachelor's,75,2015-2016,,2
+4862,Computer Engineering,Bachelor's,75,2016-2017,,
+4024,Electrical Engineering,Bachelor's,75,2014-2015,,0
+4030,Electrical Engineering,Bachelor's,75,2013-2014,,5
+4037,Electrical Engineering,Bachelor's,75,2012-2013,,3
+4043,Electrical Engineering,Bachelor's,75,2011-2012,,4
+4049,Electrical Engineering,Bachelor's,75,2010-2011,,2
+4055,Electrical Engineering,Bachelor's,75,2009-2010,,3
+4859,Electrical Engineering,Bachelor's,75,2015-2016,,5
+4860,Electrical Engineering,Bachelor's,75,2016-2017,,
+4025,Mechanical Engineering,Bachelor's,75,2014-2015,,
+4031,Mechanical Engineering,Bachelor's,75,2013-2014,,3
+4038,Mechanical Engineering,Bachelor's,75,2012-2013,,3
+4044,Mechanical Engineering,Bachelor's,75,2011-2012,,3
+4050,Mechanical Engineering,Bachelor's,75,2010-2011,,5
+4056,Mechanical Engineering,Bachelor's,75,2009-2010,,8
+3663,Computer Information Systems,Bachelor's,78,2004-2005,,
+3664,Computer Information Systems,Bachelor's,78,2005-2006,,
+3665,Computer Information Systems,Bachelor's,78,2006-2007,,
+3666,Computer Information Systems,Bachelor's,78,2007-2008,,
+3667,Computer Information Systems,Bachelor's,78,2008-2009,,
+3668,Computer Information Systems,Bachelor's,78,2009-2010,,
+3669,Computer Information Systems,Bachelor's,78,2010-2011,,
+3562,Computer Information Systems,Bachelor's,82,2004-2005,,
+3563,Computer Information Systems,Bachelor's,82,2005-2006,,
+3564,Computer Information Systems,Bachelor's,82,2006-2007,,
+3565,Computer Information Systems,Bachelor's,82,2007-2008,,
+3566,Computer Information Systems,Bachelor's,82,2008-2009,,
+3567,Computer Information Systems,Bachelor's,82,2009-2010,,
+3568,Computer Information Systems,Bachelor's,82,2010-2011,,
+3569,Computer Information Systems,Bachelor's,82,2011-2012,,
+1488,Computer Science,Bachelor's,82,2008-2009,19,
+1489,Computer Science,Bachelor's,82,2009-2010,26,4
+1490,Computer Science,Bachelor's,82,2010-2011,33,7
+1491,Computer Science,Bachelor's,82,2011-2012,25,7
+1492,Computer Science,Bachelor's,82,2012-2013,38,20
+3554,Computer Science,Bachelor's,82,2004-2005,,
+3555,Computer Science,Bachelor's,82,2005-2006,,
+3556,Computer Science,Bachelor's,82,2006-2007,,
+3557,Computer Science,Bachelor's,82,2007-2008,,
+3570,Information Technology Management,Bachelor's,82,2005-2006,,
+3571,Information Technology Management,Bachelor's,82,2006-2007,,
+3572,Information Technology Management,Bachelor's,82,2007-2008,,
+3573,Information Technology Management,Bachelor's,82,2008-2009,,
+3574,Information Technology Management,Bachelor's,82,2009-2010,,
+3575,Information Technology Management,Bachelor's,82,2010-2011,,
+3576,Information Technology Management,Bachelor's,82,2011-2012,,
+1483,Computer Engineering,Bachelor's,82,2008-2009,6,
+1484,Computer Engineering,Bachelor's,82,2009-2010,8,5
+1485,Computer Engineering,Bachelor's,82,2010-2011,16,2
+1486,Computer Engineering,Bachelor's,82,2011-2012,6,1
+1487,Computer Engineering,Bachelor's,82,2012-2013,19,4
+3577,Computer Engineering,Bachelor's,82,2004-2005,,
+3578,Computer Engineering,Bachelor's,82,2005-2006,,
+3579,Computer Engineering,Bachelor's,82,2006-2007,,
+3580,Computer Engineering,Bachelor's,82,2007-2008,,
+1493,Mechanical Engineering,Bachelor's,82,2008-2009,10,
+1494,Mechanical Engineering,Bachelor's,82,2009-2010,10,5
+1495,Mechanical Engineering,Bachelor's,82,2010-2011,10,10
+1496,Mechanical Engineering,Bachelor's,82,2011-2012,20,9
+1497,Mechanical Engineering,Bachelor's,82,2012-2013,23,13
+1906,Computer Science,Bachelor's,83,2013-2014,25,17
+4450,Computer Science,Bachelor's,83,2014-2015,,
+1903,Computer Engineering,Bachelor's,83,2013-2014,12,5
+1905,Electrical Engineering,Bachelor's,83,2013-2014,7,16
+1904,Mechanical Engineering,Bachelor's,83,2013-2014,11,16
+4766,Computer Science,Bachelor's,84,2015-2016,,7
+1255,Applied Information Technology,Bachelor's,85,2009-2010,60,26
+1256,Applied Information Technology,Bachelor's,85,2010-2011,63,21
+1257,Applied Information Technology,Bachelor's,85,2011-2012,50,33
+1258,Applied Information Technology,Bachelor's,85,2012-2013,65,36
+2010,Applied Information Technology,Bachelor's,85,2013-2014,49,34
+2507,Computer Science,Bachelor's,85,2007-2008,,
+2508,Computer Science,Bachelor's,85,2008-2009,,
+2509,Computer Science,Bachelor's,85,2004-2005,,
+2510,Computer Science,Bachelor's,85,2005-2006,,
+2511,Computer Science,Bachelor's,85,2006-2007,,
+2512,Computer Science,Bachelor's,85,2007-2008,,
+2513,Computer Science,Bachelor's,85,2008-2009,,
+1259,Computer Engineering,Bachelor's,85,2009-2010,8,0
+1260,Computer Engineering,Bachelor's,85,2010-2011,6,3
+1261,Computer Engineering,Bachelor's,85,2011-2012,7,2
+1262,Computer Engineering,Bachelor's,85,2012-2013,9,4
+2012,Computer Engineering,Bachelor's,85,2013-2014,2,3
+2514,Computer Engineering,Bachelor's,85,2004-2005,,
+2515,Computer Engineering,Bachelor's,85,2005-2006,,
+2516,Computer Engineering,Bachelor's,85,2006-2007,,
+2517,Computer Engineering,Bachelor's,85,2007-2008,,
+2518,Computer Engineering,Bachelor's,85,2008-2009,,
+1263,Electrical Engineering,Bachelor's,85,2009-2010,14,9
+1264,Electrical Engineering,Bachelor's,85,2010-2011,7,6
+1265,Electrical Engineering,Bachelor's,85,2011-2012,8,5
+1266,Electrical Engineering,Bachelor's,85,2012-2013,21,9
+2011,Electrical Engineering,Bachelor's,85,2013-2014,8,4
+2866,Computer Science,Bachelor's,87,2004-2005,,
+2867,Computer Science,Bachelor's,87,2005-2006,,
+2868,Computer Science,Bachelor's,87,2006-2007,,
+2869,Computer Science,Bachelor's,87,2007-2008,,
+2870,Computer Science,Bachelor's,87,2008-2009,,
+2871,Computer Science,Bachelor's,87,2009-2010,,
+4903,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,88,2016-2017,54,
+4902,Computer Science,Bachelor's,88,2016-2017,185,
+4395,Computer Science,Bachelor's,88,2015-2016,236,120
+2079,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,88,2008-2009,39,
+2080,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,88,2009-2010,34,
+2081,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,88,2010-2011,28,21
+2082,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,88,2011-2012,18,35
+2083,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,88,2012-2013,23,40
+2084,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,88,2013-2014,30,42
+2085,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,88,2014-2015,32,51
+4397,CS and/or Eng Multiple Majors (data submitted in aggregation),Bachelor's,88,2015-2016,39,40
+3454,Computer Science,Bachelor's,88,2004-2005,,
+3455,Computer Science,Bachelor's,88,2005-2006,,
+3456,Computer Science,Bachelor's,88,2006-2007,,
+3457,Computer Science,Bachelor's,88,2007-2008,,
+3458,Computer Science,Bachelor's,88,2008-2009,,
+3459,Computer Science,Bachelor's,88,2009-2010,,
+4388,Computer Science,Bachelor's,88,2010-2011,10,17
+4389,Computer Science,Bachelor's,88,2011-2012,21,24
+4391,Computer Science,Bachelor's,88,2012-2013,24,40
+4393,Computer Science,Bachelor's,88,2013-2014,47,43
+4394,Computer Science,Bachelor's,88,2014-2015,60,76
+3670,Computer Science,Bachelor's,9,2004-2005,,
+3671,Computer Science,Bachelor's,9,2005-2006,,
+3672,Computer Science,Bachelor's,9,2006-2007,,
+3673,Computer Science,Bachelor's,9,2007-2008,,
+3674,Computer Science,Bachelor's,9,2008-2009,,
+3675,Computer Science,Bachelor's,9,2009-2010,,
+3676,Computer Science,Bachelor's,9,2010-2011,,
+3677,Computer Science,Bachelor's,9,2004-2005,,
+3678,Computer Science,Bachelor's,9,2005-2006,,
+3679,Computer Science,Bachelor's,9,2006-2007,,
+3680,Computer Science,Bachelor's,9,2007-2008,,
+3681,Computer Science,Bachelor's,9,2008-2009,,
+3682,Computer Science,Bachelor's,9,2009-2010,,
+3683,Computer Science,Bachelor's,9,2010-2011,,
+3684,Computer Science,Bachelor's,9,2011-2012,,
+4720,Computer Science,Bachelor's,90,2015-2016,,
+3286,Computer Science,Bachelor's,91,2004-2005,,
+3287,Computer Science,Bachelor's,91,2005-2006,,
+3288,Computer Science,Bachelor's,91,2006-2007,,
+3289,Computer Science,Bachelor's,91,2007-2008,,
+3290,Computer Science,Bachelor's,91,2008-2009,,
+3291,Computer Science,Bachelor's,91,2009-2010,,
+3292,Computer Science,Bachelor's,91,2010-2011,,
+3293,Computer Science,Bachelor's,91,2011-2012,,
+5049,Computer Science,Bachelor's,91,2015-2016,,4
+4548,Web Design ,Bachelor's,97,2015-2016,,
+4893,Web Design ,Bachelor's,97,2010-2011,,0
+4894,Web Design ,Bachelor's,97,2011-2012,,7
+4895,Web Design ,Bachelor's,97,2012-2013,,4
+4896,Web Design ,Bachelor's,97,2013-2014,,9
+4897,Web Design ,Bachelor's,97,2014-2015,,3
+4898,Web Design ,Bachelor's,97,2016-2017,,
+1414,Computer Engineering,Bachelor'ss,97,2004-2005,0,7
+1415,Computer Engineering,Bachelor'ss,97,2005-2006,3,3
+1416,Computer Engineering,Bachelor'ss,97,2006-2007,3,3
+1417,Computer Engineering,Bachelor'ss,97,2007-2008,5,1
+1418,Computer Engineering,Bachelor'ss,97,2008-2009,2,0
+1419,Computer Engineering,Bachelor'ss,97,2009-2010,3,4
+4886,Computer Engineering,Bachelor'ss,97,2010-2011,,6
+4887,Computer Engineering,Bachelor's,97,2011-2012,,3
+4888,Computer Engineering,Bachelor's,97,2012-2013,,6
+4889,Computer Engineering,Bachelor's,97,2013-2014,,10
+4890,Computer Engineering,Bachelor's,97,2014-2015,,4
+4891,Computer Engineering,Bachelor's,97,2015-2016,,
+4892,Computer Engineering,Bachelor's,97,2016-2017,20,

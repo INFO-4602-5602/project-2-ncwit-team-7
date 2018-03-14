@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Bokeh Plot</title>
+        
+<link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-0.12.14.min.css" type="text/css" />
+        
+<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-0.12.14.min.js"></script>
+<script type="text/javascript">
+    Bokeh.set_log_level("info");
+</script>
+    </head>
+    <body>
+        
+        <div class="bk-root">
+            <div class="bk-plotdiv" id="fd4d1f1e-77d2-4bfc-82fe-7a7bdd114d8f"></div>
+        </div>
+        
+        <script type="application/json" id="cc16f6d0-67db-4603-be47-890fec454b05">
+          {"6f3fb313-c513-4ffc-8b5b-054969cd67d9":{"roots":{"references":[{"attributes":{"line_color":"red","line_width":2,"x":{"field":"x"},"y":{"field":"y"}},"id":"775a0f97-25ef-450e-8537-847486a815d1","type":"Line"},{"attributes":{},"id":"92b718cc-18ca-4d2f-a47d-e8d4434de958","type":"HelpTool"},{"attributes":{},"id":"b392769a-e5b2-411f-9c1c-3487b502a9fd","type":"CategoricalTicker"},{"attributes":{"label":{"value":"Female: Graduated"},"renderers":[{"id":"b0ffb2c4-6ef7-4eee-b4f7-ce0468e788fe","type":"GlyphRenderer"}]},"id":"3ff46a58-1163-496c-8d78-c1fd6f0c1a6e","type":"LegendItem"},{"attributes":{},"id":"61cc7920-6a0a-4ae6-92b3-f869d5e678a8","type":"CategoricalScale"},{"attributes":{"items":[{"id":"88186f95-495f-473c-97d1-7a638455c1c9","type":"LegendItem"},{"id":"3ff46a58-1163-496c-8d78-c1fd6f0c1a6e","type":"LegendItem"}],"plot":{"id":"63411883-5546-4c3f-bea9-062a426463a9","subtype":"Figure","type":"Plot"}},"id":"a40b96db-7fe4-424a-90a3-1ffa63cf71a3","type":"Legend"},{"attributes":{"label":{"value":"Female: New Enrollments"},"renderers":[{"id":"5c3d6ff4-4259-49b1-872e-40ba5ef1d3a5","type":"GlyphRenderer"}]},"id":"88186f95-495f-473c-97d1-7a638455c1c9","type":"LegendItem"},{"attributes":{"plot":null,"text":"Examining Enrollment and Graduation Totals of Female Students"},"id":"a2b859de-7564-4e42-8245-f4a93b66438b","type":"Title"},{"attributes":{"data_source":{"id":"5ebf1777-c47a-4b2e-8e0f-4d920c46925f","type":"ColumnDataSource"},"glyph":{"id":"775a0f97-25ef-450e-8537-847486a815d1","type":"Line"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"c5d18e52-d0cc-4073-8838-72de76e13301","type":"Line"},"selection_glyph":null,"view":{"id":"ac995617-f37a-4c86-a95d-9fa39125f0c1","type":"CDSView"}},"id":"b0ffb2c4-6ef7-4eee-b4f7-ce0468e788fe","type":"GlyphRenderer"},{"attributes":{"callback":null},"id":"a4729e69-0879-4c7c-a539-cdc2649784b2","type":"DataRange1d"},{"attributes":{"callback":null,"factors":["2003-2004","2004-2005","2005-2006","2006-2007","2007-2008","2008-2009","2009-2010","2010-2011","2011-2012","2012-2013","2013-2014","2014-2015","2015-2016","2016-2017"]},"id":"3b26fbb5-f973-4024-9e0c-655fc8097517","type":"FactorRange"},{"attributes":{},"id":"c849cd7d-0f1e-458d-96e6-4fd922e8ec1d","type":"LinearScale"},{"attributes":{"line_alpha":0.1,"line_color":"#1f77b4","line_width":2,"x":{"field":"x"},"y":{"field":"y"}},"id":"5566c4f4-281d-4872-861f-8924f37b893c","type":"Line"},{"attributes":{},"id":"90a4f42f-2ad5-4e1e-b735-caa3bc6aeea2","type":"BasicTickFormatter"},{"attributes":{},"id":"468184a1-ff12-472f-b319-18138efaab38","type":"BasicTicker"},{"attributes":{"callback":null,"column_names":["y","x"],"data":{"x":["2003-2004","2004-2005","2005-2006","2006-2007","2007-2008","2008-2009","2009-2010","2010-2011","2011-2012","2012-2013","2013-2014","2014-2015","2015-2016","2016-2017"],"y":[379,364,406,524,519,811,1154,1423,1652,1987,2204,2526,2133,1393]}},"id":"df43f969-8f7f-4704-a1ad-3d4a4ef3ed01","type":"ColumnDataSource"},{"attributes":{"axis_label":"Total Students","formatter":{"id":"90a4f42f-2ad5-4e1e-b735-caa3bc6aeea2","type":"BasicTickFormatter"},"plot":{"id":"63411883-5546-4c3f-bea9-062a426463a9","subtype":"Figure","type":"Plot"},"ticker":{"id":"468184a1-ff12-472f-b319-18138efaab38","type":"BasicTicker"}},"id":"76621dad-414e-4db6-abb0-2b431fdfa1f0","type":"LinearAxis"},{"attributes":{"axis_label":"School Year","formatter":{"id":"4e728321-ad9c-4dc3-951f-dc099e2e1317","type":"CategoricalTickFormatter"},"plot":{"id":"63411883-5546-4c3f-bea9-062a426463a9","subtype":"Figure","type":"Plot"},"ticker":{"id":"b392769a-e5b2-411f-9c1c-3487b502a9fd","type":"CategoricalTicker"}},"id":"0c1c8d8d-7893-478e-a82d-5926475a56a5","type":"CategoricalAxis"},{"attributes":{},"id":"0e37bb13-05b7-4618-a6eb-f83e41f132de","type":"WheelZoomTool"},{"attributes":{"line_color":"#1f77b4","line_width":2,"x":{"field":"x"},"y":{"field":"y"}},"id":"b308eca0-955d-44ce-9d4e-11bb1308c442","type":"Line"},{"attributes":{"line_alpha":0.1,"line_color":"#1f77b4","line_width":2,"x":{"field":"x"},"y":{"field":"y"}},"id":"c5d18e52-d0cc-4073-8838-72de76e13301","type":"Line"},{"attributes":{"active_drag":"auto","active_inspect":"auto","active_scroll":"auto","active_tap":"auto","tools":[{"id":"ce2c4cf3-dd64-446e-a589-5ca5c2e140c5","type":"PanTool"},{"id":"0e37bb13-05b7-4618-a6eb-f83e41f132de","type":"WheelZoomTool"},{"id":"f8d5e2fc-be68-4d33-81b9-24bcab5370b3","type":"BoxZoomTool"},{"id":"cf1aaea8-17e2-4fd3-8381-19cd79e58787","type":"SaveTool"},{"id":"e21a456f-d686-4c27-a81a-7adf84820702","type":"ResetTool"},{"id":"92b718cc-18ca-4d2f-a47d-e8d4434de958","type":"HelpTool"}]},"id":"9d19ca88-86c2-48b5-8126-8a023bc60774","type":"Toolbar"},{"attributes":{"plot":{"id":"63411883-5546-4c3f-bea9-062a426463a9","subtype":"Figure","type":"Plot"},"ticker":{"id":"b392769a-e5b2-411f-9c1c-3487b502a9fd","type":"CategoricalTicker"}},"id":"6af68927-c7d8-4560-9836-2023ac1cea4d","type":"Grid"},{"attributes":{"source":{"id":"df43f969-8f7f-4704-a1ad-3d4a4ef3ed01","type":"ColumnDataSource"}},"id":"d742062e-98e1-45e9-a6c0-7c080a710c1f","type":"CDSView"},{"attributes":{},"id":"e21a456f-d686-4c27-a81a-7adf84820702","type":"ResetTool"},{"attributes":{},"id":"cf1aaea8-17e2-4fd3-8381-19cd79e58787","type":"SaveTool"},{"attributes":{},"id":"4e728321-ad9c-4dc3-951f-dc099e2e1317","type":"CategoricalTickFormatter"},{"attributes":{"below":[{"id":"0c1c8d8d-7893-478e-a82d-5926475a56a5","type":"CategoricalAxis"}],"left":[{"id":"76621dad-414e-4db6-abb0-2b431fdfa1f0","type":"LinearAxis"}],"plot_height":500,"plot_width":940,"renderers":[{"id":"0c1c8d8d-7893-478e-a82d-5926475a56a5","type":"CategoricalAxis"},{"id":"6af68927-c7d8-4560-9836-2023ac1cea4d","type":"Grid"},{"id":"76621dad-414e-4db6-abb0-2b431fdfa1f0","type":"LinearAxis"},{"id":"c1d591e7-c84a-4310-b7b7-387a1a719df8","type":"Grid"},{"id":"e6336b31-f6f0-40f2-bf84-2e8d81dc8885","type":"BoxAnnotation"},{"id":"a40b96db-7fe4-424a-90a3-1ffa63cf71a3","type":"Legend"},{"id":"5c3d6ff4-4259-49b1-872e-40ba5ef1d3a5","type":"GlyphRenderer"},{"id":"b0ffb2c4-6ef7-4eee-b4f7-ce0468e788fe","type":"GlyphRenderer"}],"title":{"id":"a2b859de-7564-4e42-8245-f4a93b66438b","type":"Title"},"toolbar":{"id":"9d19ca88-86c2-48b5-8126-8a023bc60774","type":"Toolbar"},"x_range":{"id":"3b26fbb5-f973-4024-9e0c-655fc8097517","type":"FactorRange"},"x_scale":{"id":"61cc7920-6a0a-4ae6-92b3-f869d5e678a8","type":"CategoricalScale"},"y_range":{"id":"a4729e69-0879-4c7c-a539-cdc2649784b2","type":"DataRange1d"},"y_scale":{"id":"c849cd7d-0f1e-458d-96e6-4fd922e8ec1d","type":"LinearScale"}},"id":"63411883-5546-4c3f-bea9-062a426463a9","subtype":"Figure","type":"Plot"},{"attributes":{"overlay":{"id":"e6336b31-f6f0-40f2-bf84-2e8d81dc8885","type":"BoxAnnotation"}},"id":"f8d5e2fc-be68-4d33-81b9-24bcab5370b3","type":"BoxZoomTool"},{"attributes":{"callback":null,"column_names":["y","x"],"data":{"x":["2003-2004","2004-2005","2005-2006","2006-2007","2007-2008","2008-2009","2009-2010","2010-2011","2011-2012","2012-2013","2013-2014","2014-2015","2015-2016","2016-2017"],"y":[203,313,294,241,225,312,602,828,1093,1146,1440,1299,1073,0]}},"id":"5ebf1777-c47a-4b2e-8e0f-4d920c46925f","type":"ColumnDataSource"},{"attributes":{"data_source":{"id":"df43f969-8f7f-4704-a1ad-3d4a4ef3ed01","type":"ColumnDataSource"},"glyph":{"id":"b308eca0-955d-44ce-9d4e-11bb1308c442","type":"Line"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"5566c4f4-281d-4872-861f-8924f37b893c","type":"Line"},"selection_glyph":null,"view":{"id":"d742062e-98e1-45e9-a6c0-7c080a710c1f","type":"CDSView"}},"id":"5c3d6ff4-4259-49b1-872e-40ba5ef1d3a5","type":"GlyphRenderer"},{"attributes":{"dimension":1,"plot":{"id":"63411883-5546-4c3f-bea9-062a426463a9","subtype":"Figure","type":"Plot"},"ticker":{"id":"468184a1-ff12-472f-b319-18138efaab38","type":"BasicTicker"}},"id":"c1d591e7-c84a-4310-b7b7-387a1a719df8","type":"Grid"},{"attributes":{"bottom_units":"screen","fill_alpha":{"value":0.5},"fill_color":{"value":"lightgrey"},"left_units":"screen","level":"overlay","line_alpha":{"value":1.0},"line_color":{"value":"black"},"line_dash":[4,4],"line_width":{"value":2},"plot":null,"render_mode":"css","right_units":"screen","top_units":"screen"},"id":"e6336b31-f6f0-40f2-bf84-2e8d81dc8885","type":"BoxAnnotation"},{"attributes":{"source":{"id":"5ebf1777-c47a-4b2e-8e0f-4d920c46925f","type":"ColumnDataSource"}},"id":"ac995617-f37a-4c86-a95d-9fa39125f0c1","type":"CDSView"},{"attributes":{},"id":"ce2c4cf3-dd64-446e-a589-5ca5c2e140c5","type":"PanTool"}],"root_ids":["63411883-5546-4c3f-bea9-062a426463a9"]},"title":"Bokeh Application","version":"0.12.14"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('cc16f6d0-67db-4603-be47-890fec454b05').textContent;
+                  var render_items = [{"docid":"6f3fb313-c513-4ffc-8b5b-054969cd67d9","elementid":"fd4d1f1e-77d2-4bfc-82fe-7a7bdd114d8f","modelid":"63411883-5546-4c3f-bea9-062a426463a9"}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        embed_document(root);
+                        clearInterval(timer);
+                      }
+                      attempts++;
+                      if (attempts > 100) {
+                        console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing")
+                        clearInterval(timer);
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    </body>
+</html>
