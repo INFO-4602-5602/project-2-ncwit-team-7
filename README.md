@@ -17,7 +17,7 @@ This visualization was built with Python3.
   <li>Download Python Module - bokeh using pip</li>
   <li>To run the Enrollments and Graduation Visualization: In command line run python vis_start.py</li>
   <li>To run Major Decleration Visualization: In command line run python TypicalDeclerationPY.py</li>
-  <li>To run Racial Comparisons Visualization: In command line run python racial.csv</li>
+  <li>To run Racial Comparisons Visualization: In command line run python racial_vis_start.csv</li>
   <li>This will generate all the required html files (these should already be included in the repository)</li>
 </ol>
 
